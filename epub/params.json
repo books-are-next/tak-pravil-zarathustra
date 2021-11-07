@@ -36,27 +36,27 @@
             "filename": "section0001.md",
             "xhtml": "Section0001.xhtml",
             "id": 0,
-            "role": "chapter",
+            "role": "break",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
             "filename": "section0002.md",
             "xhtml": "Section0002.xhtml",
             "id": 1,
-            "role": "chapter",
+            "role": "colophon",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
             "filename": "section0003.md",
             "xhtml": "Section0003.xhtml",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
@@ -828,9 +828,9 @@
             "filename": "section0089.md",
             "xhtml": "Section0089.xhtml",
             "id": 88,
-            "role": "chapter",
+            "role": "colophon",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           }
         ]
@@ -842,9 +842,7 @@
       "title": "Tak pravil Zarathustra",
       "identifier": "b185b07f-4b09-47fa-b45d-4f45e7cda15b",
       "author": "Friedrich Nitzsche",
-      "modified": "2021-11-07T15:56:31.105Z",
-      "languageCode": "cs",
-      "publisher": "Městská knihovna v Praze"
+      "modified": "2021-11-07T16:03:01.359Z"
     },
     "chapters": [
       {
@@ -1412,6 +1410,6 @@
       "user": "books-are-next",
       "repo": "tak-pravil-zarathustra"
     },
-    "generatedAt": 1636300591765
+    "generatedAt": 1636300982247
   }
 }
