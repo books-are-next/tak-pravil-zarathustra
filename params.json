@@ -1,0 +1,577 @@
+{
+  "epub": {
+    "metadata": {
+      "title": "Tak pravil Zarathustra",
+      "identifier": "b185b07f-4b09-47fa-b45d-4f45e7cda15b",
+      "author": "Friedrich Nitzsche",
+      "modified": "2021-11-07T15:56:31.105Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0001.md",
+        "xhtml": "Section0001.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0002.md",
+        "xhtml": "Section0002.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0003.md",
+        "xhtml": "Section0003.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0004.md",
+        "xhtml": "Section0004.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0005.md",
+        "xhtml": "Section0005.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0006.md",
+        "xhtml": "Section0006.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0007.md",
+        "xhtml": "Section0007.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0008.md",
+        "xhtml": "Section0008.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0009.md",
+        "xhtml": "Section0009.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0010.md",
+        "xhtml": "Section0010.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0011.md",
+        "xhtml": "Section0011.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0012.md",
+        "xhtml": "Section0012.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0013.md",
+        "xhtml": "Section0013.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0014.md",
+        "xhtml": "Section0014.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0015.md",
+        "xhtml": "Section0015.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0016.md",
+        "xhtml": "Section0016.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0017.md",
+        "xhtml": "Section0017.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0018.md",
+        "xhtml": "Section0018.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0019.md",
+        "xhtml": "Section0019.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0020.md",
+        "xhtml": "Section0020.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0021.md",
+        "xhtml": "Section0021.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0022.md",
+        "xhtml": "Section0022.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0023.md",
+        "xhtml": "Section0023.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0024.md",
+        "xhtml": "Section0024.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0025.md",
+        "xhtml": "Section0025.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0026.md",
+        "xhtml": "Section0026.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0027.md",
+        "xhtml": "Section0027.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0028.md",
+        "xhtml": "Section0028.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0029.md",
+        "xhtml": "Section0029.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0030.md",
+        "xhtml": "Section0030.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0031.md",
+        "xhtml": "Section0031.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0032.md",
+        "xhtml": "Section0032.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0033.md",
+        "xhtml": "Section0033.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0034.md",
+        "xhtml": "Section0034.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0035.md",
+        "xhtml": "Section0035.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0036.md",
+        "xhtml": "Section0036.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0037.md",
+        "xhtml": "Section0037.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0038.md",
+        "xhtml": "Section0038.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0039.md",
+        "xhtml": "Section0039.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0040.md",
+        "xhtml": "Section0040.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0041.md",
+        "xhtml": "Section0041.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0042.md",
+        "xhtml": "Section0042.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0043.md",
+        "xhtml": "Section0043.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0044.md",
+        "xhtml": "Section0044.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0045.md",
+        "xhtml": "Section0045.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0046.md",
+        "xhtml": "Section0046.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0047.md",
+        "xhtml": "Section0047.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0048.md",
+        "xhtml": "Section0048.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0049.md",
+        "xhtml": "Section0049.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0050.md",
+        "xhtml": "Section0050.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0051.md",
+        "xhtml": "Section0051.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0052.md",
+        "xhtml": "Section0052.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0053.md",
+        "xhtml": "Section0053.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0054.md",
+        "xhtml": "Section0054.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0055.md",
+        "xhtml": "Section0055.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0056.md",
+        "xhtml": "Section0056.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0057.md",
+        "xhtml": "Section0057.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0058.md",
+        "xhtml": "Section0058.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0059.md",
+        "xhtml": "Section0059.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0060.md",
+        "xhtml": "Section0060.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0061.md",
+        "xhtml": "Section0061.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0062.md",
+        "xhtml": "Section0062.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0063.md",
+        "xhtml": "Section0063.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0064.md",
+        "xhtml": "Section0064.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0065.md",
+        "xhtml": "Section0065.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0066.md",
+        "xhtml": "Section0066.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0067.md",
+        "xhtml": "Section0067.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0068.md",
+        "xhtml": "Section0068.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0069.md",
+        "xhtml": "Section0069.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0070.md",
+        "xhtml": "Section0070.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0071.md",
+        "xhtml": "Section0071.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0072.md",
+        "xhtml": "Section0072.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0073.md",
+        "xhtml": "Section0073.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0074.md",
+        "xhtml": "Section0074.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0075.md",
+        "xhtml": "Section0075.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0076.md",
+        "xhtml": "Section0076.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0077.md",
+        "xhtml": "Section0077.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0078.md",
+        "xhtml": "Section0078.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0079.md",
+        "xhtml": "Section0079.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0080.md",
+        "xhtml": "Section0080.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0081.md",
+        "xhtml": "Section0081.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0082.md",
+        "xhtml": "Section0082.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0083.md",
+        "xhtml": "Section0083.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0084.md",
+        "xhtml": "Section0084.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0085.md",
+        "xhtml": "Section0085.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0086.md",
+        "xhtml": "Section0086.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0087.md",
+        "xhtml": "Section0087.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0088.md",
+        "xhtml": "Section0088.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0089.md",
+        "xhtml": "Section0089.xhtml"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/88x31.png"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka_tak_pravil_zarathustra.jpg"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/pd-88x31.png"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+      }
+    ],
+    "classes": [
+      "sgc-4",
+      "sigilChapterBreak"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "tak-pravil-zarathustra"
+    },
+    "generatedAt": 1636300591765
+  }
+}

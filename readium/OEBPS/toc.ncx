@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+   "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+    <head>
+        <meta name="dtb:uid" content="b185b07f-4b09-47fa-b45d-4f45e7cda15b"/>
+        <meta name="dtb:depth" content="3"/>
+        <meta name="dtb:totalPageCount" content="0"/>
+        <meta name="dtb:maxPageNumber" content="0"/>
+    </head>
+    <docTitle>
+        <text>Tak pravil Zarathustra</text>
+    </docTitle>
+    <navMap>
+        <navPoint id="navPoint-1" playOrder="1">
+            <navLabel>
+                <text>ZARATHUSTROVA PŘEDMLUVA.</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-2" playOrder="2">
+            <navLabel>
+                <text>O NADČLOVĚKU A POSLEDNÍM ČLOVĚKU</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml#heading_id_3"/>
+            <navPoint id="navPoint-3" playOrder="3">
+                <navLabel>
+                    <text>ZARATHUSTROVY ŘEČI</text>
+                </navLabel>
+                <content src="Text/Section0005.xhtml"/>
+                <navPoint id="navPoint-4" playOrder="4">
+                    <navLabel>
+                        <text>O TŘECH PROMĚNÁCH.</text>
+                    </navLabel>
+                    <content src="Text/Section0005.xhtml#heading_id_3"/>
+                </navPoint>
+                <navPoint id="navPoint-5" playOrder="5">
+                    <navLabel>
+                        <text>O UČEBNÁCH CTNOSTI.</text>
+                    </navLabel>
+                    <content src="Text/Section0006.xhtml"/>
+                </navPoint>
+                <navPoint id="navPoint-6" playOrder="6">
+                    <navLabel>
+                        <text>O ZAHROBNÍCÍCH.</text>
+                    </navLabel>
+                    <content src="Text/Section0007.xhtml"/>
+                </navPoint>
+                <navPoint id="navPoint-7" playOrder="7">
+                    <navLabel>
+                        <text>O TĚCH, KDOŽ POVRHUJI TĚLEM.</text>
+                    </navLabel>
+                    <content src="Text/Section0008.xhtml"/>
+                </navPoint>
+                <navPoint id="navPoint-8" playOrder="8">
+                    <navLabel>
+                        <text>O VÁŠNÍCH RADOSTNÝCH A BOLESTNÝCH.</text>
+                    </navLabel>
+                    <content src="Text/Section0009.xhtml"/>
+                </navPoint>
+                <navPoint id="navPoint-9" playOrder="9">
+                    <navLabel>
+                        <text>O BLEDÉM ZLOČINCI.</text>
+                    </navLabel>
+                    <content src="Text/Section0010.xhtml"/>
+                </navPoint>
+                <navPoint id="navPoint-10" playOrder="10">
+                    <navLabel>
+                        <text>O ČTENÍ A PSANÍ.</text>
+                    </navLabel>
+                    <content src="Text/Section0011.xhtml"/>
+                </navPoint>
+                <navPoint id="navPoint-11" playOrder="11">
+                    <navLabel>
+                        <text>O STROMU NA HOŘE.</text>
+                    </navLabel>
+                    <content src="Text/Section0012.xhtml"/>
+                </navPoint>
+                <navPoint id="navPoint-12" playOrder="12">
+                    <navLabel>
+                        <text>O KAZATELÍCH SMRTI.</text>
+                    </navLabel>
+                    <content src="Text/Section0013.xhtml"/>
+                </navPoint>
+                <navPoint id="navPoint-13" playOrder="13">
+                    <navLabel>
+                        <text>O VÁLCE A VÁLEČNÉM LIDU.</text>
+                    </navLabel>
+                    <content src="Text/Section0014.xhtml"/>
+                </navPoint>
+                <navPoint id="navPoint-14" playOrder="14">
+                    <navLabel>
+                        <text>O NOVÉ MODLE</text>
+                    </navLabel>
+                    <content src="Text/Section0015.xhtml"/>
+                </navPoint>
+                <navPoint id="navPoint-15" playOrder="15">
+                    <navLabel>
+                        <text>O MOUCHÁCH NA TRHU.</text>
+                    </navLabel>
+                    <content src="Text/Section0016.xhtml"/>
+                </navPoint>
+                <navPoint id="navPoint-16" playOrder="16">
+                    <navLabel>
+                        <text>O CUDNOSTI.</text>
+                    </navLabel>
+                    <content src="Text/Section0017.xhtml"/>
+                </navPoint>
+                <navPoint id="navPoint-17" playOrder="17">
+                    <navLabel>
+                        <text>O PŘÍTELI.</text>
+                    </navLabel>
+                    <content src="Text/Section0018.xhtml"/>
+                </navPoint>
+                <navPoint id="navPoint-18" playOrder="18">
+                    <navLabel>
+                        <text>O TISÍCI A JEDNOM CÍLI.</text>
+                    </navLabel>
+                    <content src="Text/Section0019.xhtml"/>
+                </navPoint>
+                <navPoint id="navPoint-19" playOrder="19">
+                    <navLabel>
+                        <text>O LÁSCE K BLIŽNÍMU.</text>
+                    </navLabel>
+                    <content src="Text/Section0020.xhtml"/>
+                </navPoint>
+                <navPoint id="navPoint-20" playOrder="20">
+                    <navLabel>
+                        <text>O CESTĚ TVŮRČÍHO.</text>
+                    </navLabel>
+                    <content src="Text/Section0021.xhtml"/>
+                </navPoint>
+                <navPoint id="navPoint-21" playOrder="21">
+                    <navLabel>
+                        <text>STARÝCH I MLADÝCH ŽENKÁCH.</text>
+                    </navLabel>
+                    <content src="Text/Section0022.xhtml"/>
+                </navPoint>
+                <navPoint id="navPoint-22" playOrder="22">
+                    <navLabel>
+                        <text>O UŠTKNUTÍ ZMIJE.</text>
+                    </navLabel>
+                    <content src="Text/Section0023.xhtml"/>
+                </navPoint>
+                <navPoint id="navPoint-23" playOrder="23">
+                    <navLabel>
+                        <text>O DÍTĚTI A MANŽELSTVÍ.</text>
+                    </navLabel>
+                    <content src="Text/Section0024.xhtml"/>
+                </navPoint>
+                <navPoint id="navPoint-24" playOrder="24">
+                    <navLabel>
+                        <text>O SVOBODNÉ SMRTI.</text>
+                    </navLabel>
+                    <content src="Text/Section0025.xhtml"/>
+                </navPoint>
+                <navPoint id="navPoint-25" playOrder="25">
+                    <navLabel>
+                        <text>O CTNOSTI, JEŽ OBDAROVÁVÁ.</text>
+                    </navLabel>
+                    <content src="Text/Section0026.xhtml"/>
+                </navPoint>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-26" playOrder="26">
+            <navLabel>
+                <text>TAK PRAVIL ZARATHUSTRA.</text>
+            </navLabel>
+            <content src="Text/Section0027.xhtml"/>
+            <navPoint id="navPoint-27" playOrder="27">
+                <navLabel>
+                    <text>DRUHÝ DÍL</text>
+                </navLabel>
+                <content src="Text/Section0027.xhtml#heading_id_3"/>
+                <navPoint id="navPoint-28" playOrder="28">
+                    <navLabel>
+                        <text>DÍTĚ SE ZRCADLEM.</text>
+                    </navLabel>
+                    <content src="Text/Section0028.xhtml"/>
+                </navPoint>
+                <navPoint id="navPoint-29" playOrder="29">
+                    <navLabel>
+                        <text>NA BLAŽENÝCH OSTROVECH.</text>
+                    </navLabel>
+                    <content src="Text/Section0029.xhtml"/>
+                </navPoint>
+                <navPoint id="navPoint-30" playOrder="30">
+                    <navLabel>
+                        <text>O SOUCITNÝCH.</text>
+                    </navLabel>
+                    <content src="Text/Section0030.xhtml"/>
+                </navPoint>
+                <navPoint id="navPoint-31" playOrder="31">
+                    <navLabel>
+                        <text>O KNĚZÍCH.</text>
+                    </navLabel>
+                    <content src="Text/Section0031.xhtml"/>
+                </navPoint>
+                <navPoint id="navPoint-32" playOrder="32">
+                    <navLabel>
+                        <text>O CTNOSTNÝCH.</text>
+                    </navLabel>
+                    <content src="Text/Section0032.xhtml"/>
+                </navPoint>
+                <navPoint id="navPoint-33" playOrder="33">
+                    <navLabel>
+                        <text>O CHATŘE.</text>
+                    </navLabel>
+                    <content src="Text/Section0033.xhtml"/>
+                </navPoint>
+                <navPoint id="navPoint-34" playOrder="34">
+                    <navLabel>
+                        <text>O TARANTULÍCH.</text>
+                    </navLabel>
+                    <content src="Text/Section0034.xhtml"/>
+                </navPoint>
+                <navPoint id="navPoint-35" playOrder="35">
+                    <navLabel>
+                        <text>O SLAVNÝCH MUDRCÍCH.</text>
+                    </navLabel>
+                    <content src="Text/Section0035.xhtml"/>
+                </navPoint>
+                <navPoint id="navPoint-36" playOrder="36">
+                    <navLabel>
+                        <text>V PÍSEŇ NOCI.</text>
+                    </navLabel>
+                    <content src="Text/Section0036.xhtml"/>
+                </navPoint>
+                <navPoint id="navPoint-37" playOrder="37">
+                    <navLabel>
+                        <text>TANEČNÍ PÍSEŇ.</text>
+                    </navLabel>
+                    <content src="Text/Section0037.xhtml"/>
+                </navPoint>
+                <navPoint id="navPoint-38" playOrder="38">
+                    <navLabel>
+                        <text>PÍSEŇ NAD HROBY.</text>
+                    </navLabel>
+                    <content src="Text/Section0038.xhtml"/>
+                </navPoint>
+                <navPoint id="navPoint-39" playOrder="39">
+                    <navLabel>
+                        <text>O PŘEMÁHÁNÍ SEBESAMA.</text>
+                    </navLabel>
+                    <content src="Text/Section0039.xhtml"/>
+                </navPoint>
+                <navPoint id="navPoint-40" playOrder="40">
+                    <navLabel>
+                        <text>O VZNEŠENÝCH.</text>
+                    </navLabel>
+                    <content src="Text/Section0040.xhtml"/>
+                </navPoint>
+                <navPoint id="navPoint-41" playOrder="41">
+                    <navLabel>
+                        <text>O ZEMI VZDĚLÁNÍ.</text>
+                    </navLabel>
+                    <content src="Text/Section0041.xhtml"/>
+                </navPoint>
+                <navPoint id="navPoint-42" playOrder="42">
+                    <navLabel>
+                        <text>NEPOSKVRNĚNÉM POZNÁNÍ.</text>
+                    </navLabel>
+                    <content src="Text/Section0042.xhtml"/>
+                </navPoint>
+                <navPoint id="navPoint-43" playOrder="43">
+                    <navLabel>
+                        <text>O UČENCÍCH.</text>
+                    </navLabel>
+                    <content src="Text/Section0043.xhtml"/>
+                </navPoint>
+                <navPoint id="navPoint-44" playOrder="44">
+                    <navLabel>
+                        <text>O BÁSNÍCÍCH.</text>
+                    </navLabel>
+                    <content src="Text/Section0044.xhtml"/>
+                </navPoint>
+                <navPoint id="navPoint-45" playOrder="45">
+                    <navLabel>
+                        <text>O VELKÝCH UDÁLOSTECH.</text>
+                    </navLabel>
+                    <content src="Text/Section0045.xhtml"/>
+                </navPoint>
+                <navPoint id="navPoint-46" playOrder="46">
+                    <navLabel>
+                        <text>VĚŠTEC.</text>
+                    </navLabel>
+                    <content src="Text/Section0046.xhtml"/>
+                </navPoint>
+                <navPoint id="navPoint-47" playOrder="47">
+                    <navLabel>
+                        <text>O VYKOUPENÍ.</text>
+                    </navLabel>
+                    <content src="Text/Section0047.xhtml"/>
+                </navPoint>
+                <navPoint id="navPoint-48" playOrder="48">
+                    <navLabel>
+                        <text>O LIDSKÉ CHYTROSTI.</text>
+                    </navLabel>
+                    <content src="Text/Section0048.xhtml"/>
+                </navPoint>
+                <navPoint id="navPoint-49" playOrder="49">
+                    <navLabel>
+                        <text>NEJTIŠŠÍ HODINA.</text>
+                    </navLabel>
+                    <content src="Text/Section0049.xhtml"/>
+                </navPoint>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-50" playOrder="50">
+            <navLabel>
+                <text>TAK PRAVIL ZARATHUSTRA.</text>
+            </navLabel>
+            <content src="Text/Section0050.xhtml"/>
+            <navPoint id="navPoint-51" playOrder="51">
+                <navLabel>
+                    <text>TŘETÍ DÍL</text>
+                </navLabel>
+                <content src="Text/Section0050.xhtml#heading_id_3"/>
+                <navPoint id="navPoint-52" playOrder="52">
+                    <navLabel>
+                        <text>POUTNÍK.</text>
+                    </navLabel>
+                    <content src="Text/Section0051.xhtml"/>
+                </navPoint>
+                <navPoint id="navPoint-53" playOrder="53">
+                    <navLabel>
+                        <text>O VIDĚNÍ A HÁDANCE.</text>
+                    </navLabel>
+                    <content src="Text/Section0052.xhtml"/>
+                </navPoint>
+                <navPoint id="navPoint-54" playOrder="54">
+                    <navLabel>
+                        <text>O NEVÍTANÉM BLAŽENSTVÍ.</text>
+                    </navLabel>
+                    <content src="Text/Section0053.xhtml"/>
+                </navPoint>
+                <navPoint id="navPoint-55" playOrder="55">
+                    <navLabel>
+                        <text>PŘED VÝCHODEM SLUNCE.</text>
+                    </navLabel>
+                    <content src="Text/Section0054.xhtml"/>
+                </navPoint>
+                <navPoint id="navPoint-56" playOrder="56">
+                    <navLabel>
+                        <text>O ZMENŠUJÍCÍ CTNOSTI.</text>
+                    </navLabel>
+                    <content src="Text/Section0055.xhtml"/>
+                </navPoint>
+                <navPoint id="navPoint-57" playOrder="57">
+                    <navLabel>
+                        <text>NA HOŘE OLIVOVÉ.</text>
+                    </navLabel>
+                    <content src="Text/Section0056.xhtml"/>
+                </navPoint>
+                <navPoint id="navPoint-58" playOrder="58">
+                    <navLabel>
+                        <text>CO TŘEBA MÍJETI.</text>
+                    </navLabel>
+                    <content src="Text/Section0057.xhtml"/>
+                </navPoint>
+                <navPoint id="navPoint-59" playOrder="59">
+                    <navLabel>
+                        <text>O ODPADLÍCÍCH.</text>
+                    </navLabel>
+                    <content src="Text/Section0058.xhtml"/>
+                </navPoint>
+                <navPoint id="navPoint-60" playOrder="60">
+                    <navLabel>
+                        <text>NÁVRAT.</text>
+                    </navLabel>
+                    <content src="Text/Section0059.xhtml"/>
+                </navPoint>
+                <navPoint id="navPoint-61" playOrder="61">
+                    <navLabel>
+                        <text>O TROJÍM ZLU.</text>
+                    </navLabel>
+                    <content src="Text/Section0060.xhtml"/>
+                </navPoint>
+                <navPoint id="navPoint-62" playOrder="62">
+                    <navLabel>
+                        <text>O DUCHU TÍŽE.</text>
+                    </navLabel>
+                    <content src="Text/Section0061.xhtml"/>
+                </navPoint>
+                <navPoint id="navPoint-63" playOrder="63">
+                    <navLabel>
+                        <text>O STARÝCH A NOVÝCH DESKÁCH.</text>
+                    </navLabel>
+                    <content src="Text/Section0062.xhtml"/>
+                </navPoint>
+                <navPoint id="navPoint-64" playOrder="64">
+                    <navLabel>
+                        <text>UZDRAVUJÍCÍ SE</text>
+                    </navLabel>
+                    <content src="Text/Section0063.xhtml"/>
+                </navPoint>
+                <navPoint id="navPoint-65" playOrder="65">
+                    <navLabel>
+                        <text>VELIKÉ TOUZE</text>
+                    </navLabel>
+                    <content src="Text/Section0065.xhtml"/>
+                </navPoint>
+                <navPoint id="navPoint-66" playOrder="66">
+                    <navLabel>
+                        <text>DRUHÁ TANEČNÍ PÍSEŇ.</text>
+                    </navLabel>
+                    <content src="Text/Section0066.xhtml"/>
+                </navPoint>
+                <navPoint id="navPoint-67" playOrder="67">
+                    <navLabel>
+                        <text>SEDMERO PEČETÍ.</text>
+                    </navLabel>
+                    <content src="Text/Section0067.xhtml"/>
+                </navPoint>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-68" playOrder="68">
+            <navLabel>
+                <text>TAK PRAVIL ZARATHUSTRA.</text>
+            </navLabel>
+            <content src="Text/Section0068.xhtml"/>
+            <navPoint id="navPoint-69" playOrder="69">
+                <navLabel>
+                    <text>ČTVRTÝ A POSLEDNÍ DÍL</text>
+                </navLabel>
+                <content src="Text/Section0068.xhtml#heading_id_3"/>
+                <navPoint id="navPoint-70" playOrder="70">
+                    <navLabel>
+                        <text>OBĚTOVÁNÍ MEDU.</text>
+                    </navLabel>
+                    <content src="Text/Section0069.xhtml"/>
+                </navPoint>
+                <navPoint id="navPoint-71" playOrder="71">
+                    <navLabel>
+                        <text>VÝKŘIK ÚZKOSTI.</text>
+                    </navLabel>
+                    <content src="Text/Section0070.xhtml"/>
+                </navPoint>
+                <navPoint id="navPoint-72" playOrder="72">
+                    <navLabel>
+                        <text>ROZHOVOR S KRÁLI.</text>
+                    </navLabel>
+                    <content src="Text/Section0071.xhtml"/>
+                </navPoint>
+                <navPoint id="navPoint-73" playOrder="73">
+                    <navLabel>
+                        <text>PIJAVKA.</text>
+                    </navLabel>
+                    <content src="Text/Section0072.xhtml"/>
+                </navPoint>
+                <navPoint id="navPoint-74" playOrder="74">
+                    <navLabel>
+                        <text>KOUZELNÍK.</text>
+                    </navLabel>
+                    <content src="Text/Section0073.xhtml"/>
+                </navPoint>
+                <navPoint id="navPoint-75" playOrder="75">
+                    <navLabel>
+                        <text>MIMO SLUŽBU.</text>
+                    </navLabel>
+                    <content src="Text/Section0074.xhtml"/>
+                </navPoint>
+                <navPoint id="navPoint-76" playOrder="76">
+                    <navLabel>
+                        <text>NEJOHYZDNĚJŠÍ ČLOVĚK.</text>
+                    </navLabel>
+                    <content src="Text/Section0075.xhtml"/>
+                </navPoint>
+                <navPoint id="navPoint-77" playOrder="77">
+                    <navLabel>
+                        <text>DOBROVOLNÝ ŽEBRÁK.</text>
+                    </navLabel>
+                    <content src="Text/Section0076.xhtml"/>
+                </navPoint>
+                <navPoint id="navPoint-78" playOrder="78">
+                    <navLabel>
+                        <text>STÍN.</text>
+                    </navLabel>
+                    <content src="Text/Section0077.xhtml"/>
+                </navPoint>
+                <navPoint id="navPoint-79" playOrder="79">
+                    <navLabel>
+                        <text>O POLEDNÁCH.</text>
+                    </navLabel>
+                    <content src="Text/Section0078.xhtml"/>
+                </navPoint>
+                <navPoint id="navPoint-80" playOrder="80">
+                    <navLabel>
+                        <text>UVÍTÁNÍ.</text>
+                    </navLabel>
+                    <content src="Text/Section0079.xhtml"/>
+                </navPoint>
+                <navPoint id="navPoint-81" playOrder="81">
+                    <navLabel>
+                        <text>VEČEŘE.</text>
+                    </navLabel>
+                    <content src="Text/Section0080.xhtml"/>
+                </navPoint>
+                <navPoint id="navPoint-82" playOrder="82">
+                    <navLabel>
+                        <text>O VYŠŠÍM ČLOVĚKU.</text>
+                    </navLabel>
+                    <content src="Text/Section0081.xhtml"/>
+                </navPoint>
+                <navPoint id="navPoint-83" playOrder="83">
+                    <navLabel>
+                        <text>PÍSEŇ ZÁDUMČIVÉHO STESKU</text>
+                    </navLabel>
+                    <content src="Text/Section0082.xhtml"/>
+                </navPoint>
+                <navPoint id="navPoint-84" playOrder="84">
+                    <navLabel>
+                        <text>O VĚDĚ.</text>
+                    </navLabel>
+                    <content src="Text/Section0083.xhtml"/>
+                </navPoint>
+                <navPoint id="navPoint-85" playOrder="85">
+                    <navLabel>
+                        <text>MEZI DCERAMI POUŠTĚ.</text>
+                    </navLabel>
+                    <content src="Text/Section0084.xhtml"/>
+                </navPoint>
+                <navPoint id="navPoint-86" playOrder="86">
+                    <navLabel>
+                        <text>PROBUZENÍ.</text>
+                    </navLabel>
+                    <content src="Text/Section0085.xhtml"/>
+                </navPoint>
+                <navPoint id="navPoint-87" playOrder="87">
+                    <navLabel>
+                        <text>SLAVNOST OSLA.</text>
+                    </navLabel>
+                    <content src="Text/Section0086.xhtml"/>
+                </navPoint>
+                <navPoint id="navPoint-88" playOrder="88">
+                    <navLabel>
+                        <text>PÍSEŇ OPOJENÍ.</text>
+                    </navLabel>
+                    <content src="Text/Section0087.xhtml"/>
+                </navPoint>
+                <navPoint id="navPoint-89" playOrder="89">
+                    <navLabel>
+                        <text>ZNAMENÍ.</text>
+                    </navLabel>
+                    <content src="Text/Section0088.xhtml"/>
+                </navPoint>
+            </navPoint>
+        </navPoint>
+    </navMap>
+</ncx>
