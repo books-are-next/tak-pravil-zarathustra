@@ -1,4 +1,5 @@
 {
+  "extractionComplete": false,
   "params": {
     "metadata": {
       "title": "Tak pravil Zarathustra",
@@ -6,7 +7,9 @@
       "author": "Friedrich Nitzsche",
       "modified": "2021-11-07T15:56:31.105Z",
       "languageCode": "cs",
-      "publisher": "Městská knihovna v Praze"
+      "publisher": "Městská knihovna v Praze",
+      "publisherShort": "mkp",
+      "edition": "beletrie"
     },
     "elements": {
       "title": "",
@@ -36,7 +39,7 @@
             "filename": "section0001.md",
             "xhtml": "Section0001.xhtml",
             "id": 0,
-            "role": "break",
+            "role": "cover",
             "numberedChildren": false,
             "inToc": false,
             "children": []
@@ -1413,3 +1416,4 @@
     "generatedAt": 1636300982247
   }
 }
+
