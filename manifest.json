@@ -1,0 +1,1842 @@
+{
+  "author": "Friedrich Nitzsche",
+  "identifier": "nitzsche-tak-pravil-zarathustra-d29cb00",
+  "languagecode": "cs",
+  "modified": "2021-11-07T15:56:31.105Z",
+  "publisher": "Městská knihovna v Praze",
+  "title": "Tak pravil Zarathustra",
+  "revision": "d29cb00",
+  "generatedAt": {
+    "date": "Wed Dec 01 2021 21:20:46 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1638393646544
+  },
+  "documents": [
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0001.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "section0004.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0004.html",
+      "words": 3829,
+      "chars": 22117,
+      "ideas": 159,
+      "role": "chapter",
+      "order": 1,
+      "prev": "section0001.html",
+      "next": "section0005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        },
+        {
+          "index": 1,
+          "level": 1,
+          "name": "ZARATHUSTROVA PŘEDMLUVA.",
+          "id": "zarathustrova-předmluva",
+          "children": []
+        },
+        {
+          "index": 2,
+          "level": 1,
+          "name": "O NADČLOVĚKU A POSLEDNÍM ČLOVĚKU",
+          "id": "onbspnadčlověku-anbspposledním-člověku",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0005.html",
+      "words": 563,
+      "chars": 3168,
+      "ideas": 31,
+      "role": "chapter",
+      "order": 2,
+      "prev": "section0004.html",
+      "next": "section0006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "ZARATHUSTROVY ŘEČI",
+              "id": "zarathustrovy-řeči",
+              "children": [
+                {
+                  "index": 2,
+                  "level": 3,
+                  "name": "O TŘECH PROMĚNÁCH.",
+                  "id": "onbsptřech-proměnách",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0006.html",
+      "words": 657,
+      "chars": 3763,
+      "ideas": 34,
+      "role": "chapter",
+      "order": 3,
+      "prev": "section0005.html",
+      "next": "section0007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0007.html",
+      "words": 833,
+      "chars": 4795,
+      "ideas": 36,
+      "role": "chapter",
+      "order": 4,
+      "prev": "section0006.html",
+      "next": "section0008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0008.html",
+      "words": 493,
+      "chars": 2793,
+      "ideas": 24,
+      "role": "chapter",
+      "order": 5,
+      "prev": "section0007.html",
+      "next": "section0009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0009.html",
+      "words": 480,
+      "chars": 2634,
+      "ideas": 26,
+      "role": "chapter",
+      "order": 6,
+      "prev": "section0008.html",
+      "next": "section0010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0010.html",
+      "words": 568,
+      "chars": 3329,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 7,
+      "prev": "section0009.html",
+      "next": "section0011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0011.html",
+      "words": 450,
+      "chars": 2516,
+      "ideas": 26,
+      "role": "chapter",
+      "order": 8,
+      "prev": "section0010.html",
+      "next": "section0012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0012.html",
+      "words": 718,
+      "chars": 4064,
+      "ideas": 36,
+      "role": "chapter",
+      "order": 9,
+      "prev": "section0011.html",
+      "next": "section0013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0013.html",
+      "words": 474,
+      "chars": 2671,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 10,
+      "prev": "section0012.html",
+      "next": "section0014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0014.html",
+      "words": 477,
+      "chars": 2774,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 11,
+      "prev": "section0013.html",
+      "next": "section0015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0015.html",
+      "words": 682,
+      "chars": 3919,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 12,
+      "prev": "section0014.html",
+      "next": "section0016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0016.html",
+      "words": 755,
+      "chars": 4357,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 13,
+      "prev": "section0015.html",
+      "next": "section0017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0017.html",
+      "words": 305,
+      "chars": 1712,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 14,
+      "prev": "section0016.html",
+      "next": "section0018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0018.html",
+      "words": 510,
+      "chars": 2934,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 15,
+      "prev": "section0017.html",
+      "next": "section0019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0019.html",
+      "words": 606,
+      "chars": 3466,
+      "ideas": 28,
+      "role": "chapter",
+      "order": 16,
+      "prev": "section0018.html",
+      "next": "section0020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0020.html",
+      "words": 440,
+      "chars": 2536,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 17,
+      "prev": "section0019.html",
+      "next": "section0021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0021.html",
+      "words": 675,
+      "chars": 3903,
+      "ideas": 35,
+      "role": "chapter",
+      "order": 18,
+      "prev": "section0020.html",
+      "next": "section0022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0022.html",
+      "words": 547,
+      "chars": 3090,
+      "ideas": 34,
+      "role": "chapter",
+      "order": 19,
+      "prev": "section0021.html",
+      "next": "section0023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0023.html",
+      "words": 439,
+      "chars": 2613,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 20,
+      "prev": "section0022.html",
+      "next": "section0024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0024.html",
+      "words": 536,
+      "chars": 3077,
+      "ideas": 30,
+      "role": "chapter",
+      "order": 21,
+      "prev": "section0023.html",
+      "next": "section0025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0025.html",
+      "words": 722,
+      "chars": 4081,
+      "ideas": 38,
+      "role": "chapter",
+      "order": 22,
+      "prev": "section0024.html",
+      "next": "section0026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0026.html",
+      "words": 1207,
+      "chars": 7101,
+      "ideas": 56,
+      "role": "chapter",
+      "order": 23,
+      "prev": "section0025.html",
+      "next": "section0027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0027.html",
+      "words": 39,
+      "chars": 237,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 24,
+      "prev": "section0026.html",
+      "next": "section0028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        },
+        {
+          "index": 1,
+          "level": 1,
+          "name": "TAK PRAVIL ZARATHUSTRA.",
+          "id": "tak-pravil-zarathustra",
+          "children": [
+            {
+              "index": 2,
+              "level": 2,
+              "name": "DRUHÝ DÍL",
+              "id": "druhý-díl",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0028.html",
+      "words": 684,
+      "chars": 3938,
+      "ideas": 35,
+      "role": "chapter",
+      "order": 25,
+      "prev": "section0027.html",
+      "next": "section0029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0029.html",
+      "words": 689,
+      "chars": 3892,
+      "ideas": 36,
+      "role": "chapter",
+      "order": 26,
+      "prev": "section0028.html",
+      "next": "section0030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0030.html",
+      "words": 707,
+      "chars": 4099,
+      "ideas": 42,
+      "role": "chapter",
+      "order": 27,
+      "prev": "section0029.html",
+      "next": "section0031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0031.html",
+      "words": 670,
+      "chars": 3846,
+      "ideas": 40,
+      "role": "chapter",
+      "order": 28,
+      "prev": "section0030.html",
+      "next": "section0032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0032.html",
+      "words": 848,
+      "chars": 4720,
+      "ideas": 42,
+      "role": "chapter",
+      "order": 29,
+      "prev": "section0031.html",
+      "next": "section0033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0033.html",
+      "words": 687,
+      "chars": 3946,
+      "ideas": 36,
+      "role": "chapter",
+      "order": 30,
+      "prev": "section0032.html",
+      "next": "section0034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0034.html",
+      "words": 823,
+      "chars": 4813,
+      "ideas": 44,
+      "role": "chapter",
+      "order": 31,
+      "prev": "section0033.html",
+      "next": "section0035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0035.html",
+      "words": 719,
+      "chars": 4118,
+      "ideas": 39,
+      "role": "chapter",
+      "order": 32,
+      "prev": "section0034.html",
+      "next": "section0036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0036.html",
+      "words": 501,
+      "chars": 2811,
+      "ideas": 27,
+      "role": "chapter",
+      "order": 33,
+      "prev": "section0035.html",
+      "next": "section0037.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0037.html",
+      "words": 633,
+      "chars": 3610,
+      "ideas": 36,
+      "role": "chapter",
+      "order": 34,
+      "prev": "section0036.html",
+      "next": "section0038.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0038.html",
+      "words": 860,
+      "chars": 5011,
+      "ideas": 38,
+      "role": "chapter",
+      "order": 35,
+      "prev": "section0037.html",
+      "next": "section0039.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0039.html",
+      "words": 964,
+      "chars": 5303,
+      "ideas": 47,
+      "role": "chapter",
+      "order": 36,
+      "prev": "section0038.html",
+      "next": "section0040.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0040.html",
+      "words": 634,
+      "chars": 3608,
+      "ideas": 37,
+      "role": "chapter",
+      "order": 37,
+      "prev": "section0039.html",
+      "next": "section0041.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0041.html",
+      "words": 687,
+      "chars": 3868,
+      "ideas": 36,
+      "role": "chapter",
+      "order": 38,
+      "prev": "section0040.html",
+      "next": "section0042.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0042.html",
+      "words": 776,
+      "chars": 4431,
+      "ideas": 41,
+      "role": "chapter",
+      "order": 39,
+      "prev": "section0041.html",
+      "next": "section0043.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0043.html",
+      "words": 537,
+      "chars": 3047,
+      "ideas": 28,
+      "role": "chapter",
+      "order": 40,
+      "prev": "section0042.html",
+      "next": "section0044.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0044.html",
+      "words": 798,
+      "chars": 4512,
+      "ideas": 47,
+      "role": "chapter",
+      "order": 41,
+      "prev": "section0043.html",
+      "next": "section0045.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0045.html",
+      "words": 1025,
+      "chars": 5798,
+      "ideas": 44,
+      "role": "chapter",
+      "order": 42,
+      "prev": "section0044.html",
+      "next": "section0046.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0046.html",
+      "words": 991,
+      "chars": 5618,
+      "ideas": 46,
+      "role": "chapter",
+      "order": 43,
+      "prev": "section0045.html",
+      "next": "section0047.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0047.html",
+      "words": 1338,
+      "chars": 7513,
+      "ideas": 53,
+      "role": "chapter",
+      "order": 44,
+      "prev": "section0046.html",
+      "next": "section0048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0048.html",
+      "words": 788,
+      "chars": 4443,
+      "ideas": 38,
+      "role": "chapter",
+      "order": 45,
+      "prev": "section0047.html",
+      "next": "section0049.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0049.html",
+      "words": 805,
+      "chars": 4459,
+      "ideas": 42,
+      "role": "chapter",
+      "order": 46,
+      "prev": "section0048.html",
+      "next": "section0050.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0050.html",
+      "words": 46,
+      "chars": 292,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 47,
+      "prev": "section0049.html",
+      "next": "section0051.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        },
+        {
+          "index": 1,
+          "level": 1,
+          "name": "TAK PRAVIL ZARATHUSTRA.",
+          "id": "tak-pravil-zarathustra",
+          "children": [
+            {
+              "index": 2,
+              "level": 2,
+              "name": "TŘETÍ DÍL",
+              "id": "třetí-díl",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0051.html",
+      "words": 850,
+      "chars": 4881,
+      "ideas": 34,
+      "role": "chapter",
+      "order": 48,
+      "prev": "section0050.html",
+      "next": "section0052.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0052.html",
+      "words": 1380,
+      "chars": 7914,
+      "ideas": 53,
+      "role": "chapter",
+      "order": 49,
+      "prev": "section0051.html",
+      "next": "section0053.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0053.html",
+      "words": 955,
+      "chars": 5291,
+      "ideas": 39,
+      "role": "chapter",
+      "order": 50,
+      "prev": "section0052.html",
+      "next": "section0054.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0054.html",
+      "words": 823,
+      "chars": 4637,
+      "ideas": 38,
+      "role": "chapter",
+      "order": 51,
+      "prev": "section0053.html",
+      "next": "section0055.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0055.html",
+      "words": 1460,
+      "chars": 8348,
+      "ideas": 72,
+      "role": "chapter",
+      "order": 52,
+      "prev": "section0054.html",
+      "next": "section0056.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0056.html",
+      "words": 842,
+      "chars": 4760,
+      "ideas": 43,
+      "role": "chapter",
+      "order": 53,
+      "prev": "section0055.html",
+      "next": "section0057.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0057.html",
+      "words": 777,
+      "chars": 4567,
+      "ideas": 41,
+      "role": "chapter",
+      "order": 54,
+      "prev": "section0056.html",
+      "next": "section0058.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0058.html",
+      "words": 1109,
+      "chars": 6214,
+      "ideas": 49,
+      "role": "chapter",
+      "order": 55,
+      "prev": "section0057.html",
+      "next": "section0059.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0059.html",
+      "words": 1001,
+      "chars": 5595,
+      "ideas": 44,
+      "role": "chapter",
+      "order": 56,
+      "prev": "section0058.html",
+      "next": "section0060.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0060.html",
+      "words": 1283,
+      "chars": 7489,
+      "ideas": 51,
+      "role": "chapter",
+      "order": 57,
+      "prev": "section0059.html",
+      "next": "section0061.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0061.html",
+      "words": 1164,
+      "chars": 6369,
+      "ideas": 46,
+      "role": "chapter",
+      "order": 58,
+      "prev": "section0060.html",
+      "next": "section0062.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0062.html",
+      "words": 4913,
+      "chars": 28071,
+      "ideas": 232,
+      "role": "chapter",
+      "order": 59,
+      "prev": "section0061.html",
+      "next": "section0063.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0063.html",
+      "words": 1776,
+      "chars": 10092,
+      "ideas": 67,
+      "role": "chapter",
+      "order": 60,
+      "prev": "section0062.html",
+      "next": "section0064.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0064.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 61,
+      "prev": "section0063.html",
+      "next": "section0065.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0065.html",
+      "words": 763,
+      "chars": 4195,
+      "ideas": 35,
+      "role": "chapter",
+      "order": 62,
+      "prev": "section0064.html",
+      "next": "section0066.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0066.html",
+      "words": 903,
+      "chars": 4747,
+      "ideas": 65,
+      "role": "chapter",
+      "order": 63,
+      "prev": "section0065.html",
+      "next": "section0067.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0067.html",
+      "words": 893,
+      "chars": 4998,
+      "ideas": 48,
+      "role": "chapter",
+      "order": 64,
+      "prev": "section0066.html",
+      "next": "section0068.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0068.html",
+      "words": 79,
+      "chars": 455,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 65,
+      "prev": "section0067.html",
+      "next": "section0069.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        },
+        {
+          "index": 1,
+          "level": 1,
+          "name": "TAK PRAVIL ZARATHUSTRA.",
+          "id": "tak-pravil-zarathustra",
+          "children": [
+            {
+              "index": 2,
+              "level": 2,
+              "name": "ČTVRTÝ A POSLEDNÍ DÍL",
+              "id": "čtvrtý-anbspposlední-díl",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0069.html",
+      "words": 1078,
+      "chars": 6003,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 66,
+      "prev": "section0068.html",
+      "next": "section0070.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0070.html",
+      "words": 972,
+      "chars": 5578,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 67,
+      "prev": "section0069.html",
+      "next": "section0071.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0071.html",
+      "words": 1046,
+      "chars": 6074,
+      "ideas": 44,
+      "role": "chapter",
+      "order": 68,
+      "prev": "section0070.html",
+      "next": "section0072.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0072.html",
+      "words": 915,
+      "chars": 5154,
+      "ideas": 36,
+      "role": "chapter",
+      "order": 69,
+      "prev": "section0071.html",
+      "next": "section0073.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0073.html",
+      "words": 1382,
+      "chars": 7768,
+      "ideas": 140,
+      "role": "chapter",
+      "order": 70,
+      "prev": "section0072.html",
+      "next": "section0074.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0074.html",
+      "words": 1222,
+      "chars": 6919,
+      "ideas": 55,
+      "role": "chapter",
+      "order": 71,
+      "prev": "section0073.html",
+      "next": "section0075.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0075.html",
+      "words": 1390,
+      "chars": 8003,
+      "ideas": 52,
+      "role": "chapter",
+      "order": 72,
+      "prev": "section0074.html",
+      "next": "section0076.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0076.html",
+      "words": 1129,
+      "chars": 6502,
+      "ideas": 42,
+      "role": "chapter",
+      "order": 73,
+      "prev": "section0075.html",
+      "next": "section0077.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0077.html",
+      "words": 941,
+      "chars": 5224,
+      "ideas": 37,
+      "role": "chapter",
+      "order": 74,
+      "prev": "section0076.html",
+      "next": "section0078.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0078.html",
+      "words": 806,
+      "chars": 4429,
+      "ideas": 31,
+      "role": "chapter",
+      "order": 75,
+      "prev": "section0077.html",
+      "next": "section0079.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0079.html",
+      "words": 1488,
+      "chars": 8512,
+      "ideas": 54,
+      "role": "chapter",
+      "order": 76,
+      "prev": "section0078.html",
+      "next": "section0080.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0080.html",
+      "words": 558,
+      "chars": 3208,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 77,
+      "prev": "section0079.html",
+      "next": "section0081.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0081.html",
+      "words": 2425,
+      "chars": 13646,
+      "ideas": 109,
+      "role": "chapter",
+      "order": 78,
+      "prev": "section0080.html",
+      "next": "section0082.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0082.html",
+      "words": 877,
+      "chars": 4830,
+      "ideas": 118,
+      "role": "chapter",
+      "order": 79,
+      "prev": "section0081.html",
+      "next": "section0083.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0083.html",
+      "words": 827,
+      "chars": 4792,
+      "ideas": 30,
+      "role": "chapter",
+      "order": 80,
+      "prev": "section0082.html",
+      "next": "section0084.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0084.html",
+      "words": 925,
+      "chars": 5458,
+      "ideas": 161,
+      "role": "chapter",
+      "order": 81,
+      "prev": "section0083.html",
+      "next": "section0085.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0085.html",
+      "words": 847,
+      "chars": 4885,
+      "ideas": 37,
+      "role": "chapter",
+      "order": 82,
+      "prev": "section0084.html",
+      "next": "section0086.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0086.html",
+      "words": 933,
+      "chars": 5397,
+      "ideas": 42,
+      "role": "chapter",
+      "order": 83,
+      "prev": "section0085.html",
+      "next": "section0087.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0087.html",
+      "words": 1902,
+      "chars": 10929,
+      "ideas": 82,
+      "role": "chapter",
+      "order": 84,
+      "prev": "section0086.html",
+      "next": "section0088.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak pravil Zarathustra",
+      "file": "section0088.html",
+      "words": 877,
+      "chars": 4899,
+      "ideas": 27,
+      "role": "chapter",
+      "order": 85,
+      "prev": "section0087.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž • Tak pravil Zarathustra",
+      "file": "colophon.html",
+      "words": 145,
+      "chars": 1108,
+      "ideas": 16,
+      "role": "colophon",
+      "order": null,
+      "prev": "section0088.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 77876,
+      "chars": 443327,
+      "ideas": 3839
+    },
+    "chapters": {
+      "words": 77726,
+      "chars": 442179,
+      "ideas": 3821
+    }
+  }
+}

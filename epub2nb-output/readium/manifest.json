@@ -1,0 +1,766 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Tak pravil Zarathustra",
+    "identifier": "b185b07f-4b09-47fa-b45d-4f45e7cda15b",
+    "author": "Friedrich Nitzsche",
+    "language": "cs",
+    "modified": "2021-12-01T21:19:53.650Z",
+    "Sigil version": "0.3.0"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0008.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0009.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0010.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0011.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0012.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0013.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0014.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0015.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0016.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0017.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0018.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0019.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0020.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0021.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0022.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0023.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0024.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0025.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0026.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0027.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0028.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0029.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0030.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0031.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0032.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0033.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0034.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0035.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0036.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0037.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0038.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0039.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0040.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0041.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0042.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0043.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0044.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0045.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0046.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0047.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0048.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0049.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0050.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0051.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0052.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0053.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0054.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0055.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0056.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0057.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0058.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0059.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0060.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0061.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0062.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0063.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0064.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0065.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0066.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0067.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0068.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0069.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0070.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0071.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0072.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0073.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0074.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0075.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0076.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0077.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0078.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0079.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0080.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0081.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0082.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0083.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0084.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0085.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0086.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0087.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0088.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0089.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/88x31.png"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka_tak_pravil_zarathustra.jpg"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/pd-88x31.png"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "ZARATHUSTROVA PŘEDMLUVA.",
+      "href": "OEBPS/Text/Section0004.xhtml"
+    },
+    {
+      "title": "O NADČLOVĚKU A POSLEDNÍM ČLOVĚKU",
+      "children": [
+        {
+          "title": "ZARATHUSTROVY ŘEČI",
+          "children": [
+            {
+              "title": "O TŘECH PROMĚNÁCH.",
+              "href": "OEBPS/Text/Section0005.xhtml#heading_id_3"
+            },
+            {
+              "title": "O UČEBNÁCH CTNOSTI.",
+              "href": "OEBPS/Text/Section0006.xhtml"
+            },
+            {
+              "title": "O ZAHROBNÍCÍCH.",
+              "href": "OEBPS/Text/Section0007.xhtml"
+            },
+            {
+              "title": "O TĚCH, KDOŽ POVRHUJI TĚLEM.",
+              "href": "OEBPS/Text/Section0008.xhtml"
+            },
+            {
+              "title": "O VÁŠNÍCH RADOSTNÝCH A BOLESTNÝCH.",
+              "href": "OEBPS/Text/Section0009.xhtml"
+            },
+            {
+              "title": "O BLEDÉM ZLOČINCI.",
+              "href": "OEBPS/Text/Section0010.xhtml"
+            },
+            {
+              "title": "O ČTENÍ A PSANÍ.",
+              "href": "OEBPS/Text/Section0011.xhtml"
+            },
+            {
+              "title": "O STROMU NA HOŘE.",
+              "href": "OEBPS/Text/Section0012.xhtml"
+            },
+            {
+              "title": "O KAZATELÍCH SMRTI.",
+              "href": "OEBPS/Text/Section0013.xhtml"
+            },
+            {
+              "title": "O VÁLCE A VÁLEČNÉM LIDU.",
+              "href": "OEBPS/Text/Section0014.xhtml"
+            },
+            {
+              "title": "O NOVÉ MODLE",
+              "href": "OEBPS/Text/Section0015.xhtml"
+            },
+            {
+              "title": "O MOUCHÁCH NA TRHU.",
+              "href": "OEBPS/Text/Section0016.xhtml"
+            },
+            {
+              "title": "O CUDNOSTI.",
+              "href": "OEBPS/Text/Section0017.xhtml"
+            },
+            {
+              "title": "O PŘÍTELI.",
+              "href": "OEBPS/Text/Section0018.xhtml"
+            },
+            {
+              "title": "O TISÍCI A JEDNOM CÍLI.",
+              "href": "OEBPS/Text/Section0019.xhtml"
+            },
+            {
+              "title": "O LÁSCE K BLIŽNÍMU.",
+              "href": "OEBPS/Text/Section0020.xhtml"
+            },
+            {
+              "title": "O CESTĚ TVŮRČÍHO.",
+              "href": "OEBPS/Text/Section0021.xhtml"
+            },
+            {
+              "title": "STARÝCH I MLADÝCH ŽENKÁCH.",
+              "href": "OEBPS/Text/Section0022.xhtml"
+            },
+            {
+              "title": "O UŠTKNUTÍ ZMIJE.",
+              "href": "OEBPS/Text/Section0023.xhtml"
+            },
+            {
+              "title": "O DÍTĚTI A MANŽELSTVÍ.",
+              "href": "OEBPS/Text/Section0024.xhtml"
+            },
+            {
+              "title": "O SVOBODNÉ SMRTI.",
+              "href": "OEBPS/Text/Section0025.xhtml"
+            },
+            {
+              "title": "O CTNOSTI, JEŽ OBDAROVÁVÁ.",
+              "href": "OEBPS/Text/Section0026.xhtml"
+            }
+          ],
+          "href": "OEBPS/Text/Section0005.xhtml"
+        }
+      ],
+      "href": "OEBPS/Text/Section0004.xhtml#heading_id_3"
+    },
+    {
+      "title": "TAK PRAVIL ZARATHUSTRA.",
+      "children": [
+        {
+          "title": "DRUHÝ DÍL",
+          "children": [
+            {
+              "title": "DÍTĚ SE ZRCADLEM.",
+              "href": "OEBPS/Text/Section0028.xhtml"
+            },
+            {
+              "title": "NA BLAŽENÝCH OSTROVECH.",
+              "href": "OEBPS/Text/Section0029.xhtml"
+            },
+            {
+              "title": "O SOUCITNÝCH.",
+              "href": "OEBPS/Text/Section0030.xhtml"
+            },
+            {
+              "title": "O KNĚZÍCH.",
+              "href": "OEBPS/Text/Section0031.xhtml"
+            },
+            {
+              "title": "O CTNOSTNÝCH.",
+              "href": "OEBPS/Text/Section0032.xhtml"
+            },
+            {
+              "title": "O CHATŘE.",
+              "href": "OEBPS/Text/Section0033.xhtml"
+            },
+            {
+              "title": "O TARANTULÍCH.",
+              "href": "OEBPS/Text/Section0034.xhtml"
+            },
+            {
+              "title": "O SLAVNÝCH MUDRCÍCH.",
+              "href": "OEBPS/Text/Section0035.xhtml"
+            },
+            {
+              "title": "V PÍSEŇ NOCI.",
+              "href": "OEBPS/Text/Section0036.xhtml"
+            },
+            {
+              "title": "TANEČNÍ PÍSEŇ.",
+              "href": "OEBPS/Text/Section0037.xhtml"
+            },
+            {
+              "title": "PÍSEŇ NAD HROBY.",
+              "href": "OEBPS/Text/Section0038.xhtml"
+            },
+            {
+              "title": "O PŘEMÁHÁNÍ SEBESAMA.",
+              "href": "OEBPS/Text/Section0039.xhtml"
+            },
+            {
+              "title": "O VZNEŠENÝCH.",
+              "href": "OEBPS/Text/Section0040.xhtml"
+            },
+            {
+              "title": "O ZEMI VZDĚLÁNÍ.",
+              "href": "OEBPS/Text/Section0041.xhtml"
+            },
+            {
+              "title": "NEPOSKVRNĚNÉM POZNÁNÍ.",
+              "href": "OEBPS/Text/Section0042.xhtml"
+            },
+            {
+              "title": "O UČENCÍCH.",
+              "href": "OEBPS/Text/Section0043.xhtml"
+            },
+            {
+              "title": "O BÁSNÍCÍCH.",
+              "href": "OEBPS/Text/Section0044.xhtml"
+            },
+            {
+              "title": "O VELKÝCH UDÁLOSTECH.",
+              "href": "OEBPS/Text/Section0045.xhtml"
+            },
+            {
+              "title": "VĚŠTEC.",
+              "href": "OEBPS/Text/Section0046.xhtml"
+            },
+            {
+              "title": "O VYKOUPENÍ.",
+              "href": "OEBPS/Text/Section0047.xhtml"
+            },
+            {
+              "title": "O LIDSKÉ CHYTROSTI.",
+              "href": "OEBPS/Text/Section0048.xhtml"
+            },
+            {
+              "title": "NEJTIŠŠÍ HODINA.",
+              "href": "OEBPS/Text/Section0049.xhtml"
+            }
+          ],
+          "href": "OEBPS/Text/Section0027.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0027.xhtml"
+    },
+    {
+      "title": "TAK PRAVIL ZARATHUSTRA.",
+      "children": [
+        {
+          "title": "TŘETÍ DÍL",
+          "children": [
+            {
+              "title": "POUTNÍK.",
+              "href": "OEBPS/Text/Section0051.xhtml"
+            },
+            {
+              "title": "O VIDĚNÍ A HÁDANCE.",
+              "href": "OEBPS/Text/Section0052.xhtml"
+            },
+            {
+              "title": "O NEVÍTANÉM BLAŽENSTVÍ.",
+              "href": "OEBPS/Text/Section0053.xhtml"
+            },
+            {
+              "title": "PŘED VÝCHODEM SLUNCE.",
+              "href": "OEBPS/Text/Section0054.xhtml"
+            },
+            {
+              "title": "O ZMENŠUJÍCÍ CTNOSTI.",
+              "href": "OEBPS/Text/Section0055.xhtml"
+            },
+            {
+              "title": "NA HOŘE OLIVOVÉ.",
+              "href": "OEBPS/Text/Section0056.xhtml"
+            },
+            {
+              "title": "CO TŘEBA MÍJETI.",
+              "href": "OEBPS/Text/Section0057.xhtml"
+            },
+            {
+              "title": "O ODPADLÍCÍCH.",
+              "href": "OEBPS/Text/Section0058.xhtml"
+            },
+            {
+              "title": "NÁVRAT.",
+              "href": "OEBPS/Text/Section0059.xhtml"
+            },
+            {
+              "title": "O TROJÍM ZLU.",
+              "href": "OEBPS/Text/Section0060.xhtml"
+            },
+            {
+              "title": "O DUCHU TÍŽE.",
+              "href": "OEBPS/Text/Section0061.xhtml"
+            },
+            {
+              "title": "O STARÝCH A NOVÝCH DESKÁCH.",
+              "href": "OEBPS/Text/Section0062.xhtml"
+            },
+            {
+              "title": "UZDRAVUJÍCÍ SE",
+              "href": "OEBPS/Text/Section0063.xhtml"
+            },
+            {
+              "title": "VELIKÉ TOUZE",
+              "href": "OEBPS/Text/Section0065.xhtml"
+            },
+            {
+              "title": "DRUHÁ TANEČNÍ PÍSEŇ.",
+              "href": "OEBPS/Text/Section0066.xhtml"
+            },
+            {
+              "title": "SEDMERO PEČETÍ.",
+              "href": "OEBPS/Text/Section0067.xhtml"
+            }
+          ],
+          "href": "OEBPS/Text/Section0050.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0050.xhtml"
+    },
+    {
+      "title": "TAK PRAVIL ZARATHUSTRA.",
+      "children": [
+        {
+          "title": "ČTVRTÝ A POSLEDNÍ DÍL",
+          "children": [
+            {
+              "title": "OBĚTOVÁNÍ MEDU.",
+              "href": "OEBPS/Text/Section0069.xhtml"
+            },
+            {
+              "title": "VÝKŘIK ÚZKOSTI.",
+              "href": "OEBPS/Text/Section0070.xhtml"
+            },
+            {
+              "title": "ROZHOVOR S KRÁLI.",
+              "href": "OEBPS/Text/Section0071.xhtml"
+            },
+            {
+              "title": "PIJAVKA.",
+              "href": "OEBPS/Text/Section0072.xhtml"
+            },
+            {
+              "title": "KOUZELNÍK.",
+              "href": "OEBPS/Text/Section0073.xhtml"
+            },
+            {
+              "title": "MIMO SLUŽBU.",
+              "href": "OEBPS/Text/Section0074.xhtml"
+            },
+            {
+              "title": "NEJOHYZDNĚJŠÍ ČLOVĚK.",
+              "href": "OEBPS/Text/Section0075.xhtml"
+            },
+            {
+              "title": "DOBROVOLNÝ ŽEBRÁK.",
+              "href": "OEBPS/Text/Section0076.xhtml"
+            },
+            {
+              "title": "STÍN.",
+              "href": "OEBPS/Text/Section0077.xhtml"
+            },
+            {
+              "title": "O POLEDNÁCH.",
+              "href": "OEBPS/Text/Section0078.xhtml"
+            },
+            {
+              "title": "UVÍTÁNÍ.",
+              "href": "OEBPS/Text/Section0079.xhtml"
+            },
+            {
+              "title": "VEČEŘE.",
+              "href": "OEBPS/Text/Section0080.xhtml"
+            },
+            {
+              "title": "O VYŠŠÍM ČLOVĚKU.",
+              "href": "OEBPS/Text/Section0081.xhtml"
+            },
+            {
+              "title": "PÍSEŇ ZÁDUMČIVÉHO STESKU",
+              "href": "OEBPS/Text/Section0082.xhtml"
+            },
+            {
+              "title": "O VĚDĚ.",
+              "href": "OEBPS/Text/Section0083.xhtml"
+            },
+            {
+              "title": "MEZI DCERAMI POUŠTĚ.",
+              "href": "OEBPS/Text/Section0084.xhtml"
+            },
+            {
+              "title": "PROBUZENÍ.",
+              "href": "OEBPS/Text/Section0085.xhtml"
+            },
+            {
+              "title": "SLAVNOST OSLA.",
+              "href": "OEBPS/Text/Section0086.xhtml"
+            },
+            {
+              "title": "PÍSEŇ OPOJENÍ.",
+              "href": "OEBPS/Text/Section0087.xhtml"
+            },
+            {
+              "title": "ZNAMENÍ.",
+              "href": "OEBPS/Text/Section0088.xhtml"
+            }
+          ],
+          "href": "OEBPS/Text/Section0068.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0068.xhtml"
+    }
+  ]
+}
