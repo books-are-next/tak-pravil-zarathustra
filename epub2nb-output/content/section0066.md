@@ -1,5 +1,5 @@
 ---
-{}
+contentType: prose
 ---
 
 ### DRUHÁ TANEČNÍ PÍSEŇ.

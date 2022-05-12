@@ -1,5 +1,5 @@
 ---
-{}
+contentType: prose
 ---
 
 ### O ČTENÍ A PSANÍ.

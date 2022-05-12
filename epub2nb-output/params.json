@@ -843,8 +843,7 @@
     "metadata": {
       "title": "Tak pravil Zarathustra",
       "identifier": "b185b07f-4b09-47fa-b45d-4f45e7cda15b",
-      "author": "Friedrich Nitzsche",
-      "modified": "2021-12-01T22:04:07.429Z"
+      "author": "Friedrich Nitzsche"
     },
     "chapters": [
       {
@@ -1412,6 +1411,6 @@
       "user": "books-are-next",
       "repo": "tak-pravil-zarathustra"
     },
-    "generatedAt": 1638396248290
+    "generatedAt": 1652351360400
   }
 }

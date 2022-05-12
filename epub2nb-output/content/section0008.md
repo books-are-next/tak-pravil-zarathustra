@@ -1,5 +1,5 @@
 ---
-{}
+contentType: prose
 ---
 
 ### O TĚCH, KDOŽ POVRHUJI TĚLEM.

@@ -1,5 +1,5 @@
 ---
-{}
+contentType: prose
 ---
 
 ### PÍSEŇ ZÁDUMČIVÉHO STESKU

@@ -1,5 +1,5 @@
 ---
-{}
+contentType: prose
 ---
 
 ### STARÝCH I MLADÝCH ŽENKÁCH.

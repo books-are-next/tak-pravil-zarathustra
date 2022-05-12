@@ -1,5 +1,5 @@
 ---
-{}
+contentType: prose
 ---
 
 ### V PÍSEŇ NOCI.
