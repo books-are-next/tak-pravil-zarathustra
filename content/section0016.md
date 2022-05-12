@@ -1,5 +1,5 @@
 ---
-{}
+contentType: prose
 ---
 
 ### O MOUCHÁCH NA TRHU.

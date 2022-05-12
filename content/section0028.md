@@ -1,5 +1,5 @@
 ---
-{}
+contentType: prose
 ---
 
 ### DÍTĚ SE ZRCADLEM.

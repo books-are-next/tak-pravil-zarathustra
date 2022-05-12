@@ -1,5 +1,5 @@
 ---
-{}
+contentType: prose
 ---
 
 ### TANEČNÍ PÍSEŇ.

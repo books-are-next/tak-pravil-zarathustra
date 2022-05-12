@@ -1,5 +1,5 @@
 ---
-{}
+contentType: prose
 ---
 
 ### PŘED VÝCHODEM SLUNCE.

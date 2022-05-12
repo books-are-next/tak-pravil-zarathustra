@@ -1,5 +1,5 @@
 ---
-{}
+contentType: prose
 ---
 
 ### O STARÝCH A NOVÝCH DESKÁCH.

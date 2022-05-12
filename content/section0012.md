@@ -1,5 +1,5 @@
 ---
-{}
+contentType: prose
 ---
 
 ### O STROMU NA HOŘE.

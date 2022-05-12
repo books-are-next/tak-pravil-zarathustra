@@ -1,5 +1,5 @@
 ---
-{}
+contentType: prose
 ---
 
 # TAK PRAVIL ZARATHUSTRA. 

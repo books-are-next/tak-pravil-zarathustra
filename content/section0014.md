@@ -1,5 +1,5 @@
 ---
-{}
+contentType: prose
 ---
 
 ### O VÁLCE A VÁLEČNÉM LIDU.
