@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### O BLEDÉM ZLOČINCI.
 
 Nechcete zabíjeti, vy soudcové a obětníci, dokud zvíře ne-přikývne? Hleďte, bledý zločinec přikývl: z oka mu mluví velké pohrdání.
@@ -58,6 +60,10 @@ Přál bych si věru, by jejich šílenství slulo pravdou či věrností či sp
 
 Jsem zábradlím nad proudem: chyt se mne, kdo chytit se mne může! Vaší berlou však nejsem. –
 
-  
+</section>
+
+<section>
 
 Tak pravil Zarathustra.
+
+</section>

@@ -2,11 +2,15 @@
 contentType: prose
 ---
 
+<section>
+
 # TAK PRAVIL ZARATHUSTRA. 
 
 ## ČTVRTÝ A POSLEDNÍ DÍL
 
-  
+</section>
+
+<section>
 
 Ach, kde se na světě udály větší pošetilosti než u soucitných? A co na světě způsobilo více utrpení než pošetilosti soucitných?
 
@@ -17,3 +21,5 @@ Takto kdysi Jábel ke mně promluvil: „i bůh má své peklo: tím jest jeho l
 svým soucitem s lidmi zemřel bůh“
 
 TAK PRAVIL ZARATHUSTRA (II, str. 85).
+
+</section>

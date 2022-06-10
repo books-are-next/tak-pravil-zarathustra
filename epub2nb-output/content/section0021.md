@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### O CESTĚ TVŮRČÍHO.
 
 Chceš jíti do osamocení, bratře můj? Chceš hledati cestu k sobě samotnému? Ještě chvíli postůj a poslyš mne. 
@@ -70,6 +72,10 @@ Osamělý, kráčíš cestou milujího: sám sebe miluješ a proto sebou pohrdá
 
 Tvořiti nechce milující, protože pohrdá! Co ví o lásce, kdo nebyl právě nucen pohrdati tím, co miloval! Se svou láskou a se svým tvořením jdi ve své osamocení, bratře můj; a pozdě teprve přibelhá se za tebou spravedlivost S mými slzami jdi ve své osamocení, bratře můj. Miluji toho, kdo tvořiti chce nad sebe sama a takto zaniká. –
 
-  
+</section>
+
+<section>
 
 Tak pravil Zarathustra.
+
+</section>

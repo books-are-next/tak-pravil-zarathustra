@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### O DÍTĚTI A MANŽELSTVÍ.
 
 Mám otázku pro tebe samotna, bratře můj: jak olovnici tu otázku ti vnořím do duše, bych věděl, jak hluboká jest. 
@@ -60,6 +62,10 @@ I nejlepší láska ve svém kalichu má hořkost: tak vyvolá touhu po nadčlov
 
 Svatými zvou se mi taková vůle a takové manželství. –
 
-  
+</section>
+
+<section>
 
 Tak pravil Zarathustra.
+
+</section>

@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### O BÁSNÍCÍCH.
 
 „Od té doby, co lépe znám tělo, – pravil Zarathustra jednomu ze svých žáků - je mi duch již jenom tak zvaným duchem; a všechno to ‚nepomíjející´ – to je také jen podobenství.“  
@@ -54,7 +56,9 @@ Vždyť jsou právě lehouncí dost pro tato křesla! – všichni ti bozi a nad
 
 Ach, jak jsem se nabažil všeho toho nedokonalého, o němž se za každou cenu tvrdí, že se stalo skutkem! Ach, jak jsem se nabažil básníků!
 
-  
+</section>
+
+<section>
 
 Když Zarathustra takto mluvil, rozhněval se naň jeho žák, ale mlčel. A také Zarathustra mlčel; a jeho zrak se obrátil dovnitř, jako by zíral do dalekých dálek. Posléze vzdychl a nabral dechu.
 
@@ -96,6 +100,10 @@ Proměněny viděl jsem již básníky, a proti sobě samotným byl namířen ji
 
 Zíraje do budoucna, viděl jsem kajícníky ducha; ti z nich vyrostli. – 
 
-  
+</section>
+
+<section>
 
 Tak pravil Zarathustra.
+
+</section>

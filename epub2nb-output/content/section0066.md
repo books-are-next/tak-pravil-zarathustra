@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### DRUHÁ TANEČNÍ PÍSEŇ.
 
 1\. „Ve tvé oko jsem nedávno pohlédl, živote, ženo: zlato jsem viděl se kmitat v nočním tvém oku, – tou rozkoší se zastavilo mé srdce:
@@ -56,11 +58,15 @@ Mám toho věru již dost, tvým ovčím ovčákem abych byl vždy! Ty čaroděj
 
 Do taktu k mému biči ty mi teď tanči a křič! Ach, jak jsem rád, že jsem nezapomněl vzíti s sebou svůj bič!“ –
 
-  
+</section>
+
+<section>
 
 2\. Tu odpověděl mi život s rukama na svých hezounkých ouškách:
 
-  
+</section>
+
+<section>
 
 „Ó Zarathustro! Nepráskej mi tak strašlivě svým bičem! Vždyť víš: Lomoz – myšlenek smrt: a právě mi přicházejí tak něžné myšlenky.
 
@@ -72,7 +78,9 @@ A že jsem s tebou za dobře a často více, to víš: to proto, že žárlím n
 
 Kdyby ti jednou utekla tvá moudrost, ach! tu by ti rychle utekla také má láska.“ –
 
-  
+</section>
+
+<section>
 
 Po té se žena - život ohlédla zamyšleně na zad i kol a řekla potichu: „Ó Zarathustro, nejsi mi dost věrný!
 
@@ -84,21 +92,29 @@ Je starý těžký těžký bručící zvon: a bručí v noci až nahoru k tvé 
 
 \- myslíš na to, vím, ó Zarathustro, že v brzku chceš mne opustit!“ –
 
-  
+</section>
+
+<section>
 
 „Ano, odpověděl jsem váhavě, ale víš to přece též“ – A řekl jsem jí cos do ucha, právě doprostřed mezi její zadrhnutý žlutý bláznovský huňatý vlas.
 
 „Tyto víš, ó Zarathustro? To neví nikdo. „
 
-  
+</section>
+
+<section>
 
 I podívali jsme se na sebe a pohlédli na zelenou louku, přes niž právě běžel chladný večer, a plakali jsme spolu. – Tehdy však život byl mi dražší, nežli mi kdy drahá byla celá moje moudrost.
 
-  
+</section>
+
+<section>
 
 Tak pravil Zarathustra.
 
-  
+</section>
+
+<section>
 
 3\. Prvá!
 
@@ -145,3 +161,5 @@ Jedenáctá!
 „– chci věčnost, věčnost nejhlubší!“  
 
 Dvanáctá!
+
+</section>

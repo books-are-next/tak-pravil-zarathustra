@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### V PÍSEŇ NOCI.
 
 Je noc: teď hlasitěji mluví vše řinoucí se studny. A také má duše je řinoucí se studna. 
@@ -54,6 +56,10 @@ Je noc: teď jako zdroj vyráží ze mne má touha, – mluviti toužím.
 
 Je noc: teď hlasitěji mluví vše řinoucí se studny. A také má duše je řinoucí se studna. Je noc: teď procitají vše písně milujících. A také má duše je písní milujícího. –
 
-  
+</section>
+
+<section>
 
 Tak zpíval Zarathustra.
+
+</section>

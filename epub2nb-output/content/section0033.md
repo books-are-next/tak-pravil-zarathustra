@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### O CHATŘE.
 
 Život je zdrojem rozkoše; kde chátra však pije spolu, tam všechny studny jsou otráveny.
@@ -72,6 +74,10 @@ A vichru podoben zaduji ještě jednou do jejich středu a svým duchem duchu je
 
 Věru, silným vichrem jest Zarathustra všem nížinám; a takovouto radu dává svým nepřátelům i všemu, co plije a prská: „střežte se, byste neplvali proti větru!“
 
-  
+</section>
+
+<section>
 
 Tak pravil Zarathustra.
+
+</section>

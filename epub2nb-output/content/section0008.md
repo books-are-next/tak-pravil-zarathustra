@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### O TĚCH, KDOŽ POVRHUJI TĚLEM.
 
 Těm, kdož povrhují tělem, řeknu své slovo. Nemají mi pře-měniti sebe ani jiné, nýbrž jen vlastnímu tělu mají říci s bohem – a tak oněměti. 
@@ -48,6 +50,10 @@ A proto teď nevrazíte na život i na zemi. Nevědomá závist jest v kosém po
 
 Nejdu já vaší cestou, vy povrhovatelé tělem! Vy mi nejste mosty k nadčlověku! –
 
-  
+</section>
+
+<section>
 
 Tak pravil Zarathustra.
+
+</section>

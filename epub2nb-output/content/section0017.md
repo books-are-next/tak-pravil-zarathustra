@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### O CUDNOSTI.
 
 Miluji les. V městech je špatně žiti: tam příliš mnoho jest říjících.
@@ -34,6 +36,10 @@ Smějí se i cudnosti a táží se: „co je cudnost!
 
 Zdaž cudnost není bláznovství? Ale toto bláznovství přišlo k nám, a ne my k němu. Poskytli jsme tomu hosti přístřeší a srdce: teď u nás přebývá, nechť zůstane, pokud se mu zlíbí!“ –
 
-  
+</section>
+
+<section>
 
 Tak pravil Zarathustra.
+
+</section>

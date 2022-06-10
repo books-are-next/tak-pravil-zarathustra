@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### DÍTĚ SE ZRCADLEM.
 
 Potom se Zarathustra zase navrátil do hor a do samoty své jeskyně, uniknuv lidem a vyčkávaje, jako rozsévač, jenž símě své rozhodil. Jeho duše se však naplnila netrpělivostí a touhou po těch, jež choval v lásce: melt ještě mnoho, co by jim dal. Neb toto jest nejtěžší: z lásky uzavřití svou otevřenou ruku a v darování si zachovati stud.
@@ -70,6 +72,10 @@ Teď bláznovsky běhá po tvrdé poušti a hledá a hledá měkký drn – má 
 
 Na hebkém trávníku vašich srdcí, přátelé moji! – na vaší lásce by chtěla ustlati svému miláčku! –
 
-  
+</section>
+
+<section>
 
 Tak pravil Zarathustra.
+
+</section>

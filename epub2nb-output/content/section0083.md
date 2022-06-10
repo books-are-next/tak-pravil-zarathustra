@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### O VĚDĚ.
 
 Tak zpíval kouzelník; a všichni, kdož byli pohromadě, uvízli, jako ptáci, nepozorovaně v síti jeho lstivé a zádumčivé rozkoše. Jenom člověk svědomitého ducha nedal se polapit: rychle odňal kouzelníkovi harfu a zvolal: „Vzduch! Vpustte sem dobrý vzduch! Vpustte sem Zarathustru! Tebou se tato sluj stala dusnou a jedovatou, zlý, starý kouzelníku! 
@@ -61,3 +63,5 @@ Nuže dobrá! Usmiřme se zas a buďme dobré míry! A třeba že se Zarathustra
 Ten – miluje své nepřátele: v tom umění se vyzná nejlépe ze všech lidí, jež jsem kdy viděl! Za to se však mstí –na svých přátelích!“
 
 Tak pravil starý kouzelník, a vyšší lidé s ním souhlasili; i obcházel Zarathustra, ve zlobě a lásce svým přátelům potřásaje rukama, – jako by všechny měl z nějakého důvodu odprositi a udobřiti. Ale když se při tom dostal k východu sluje, hle, tu se mu zase již zastesklo po dobrém vzduchu tam venku i po jeho zvířatech, – a chtěl vyklouznouti.
+
+</section>

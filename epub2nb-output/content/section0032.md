@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### O CTNOSTNÝCH.
 
 Hřměním a nebeskými ohňostroji nutno promlouvati k chabým a spícím smyslům. Hlas krásy však promlouvá tiše: vkrádá se jen do duší nejprobuzenějších.
@@ -84,6 +86,10 @@ Táž vlna však jim přinese nové hračky a nové pestré lastury jim k nohám
 
 To je zas utěší; a jak oněm dětem, též vám, přátelé moji, dostane se útěchy – a nových pestrých lastur! –
 
-  
+</section>
+
+<section>
 
 Tak pravil Zarathustra.
+
+</section>

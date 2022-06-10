@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### ZNAMENÍ.
 
 Z jitra však po této noci vyskočil Zarathustra s lože, opásal si bedra a vykročil ze sluje, žhoucí a silný, tak jako jitřní slunce, jež vychází z tmavých hor. 
@@ -24,7 +26,9 @@ Můj orel bdí a jako já uctívá slunce. Orlími spáry sahá po novém světl
 
 Ještě se mi však nedostává mých pravých lidí!“ –
 
-  
+</section>
+
+<section>
 
 Tak pravil Zarathustra; tu se však stalo, že pojednou zaslechl jakoby rej a let nesčetných ptáků, kteří kolem něho tloukli křídly, – a šum tolika perutí a nával kol jeho hlavy byl tak velký, že přimhouřil oči. A věru, jako mrak se to naň sneslo, jako mrak šípů, jenž zasypává nového nepřítele. Avšak hle, zde to byl mrak lásky, a zasypal nového přítele.
 
@@ -56,6 +60,10 @@ Nuže dobrá! Přišel lev, mé děti jsou na blízku, Zarathustra dozrál, při
 
 \- Toť moje jitro, můj den se počíná: teď vzhůru, teď vzhůru, veliké poledne!“
 
-  
+</section>
+
+<section>
 
 Tak pravil Zarathustra a opustil svou sluj, žhoucí a silný, tak jako jitřní slunce, jež vychází z tmavých hor.
+
+</section>

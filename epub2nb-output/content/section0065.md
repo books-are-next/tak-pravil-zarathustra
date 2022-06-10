@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### VELIKÉ TOUZE
 
 Ó moje duše, já tě naučil, abys říkala „Dnes“ jako „Kdys“ a “Před časy“ a tančila svůj rej přes všechno Zde a Tu a Tam. 
@@ -70,6 +72,10 @@ Ale nechceš-li plakati, nechceš-li vyplakati nachový svůj stesk, nezbude ti,
 
 A mne nech děkovati! –
 
-  
+</section>
+
+<section>
 
 Tak pravil Zarathustra.
+
+</section>

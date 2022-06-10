@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### O STARÝCH A NOVÝCH DESKÁCH.
 
 1\. Zde sedím a čekám, kol sebe staré rozražené desky i desky nové, z pola popsané. Kdy přide má hodina?
@@ -12,7 +14,9 @@ Na to teď čekám: neb dříve je nutno, aby mi vzešla známem‘, že jest to
 
 Zatím jako kdosi, kdo má kdy, sám k sobě promlouvám. Nikdo mi nevypravuje nic nového: i vypravuji sobě sám sebe. –
 
-  
+</section>
+
+<section>
 
 2\. Když jsem přišel k lidem, nalezl jsem je sedící na staré domýšlivosti: všichni si domýšleli, že dávno již vědí, co člověku je dobré a zlé.
 
@@ -48,7 +52,9 @@ Kde jsem se opět shledal se svým starým ďáblem i arcinepřítelem, s duchem
 
 Neb zda není třeba, by bylo něco, přes co by se tančilo, přes co by se tančilo svobodně v dál? Není třeba, by v zájmu lehkých a nejlehčích – byli krtkové a těžcí trpaslíci?
 
-  
+</section>
+
+<section>
 
 3\. Tam bylo to též, kde s cesty jsem zvedl slovo „nadčlověk“ i poznání, 
 
@@ -76,7 +82,9 @@ Tomu jsem se od slunce přiučil, když, přebohaté, sestupuje dolů: tu sype d
 
 Jako slunce, tak chce i Zarathustra zaniknouti: teď sedí zde a čeká, kol sebe staré rozražené desky i desky nové, – z pola popsané.
 
-  
+</section>
+
+<section>
 
 4\. Hle, zde jest nová deska: ale kde jsou moji bratří, aby ji nesli se mnou do údolí a do masitých srdcí? –-
 
@@ -96,7 +104,9 @@ A věru, toť vznešená řeč, která dí: „co život slibuje nám, to my vyp
 
 Požitek a nevinnost jsou totiž nejstydlivější věci: nechtějí, aby byly hledány. Je dobře je míti –, ale ještě lépe, hledati vinu a bolesti!
 
-  
+</section>
+
+<section>
 
 6\. Ó moji bratří, kdo je prvorozený, vždy bývá obětován. My však jsme prvorození.
 
@@ -108,7 +118,9 @@ V nás samotných přebývá ještě ten starý modlářský kněz, jenž si k h
 
 Ale tak tomu chce náš rod; a miluji ty, kdož se nechtějí ucho-vati. Ty, kdož zanikají, miluji já celou svou láskou: neb kráčejí na onen břeh. –
 
-  
+</section>
+
+<section>
 
 7\. Býti pravdivý – to dovede málokdo! A kdo dovede, ještě nechce! Nejméně však to dovedou dobří lidé!
 
@@ -122,7 +134,9 @@ Odvážná odvážlivost, dlouhá nedůvěra, ukrutný zápor, omrzelost, řez d
 
 Vedle zlého svědomí vzrůstalo dosud vše vědění! Rozrazte, vy poznávající, rozrazte mi staré desky!
 
-  
+</section>
+
+<section>
 
 8\. Jestliže voda má trámy, jestliže přes proud skáčí lávky a zábradlí, nikdo věru nedojde víry, kdo hlásá: „všechno je v proudu“. 
 
@@ -144,7 +158,9 @@ O moji bratří, zda téct není vše v proudu? Zda nepadly do vody vše lávky 
 
 „Běda nám! Blaze nám! Vane březnový vítr!“ – Tak mi hlásejte všemi ulicemi, ó moji bratří!
 
-  
+</section>
+
+<section>
 
 9\. Je starý blud, ten sluje dobro a zlo. Kol věštců a hvězdopravců J točilo se dosud kolo tohoto bludu.
 
@@ -154,7 +170,9 @@ Pak se opět nedůvěřovalo věštcům a hvězdopravcům: a proto se věřilo: 
 
 O moji bratří, o hvězdách a budoucnosti dosud byly jen bludy, ne vědění: a proto dosud o dobru a zlu byly jen bludy, ne vědění!
 
-  
+</section>
+
+<section>
 
 10\. „Neuloupíš! Nezavraždíš!“ – taková slova byla kdysi zvána svatými; před nimi skláněli kolena i hlavy a zouvali obuv. 
 
@@ -166,7 +184,9 @@ Zdaž i ve všem životě není – loupení a vraždění? A tím, že taková 
 
 O moji bratří, rozrazte, rozrazte mi staré desky!
 
-  
+</section>
+
+<section>
 
 11\. Toť soucit můj se vším minulým, že vidím: jest vydáno v šanc, - vydáno v šanc milosti, duchu, šílenství každého pokolení, jež přichází a vše, co bylo, si vyloží tak, aby mu to sloužilo za most!
 
@@ -180,7 +200,9 @@ Proto, ó moji bratří, je třeba nové šlechty, jež jest odpůrkyní vší l
 
 Mnoha šlechetných totiž je třeba i mnoha jejich odrůd, aby byla šlechta! Anebo, jak jsem kdysi v podobenství děl: „To právě jest božskostí, že jsou bohové, ale že není boha!“
 
-  
+</section>
+
+<section>
 
 12\. Ó moji bratří, svědectví a svěcení vám dávám nové šlechty: máte se mi stati ploditeli a pěstiteli a rozsévači budoucna,
 
@@ -204,7 +226,9 @@ Ne svých otců, ale svých dětí zemi milovati budete: tato láska budiž vaš
 
 Na svých dětech napravte, že jste dětmi svých otců: vše minulé takto vykoupíte! Tuto novou desku nad vámi vztyčuji!
 
-  
+</section>
+
+<section>
 
 13\. K čemu žiti? Všecko jest marnost! Žiti – toť mlátit slámu; žiti znamená popálit se a přece se neohřát.“ 
 
@@ -218,7 +242,9 @@ Takoví lidé zasedají za stůl a nepřinášejí ničeho, ani ne pořádného 
 
 Ale dobře jisti a piti, ó moji bratří, to věru není umění marnosti! Rozrazte mi, rozrazte desky těch, kdož se nikdy neradují!
 
-  
+</section>
+
+<section>
 
 14\. Čistému vše čisto“: tak ústy lidu jsou chváleni nevinní. Já vám však pravím: sviním se všechno zasviní! 
 
@@ -248,7 +274,9 @@ I na nejlepším je cosi, co působí hnus; a i nejlepší člověk je cosi, co 
 
 – Rozrazte mi, rozrazte, ó moji bratří, tyto staré desky pobožných! Rozemelte mi průpovědi pomlouvačů světa!
 
-  
+</section>
+
+<section>
 
  16. „Kdo se mnoho učí, odnaučí se vší prudké žádostivosti“ – – to druh druhu dnes šepce na všech temných ulicích.
 
@@ -276,7 +304,9 @@ Chtění to jest, jež osvobozuje: neb chtíti, toť tvořiti: tak učím já. A
 
 A také jak se učit, máte se teprve ode mne učit, totiž jak dobře se učit! – Kdo uši má, slyš!
 
-  
+</section>
+
+<section>
 
 17\. Kde stojí člun, – tam na onu stranu jde cesta snad ve velké Nic. – Ale kdo by vstoupil do tohoto „Snad“?
 
@@ -300,7 +330,9 @@ Je zbytečno chtít léčiti nevyléčitelné: tak učí Zarathustra: –tedy co
 
 Ale k tomu, by se udělal konec, je třeba větší odvahy, než k novému verši: to vědí všichni lékaři a básníci. –
 
-  
+</section>
+
+<section>
 
 18\. Ó moji bratří, jsou desky, stvořené mdlobou, a desky, stvořené leností, hnilobnou leností: třeba že mají stejnou mluvu, nestejně chtějí být slyšeny. – Vizte zde tohoto chřadnoucího! Již jen o píď je statečný ten muž vzdálen svého cíle, mdlobou však se vzdorně zde položil do prachu!
 
@@ -316,7 +348,9 @@ Nechte ho ležet, až procitne sám, – až sám od sebe odvolá všechnu mdlob
 
 Jen abyste, bratří moji, od něho zaplašili psy, líné ty lísaly, i všechnu tu bzučící ha vět: všechnu bzučící havět „vzdělanců“, jež si na potu každého hrdiny – pochutnává! –
 
-  
+</section>
+
+<section>
 
 19\. Kruhy kol sebe opisuji a posvátné hranice; stále méně je těch, kdož se mnou stoupají na hory stále vyšší: stavím pohoří z hor stále posvátnějších.
 
@@ -340,7 +374,9 @@ Ona duše totiž, která má nejdelší žebřík a nejhloub sahá dolů: jak by
 
 \- duše sama sebe nejvíc milující, v níž veškery věci mají svůj proud a protiproud, svůj příliv a odliv: – ó, jak by nejvyšší duše neměla nejhorších cizopasníků?
 
-  
+</section>
+
+<section>
 
 20\. Ó moji bratří, což jsem ukrutný? Ale dím: co padá, to ještě postrčte!
 
@@ -354,7 +390,9 @@ Jsem předehrou pro lepší hráče, ó moji bratří! Jsem příkladem vaší h
 
 A koho nenaučíte létati, toho mi naučte –-, aby rychleji padal! –
 
-  
+</section>
+
+<section>
 
 21\. Miluji statečné: není však na tom dost, abys kolem sebe mlátil. Mlať si, ale věz, do koho!
 
@@ -380,7 +418,9 @@ Hleďte jen, jak tito národové teď sami si počínají jako kupčíci: nejmen
 
 Neboť, bratří mojí: co jest nejlepší, panovati má, co jest nejlepší, chce také panovati! A kde učení zní jinak, tam – není nejlepšího.
 
-  
+</section>
+
+<section>
 
 22\. Tito lidé zde – kdyby ti chléb měli zadarmo, běda! Po čem by pak křičeli! Jejich výživa –toť jejich pravá zábava; a nechť jen mají život těžký! 
 
@@ -392,11 +432,15 @@ Všem zvířatům člověk již uloupil jejich ctnosti: to proto, že ze všech 
 
 Jen ještě ptáci jsou nad ním. A kdyby se člověk naučil ještě i létat, běda! až kam by pak – letěla jeho chtivost lupu!
 
-  
+</section>
+
+<section>
 
 23\. Takto chci muže a ženu: muže zdatného k válce, ženu zdatnou, aby rodila, oba však zdatné, aby tančili hlavou i nohama. A ztracen budiž nám den, kdy ni jedinkráte se netančilo! A nepravou jmenujme každou pravdu, při níž nebylo jediného výsměchu!
 
-  
+</section>
+
+<section>
 
 24\. Vaše „uzavírání“ sňatků! dejte pozor, aby to nebyl špatný závěr! Uzavřeli jste příliš rychle: i vyplývá z toho – zrušení sňatku!
 
@@ -412,7 +456,9 @@ Takto radím všem poctivcům; a čím pak by byla má láska k nadčlověku i k
 
 Nejen rozrůstati se máte, nýbrž růsti vzhůru – k tomu, ó moji bratří, vám pomoziž zahrada manželství!
 
-  
+</section>
+
+<section>
 
 25\. Kdo nabyl poznání o starých zdrojích a vznicích, hle, ten posléze bude pátrati po pramenech budoucnosti a po nových zdrojích a vznicích. – 
 
@@ -424,7 +470,9 @@ Zemětřesení zjevuje nové prameny. Při zemětřesení starých národů vyv�
 
 A kdo volá: „Pohled, zde studna pro mnoho žíznivých, jediné srdce pro mnoho toužebných, jediná vůle pro mnoho nástrojů“: – kolem toho se shromáždí národ, to jest: mnoho lidí zkoušejících.
 
-  
+</section>
+
+<section>
 
 Tam se zkouší, kdo dovede rozkazovati a kdo musí poslouchati! Ach, a jak dlouhým hledáním se to zkouší a jakými radami a nezdary a jakým učením a jakými novými pokusy!
 
@@ -432,7 +480,9 @@ Lidská společnost: toť pokus, tak učím já, – toť dlouhé hledání: a h
 
 – pokus, ó moji bratří! Nikoli však „smlouva!“ Rozrazte mi, rozrazte takové slovo měkkýšovitých srdcí a polo-polovičatých!
 
-  
+</section>
+
+<section>
 
 26\. Ó moji bratří! U kterých že lidí jest největší nebezpečí pro veškeru lidskou budoucnost? Zdaž ne u dobrých a spravedlivých? –
 
@@ -458,7 +508,9 @@ Dobří totiž – nedovedou tvořiti: jsou vždycky počátkem konce: – ukři
 
 Lidé dobří – ti byli vždy počátkem konce. –
 
-  
+</section>
+
+<section>
 
 27\. Ó moji bratří, pochopili jste též toto slovo? I co jsem kdysi Vyřekl o „posledním člověku“?
 
@@ -466,7 +518,9 @@ U kterých že lidí jest největší nebezpečí pro veškeru lidskou budoucnos
 
 Rozrazte mi, rozrazte dobré a spravedlivé! – Ó moji bratří, pochopili jste též toto slovo?
 
-  
+</section>
+
+<section>
 
 28\. Prcháte přede mnou? Jste zlekáni? Třesete se při tomto slově? Ó moji bratří, když jsem vám kázal, byste rozrazili dobré i desky dobrých: teprve tehdy jsem člověka vypravil na jeho širé moře.
 
@@ -482,7 +536,9 @@ Moře bouří: všechno jest v moři. Nuže dobrá! Nuže vzhůru! Vy stará ná
 
 Čím je nám zem našich otců! Tam směřuje naše kormidlo, kde našich dětí je zem! Tam do daleka, bouřněji než moře, bouří naše veliká touha! –
 
-  
+</section>
+
+<section>
 
 29\. „Proč tak tvrd? – pravil kdysi diamantu kuchyňský uhel; což nejsme blízce spřízněni?“ –
 
@@ -500,7 +556,9 @@ Ti, kdo tvoří, jsou totiž tvrdi. A blaženstvím musí se vám zdát, můžet
 
 Tuto novou desku, ó moji bratří, vztyčuji nad vámi: staňte se tvrdými!
 
-  
+</section>
+
+<section>
 
 30\. Ó moje vůle! Jež obracíš veškeru tíseň, ó nezbytnosti má! Uchraň mne všech malých vítězství! 
 
@@ -521,3 +579,5 @@ Ach, čí oko neztemnělo v zmámeném tomto soumraku! Ach, čí noha nezavrávo
 Ó vůle, jež obracíš veškeru tíseň, ó nezbytnosti má! Uchovej mne k jedinému velikému vítězství!
 
 Tak pravil Zarathustra.
+
+</section>

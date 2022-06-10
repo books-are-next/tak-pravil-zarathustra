@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### VÝKŘIK ÚZKOSTI.
 
 Druhého dne seděl Zarathustra zase na svém kameni před slují, zatím co zvířata těkala venku světem, by přinesla nové potravy, – též nového medu: neboť Zarathustra promařit a promarnil starý med až do posledního zrnka. Ale jak tu tak seděl s holí v ruce a stín své podoby obkresloval na zemi, ponořen do myšlenek, a věru! ne do myšlenek o sobě a svém stínu tu se pojednou zalekl a zachvěl: neboť vedle svého stínu spatřil ještě jiný stín. A jak se rychle ohlédl a zvedl, hle, tu stál vedle něho věštec, týž, jejž kdysi u svého stolu pohostil jídlem a pitím, onen zvěstovatel velké mdloby, jenž hlásal: „Všechno jest jedno, nic nemá ceny, svět je bez smyslu, vědění rdousí!“ Jeho tvář se však od té doby proměnila; a když mu Zarathustra pohlédl do očí, zaleklo se jeho srdce podruhé: tolik zlých předzvěstí a popelavě šedivých blesků běželo přes ten obličej.
@@ -34,7 +36,9 @@ Nadarmo by sem na výšinu přišel, kdo by hledal toho člověka: Sluje by sic 
 
 Ale všechno jest jedno, nic nemá ceny, nepomáhá žádné hledání, ani blažených ostrovů již není!“ - -
 
-  
+</section>
+
+<section>
 
 Tak vzdychal věštec: ale při jeho posledním vzdechu Zarathustra se zase rozjasnil a nabyl jistoty, jako ten, kdo z hlubokého jícnu přichází na světlo. „Ne! Ne! Třikráte ne! zvolal silným hlasem a rukou si přejel vous – to vím já lépe! Jsou ještě blažené ostrovy! O tom nemluv, vzdychavý hudlaři smutku!
 
@@ -60,6 +64,10 @@ Najdeš-li tam však ještě medu, dobrá! jen si jej vyliž, medvěde bručoune
 
 Nevěříš? Potřásáš hlavou? Nuže dobrá! Nuže vzhůru! Starý medvěde! Vždyť také já – jsem věštec.“
 
-  
+</section>
+
+<section>
 
 Tak pravil Zarathustra.
+
+</section>

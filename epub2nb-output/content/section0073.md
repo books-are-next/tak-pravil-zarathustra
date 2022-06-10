@@ -2,11 +2,15 @@
 contentType: prose
 ---
 
+<section>
+
 ### KOUZELNÍK.
 
 1\. Ale když Zarathustra zahýbal za skálu, uviděl nedaleko pod sebou na téže cestě člověka, jenž svými údy trhal jako pomatenec a posléze se na břicho vrhl k zemi. „Stůj! pravil Zarathustra svému srdci, onen muž, toť asi vyšší člověk, od něhož vyšel zlý výkřik úzkosti, – podívám se, je-li mu pomoci.“ Ale když doběhl na místo, kde člověk ležel na zemi, nalezl třesoucího se starce s vypoulenýma očima; a byt se Zarathustra sebe více namáhal, aby ho vzpřímil a postavil zas na nohy,, bylo to marné. A nešťastník, zdálo se, ani nepozoroval, že je někdo na blízku, nýbrž obracel se stále s dojímavými posuny, jako ten, kdo celým světem jest opuštěn a osamocen. Posléze však, po mnohém chvění, škubání a klubkovitém svíjení, jal se takto naříkati:
 
-  
+</section>
+
+<section>
 
 Kdo zahřeje, kdo má mne ještě rád?
 
@@ -42,7 +46,9 @@ zasažen, ty nejkrutější lovce, 
 
 ó – bože neznámý!
 
-  
+</section>
+
+<section>
 
 Hloub bodni! 
 
@@ -68,7 +74,9 @@ Nač – mučit mne, 
 
 ó bože! škodolibý! neznámý! –
 
-  
+</section>
+
+<section>
 
 Haha! Plížíš se sem?
 
@@ -118,7 +126,9 @@ Mám pokorně, nadšením bez sebe, 
 
 z lásky se před tebou vrtět?
 
-  
+</section>
+
+<section>
 
 Nadarmo! Bodej dál, 
 
@@ -140,7 +150,9 @@ Zhalený v blesky! Neznámý! Mluv, 
 
 co chceš, ty – bože neznámý?
 
-  
+</section>
+
+<section>
 
 Jak? výkupné?
 
@@ -150,7 +162,9 @@ Chtěj mnoho – to radí má hrdost!
 
 A mluv krátce – to radí druhá má hrdost!
 
-  
+</section>
+
+<section>
 
 Haha!
 
@@ -158,7 +172,9 @@ Mne – si žádáš? Mne? 
 
 Mne – celého mne?…
 
-  
+</section>
+
+<section>
 
 Haha!
 
@@ -186,7 +202,9 @@ nejkrutší soku, 
 
 vzdej mně – sebe sám! - -
 
-  
+</section>
+
+<section>
 
 Ten tam! 
 
@@ -202,7 +220,9 @@ můj neznámý, 
 
 můj katan bůh! –
 
-  
+</section>
+
+<section>
 
 – Ne! Vrať se zas 
 
@@ -224,7 +244,9 @@ tobě vzplá! 
 
 můj neznámý bože! můj bole! poslední - slasti má!
 
-  
+</section>
+
+<section>
 
 2\. Tu se však Zarathustra déle nezdržel, vzal hůl a vší silou bušil do naříkajícího. „Zadrž! volal naň se zuřivým smíchem, zadrž, ty herce! Ty penězokazi! Ty lháři z hloubi duše! Však tě poznávám!
 
@@ -282,7 +304,9 @@ Tak pravil Zarathustra, a oči se mu zajiskřily. Starý kouzelník chvíli mlč
 
 Což nevíš, ó Zarathustro? Zarathustru hledám“
 
-  
+</section>
+
+<section>
 
 \- A zde mezi oběma nastalo dlouhé mlčení; Zarathustra se však hluboko sám do sebe ponořil, takže zavřel oči. A potom, vraceje se k rozmlouvajícímu, chopil se kouzelníkovy ruky a pravil, způsobně a úskočně:
 
@@ -302,6 +326,10 @@ Kdo by tu se zdarem hledal velkost! Jen blázen: bláznům se to zdaří.
 
 Hledáš velké lidi, podivný blázne? Kdo tě tomu naučil? Je dnes na to kdy? Ó ty zlý, jenž hledáš a zkoušíš, co mne – pokoušíš?“ - -
 
-  
+</section>
+
+<section>
 
 Tak pravil Zarathustra, utěšen v srdci svém, a se smíchem kráčel dále svou cestou.
+
+</section>

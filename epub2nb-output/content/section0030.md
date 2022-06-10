@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### O SOUCITNÝCH.
 
 Přátelé moji, dolétlo výsměšné slovo k vašemu příteli: „jen hleďte Zarathustru! Zdaž mezi námi nekráčí, jak mezi zvířaty?“
@@ -84,6 +86,10 @@ Pomněte však i tohoto slova: všechna veliká láska jest ještě nad vším s
 
 Všichni tvořící však jsou tvrdi. –
 
-  
+</section>
+
+<section>
 
 Tak pravil Zarathustra.
+
+</section>

@@ -2,11 +2,15 @@
 contentType: prose
 ---
 
+<section>
+
 ### SEDMERO PEČETÍ. 
 
 (Čili: píseň o Ano a Amen.)
 
-  
+</section>
+
+<section>
 
 1\. Jestliže jsem věštec a pln onoho věšteckého ducha, jenž mezi dvěma moři kráčí na vysokém jhu,
 
@@ -22,7 +26,9 @@ Nikdy jsem ještě nenašel ženy, od níž bych děti chtěl mít, leč tuto ž
 
 Neb já tě miluji, ó věčnosti!
 
-  
+</section>
+
+<section>
 
 2\. Jestliže můj hněv kdy rozdrtil hroby, posunul mezníky hranic a staré desky rozraženy valil do srázných hlubin:
 
@@ -38,7 +44,9 @@ Nikdy jsem ještě nenašel ženy, od níž bych děti chtěl mít, leč tuto ž
 
 Neb já tě miluji, ó věčnosti!
 
-  
+</section>
+
+<section>
 
 3\. Jestliže kdy na mne dýchl dech tvůrčího dechu a oné nebeské nezbytnosti, jež i náhody nutí, by tančily reje hvězd: 
 
@@ -54,7 +62,9 @@ Nikdy jsem ještě nenašel ženy, od níž bych děti chtěl mít, leč tuto ž
 
 Neb já tě miluji, ó věčnosti!
 
-  
+</section>
+
+<section>
 
 4\. Jestliže jsem plným douškem kdy pil z onoho kypícího džbánu, J vonného kořením a směsí nápojů, v němž dobře jsou smíchány všechny věci:
 
@@ -68,7 +78,9 @@ jestliže sám jsem zrnkem oné spasné soli, jíž veškery věci v džbánu se
 
 Neb já tě miluji, ó věčnosti!
 
-  
+</section>
+
+<section>
 
 5\. Jestliže moře mám v lásce a všechno, co mořského jest rodu, a nejvíce v lásce tehdy, když hněvivě mi odporuje:
 
@@ -84,7 +96,9 @@ Nikdy jsem ještě nenašel ženy, od níž bych děti chtěl mít, leč tuto ž
 
 Neb já tě miluji, ó věčnosti!
 
-  
+</section>
+
+<section>
 
 6\. Jestliže má ctnost je ctnost tanečníkova a já-li jsem často oběma nohama vskočil v nadšení zlatě smaragdové:
 
@@ -98,7 +112,9 @@ Nikdy jsem ještě nenašel ženy, od níž bych děti chtěl mít, leč tuto ž
 
 Neb já tě miluji, ó věčnosti!
 
-  
+</section>
+
+<section>
 
 7\. Jestliže jsem kdy tichá nebesa nad sebou rozpial a na vlastních křídlech letěl do vlastních nebes:
 
@@ -111,3 +127,5 @@ jestliže jsem ve hře plul hlubokými dálkami světla, a mé-li svobody přil�
 Nikdy jsem ještě nenašel ženy, od níž bych děti chtěl mít, leč tuto ženu, již miluji: neb já tě miluji, ó věčnosti! 
 
 Neb já tě miluji, ó věčnosti!
+
+</section>

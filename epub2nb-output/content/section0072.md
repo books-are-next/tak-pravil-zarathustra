@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### PIJAVKA.
 
 A Zarathustra zamyšlen kráčel dál a hloub, lesy a podél bažinatých plání; jakož se pak děje každému, kdo přemýšlí o těžkých věcech, šlápl při tom z nenadání na člověka. A hle, tu mu pojednou stříklo do tváře bolestné zvolání a dvé prokletí a dvacet zlých nadávek: takže polekán zdvihl hůl a jal se do člověka, na kterého šlápl, ještě bušiti. Hned po té se však vzpamatoval; a jeho srdce se smálo pošetilosti, jíž se právě dopustil.
@@ -72,6 +74,10 @@ Nuže dobrá! Rozlučme se zde! Rád bych tě však opět nalezl Tam nahoru vede
 
 Rád bych také napravil na tvém těle, že Zarathustra po tobě šlapal nohama: o tom přemýšlím. Ted mne však výkřik úzkosti spěšně od tebe odvolává.“
 
-  
+</section>
+
+<section>
 
 Tak pravil Zarathustra.
+
+</section>

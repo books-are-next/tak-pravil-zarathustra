@@ -2,11 +2,15 @@
 contentType: prose
 ---
 
+<section>
+
 ### O NEVÍTANÉM BLAŽENSTVÍ.
 
 S takovými hádankami a hořkostmi v svém srdci jel Zarathustra přes moře. Ale když ujel čtyři dni cesty od blažených ostrovů a od svých přátel, tu již zdolal všecek svůj bol –: vítězně a pevnýma nohama zase stál na svém osudu. A tehdy Zarathustra promluvil takto k plesajícímu svému svědomí:
 
-  
+</section>
+
+<section>
 
 Sám jsem opět a sám chci býti, sám s čistým nebem a volným mořem; a opět jest kolem mne odpoledne. 
 
@@ -80,6 +84,10 @@ Pryč s tebou, ty blažená hodino! Raději zvol si přístřeší tam – u mý
 
 Tu se již blíží večer: slunce se sklání. To tam – štěstí mé! –
 
-  
+</section>
+
+<section>
 
 Tak pravil Zarathustra. A čekal na své neštěstí po celou noc: nadarmo však čekal. Noc zůstala jasná a tichá, a štěstí samo přicházelo mu stále blíž a blíž. K jitru však usmál se Zarathustra na své srdce a pravil výsměšně:, „štěstí běhá za mnou. To proto, že já neběhám za ženami. Štěstí však je žena“.
+
+</section>

@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### CO TŘEBA MÍJETI.
 
 Tak, pomalu procházeje mnohým lidem a rozličnými městy, Zarathustra oklikami kráčel nazpět do svých hor a k své jeskyni. A hle, při tom se bezděky dostal též k bráně velkého města: tam k němu však přiskočil zpěněný blázen s rukama rozpřaženýma a vkročil mu do cesty. To pak byl týž blázen, jejž lid jmenoval „Zarathustrovou opicí“: neboť mu odposlouchal něco ze skladu a spádu jeho mluvy a také si rád vypůjčovával z pokladu jeho moudrosti. A blázen jal se k Zarathustrovi takto řečniti: 
@@ -52,7 +54,9 @@ kde všechno podezřelé a vetřelé, zpuchřelé, schmuřené, zduřené, vše 
 
 plivni na velké město a odejdi!“
 
-  
+</section>
+
+<section>
 
 Zde však Zarathustra přerušil zpěněného blázna a ústa mu přidržel.
 
@@ -76,7 +80,9 @@ A i kdyby Zarathustrovo slovo bylo stokráte v právu: ty bys mým slovem vždy 
 
 Tak pravil Zarathustra; a pohlédl na velké město, vzdychl a dlouho mlčel. Posléze řekl:
 
-  
+</section>
+
+<section>
 
 Hnusí se mi též toto město a nejen tento blázen. Zde ani tam nic se nedá zlepšit, nic se nedá zhoršit.
 
@@ -86,6 +92,10 @@ Neb takové ohnivé sloupy nezbytně půjdou před velkým polednem. Než to má
 
 Toto poučení dávám však tobě, blázne, na rozloučenou: čeho nelze již milovati, to – míjejí!
 
-  
+</section>
+
+<section>
 
 Tak pravil Zarathustra a minul blázna i velké město.
+
+</section>

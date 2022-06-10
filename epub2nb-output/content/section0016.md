@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### O MOUCHÁCH NA TRHU.
 
 Do své samoty prchni, příteli můj! Vidím tě zmámena hřmotem velkých mužů a rozbodána žahadly malých. Důstojně zná s tebou mlčet skála i les. Bud zase jako strom, jejž miluješ, jako košatý strom, jenž tiše a naslouchaje visí nad mořem. Kde přestává samota, začíná se trh; a kde se začíná trh, začíná se také hřmot velkých herců a hemžení jedovatých much. Nejlepší věci ve světě pranic neplatí, pokud se nenajde někdo, kdo je sehraje: velkými muži nazývá lid takové pořadatele her. Málo rozumí lid velkým věcem, to jest: tvůrčím. Smysly má však pro všechny pořadatele a herce velkých her. Kol vynálezců nových hodnot točí se svět: – neviditelně se točí.
@@ -50,6 +52,10 @@ Ano, příteli můj, zlým svědomím jsi pro své bližní: neb jsou tě nehodn
 
 Do své samoty prchni, příteli můj, a tam, kde vane drsný, silný vzduch! Tvým údělem není, býti oháňkou na mouchy!
 
-  
+</section>
+
+<section>
 
 Tak pravil Zarathustra.
+
+</section>

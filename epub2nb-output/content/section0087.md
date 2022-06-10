@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### PÍSEŇ OPOJENÍ.
 
 1\. Zatím však druh za druhem vystoupili ven na čerstvý vzduch do chladné zamyšlené noci; Zarathustra sám pak vedl za ruku nejohyzdnějšího člověka, aby mu ukázal svůj noční svět a veliký kulatý měsíc i stříbrné překotné vodopády u své sluje. Tu stáli konečně tiše pospolu, samí staří lidé, ale se srdcem utěšeným a statečným, divíce se v nitru svém, že jim bylo tak blaze na zemi; důvěrnost noci se jim však blíže a blíže vkrádala do srdce. A znovu si pomyslil Zarathustra: „ó, jak dobře se mi teď líbí vyšší ti lidé!“ – nevyřkl to však, neboť ctil jejich štěstí a mlčení. –
@@ -18,7 +20,9 @@ Přátelé moji, co tomu řeknete? Nepromluvili byste k smrti jako já: To – �
 
 Tak pravil nejohyzdnější člověk; a nebylo daleko do půlnoci. A co byste as řekli, že se tenkrát přihodilo? Sotva že vyšší lidé zaslechli jeho otázku, rázem si uvědomili svou proměnu a své uzdravení i komu za to děkovati: tu přiskočili k Zarathustrovi, děkujíce, klaníce se, laskajíce, ruce mu líbajíce, dle toho, jaké kdo byl povahy: jedni se smáli a druzí plakali. Starý věštec však tančil radostí; a byt i, jak tvrdí někteří vypravovatelé, byl tenkráte sladkého vína pln, byl dojista ještě více naplněn sladkým životem a zřekl se vší mdloby. Ba jsou, kdož vypravují, že tenkráte tančil osel: nedávalť mu prý nejohyzdnější člověk před tím nadarmo piti vína. Bud tomu tak či onak: a byt i osel onoho večera v pravdě netančil, udály se tenkráte zázračnější a podivnější věci, než kdyby byl osel tančil. Zkrátka, jak zní Zarathustrovo přísloví: „co na tom záleží!“
 
-  
+</section>
+
+<section>
 
 2\. Když se však toto přihodilo s nejohyzdnějším člověkem, stál tu Zarathustra, jako by byl zpit: pohled mu uhasínal, jazyk blábolil, nohy se potácely. A kdo by uhodl, jaké myšlenky při tom běžely přes Zarathustrovu duši? Zřejmě však ustupoval jeho duch a utíkal zas do předu, byl v odlehlých dálkách a jakoby „na strmém jhu, jak psáno jest, mezi dvěma moři, 
 
@@ -28,7 +32,9 @@ A záhy bylo kolem kol ticho a tajemno; z hloubky však pomalu vzhůru zazníval
 
 Pojďte! Pojďte! Pojďte! Putujme nyní! Je tu hodina: putujme v noc!
 
-  
+</section>
+
+<section>
 
 3\. Vyšší vy lidé, blíží se půlnoc: i řeknu vám něco do ucha, jak onen starý zvon mi to do ucha říká,tak tajně, tak příšerně, tak srdečně, jak onen půlnoční zvon mi to do ucha šeptá, jenž zažil více než jediný člověk:
 
@@ -42,7 +48,9 @@ Tiše! Tiše! Tu je slyšet leccos, co za dne nesmí zazvučet; nyní však, v t
 
 Ó duše, bdíš?
 
-  
+</section>
+
+<section>
 
 4\. Běda mi! Kam se poděl čas? Neklesl jsem do hlubokých studen? Dřímá svět –
 
@@ -56,7 +64,9 @@ Teď jsem již umřel. Vše to tam. Pavouku, nač mne pavučinou opřádáš? Ch
 
 \- hodina se blíží: ó duše, vyššího člověka duše, bdíš? tato řeč jest pro jemné uši, pro uši tvé – půlnoci ducha neslyšíš?
 
-  
+</section>
+
+<section>
 
 5\. Jsem unášen, tančí duše má. Dílo mého dne! Dílo mého dne! Kdo má být pánem země?
 
@@ -68,7 +78,9 @@ Nevzlétli jste vysoko dost: teď se zajíkají hroby: „vykupte přece mrtvé!
 
 Vyšší vy lidé, vykupte přece hroby, zburcujte mrtvoly! Ach, co ještě hrabe červ? Blíží se, blíží hodina,duní zvon, posud rachotí srdce, vrtá ještě červotoč, rozvrtává srdce. Ach! Ach! Hluboký svět!
 
-  
+</section>
+
+<section>
 
 6\. Sladká lyro! Sladká lyro! Miluji tvůj zvuk, tvůj zmámený, žabí, zurčící zvuk! – z jak dávných dob, z jaké dálky se mi blíží tvůj zvuk zurčící z tůní lásky!   
 
@@ -82,7 +94,9 @@ Starý ty zvone, sladká lyro! Každý bol se ti do srdce vryl, bol otce, bol ot
 
 \- vonící po zmámeném štěstí půlnočního umírání, po štěstí, které zpívá: hluboký svět, ba hlubší, než jak den jej znal!
 
-  
+</section>
+
+<section>
 
 7\. Nech mne! Nech mne! Jsem pro tebe příliš cist. Nedotýkej se mne! Nedozrál můj svět právě k dokonalosti?
 
@@ -98,7 +112,9 @@ O světe, mne si žádáš? Jsem ti světský? Jsem ti duchový? Jsem ti božsk�
 
 \- mé neštěstí, mé štěstí jest hluboké, ty podivný dni, ale přec nejsem bohem, ni peklem boha: svět je hluboký; v něm propast běd.
 
-  
+</section>
+
+<section>
 
 8\. Bolest boha je hlubší, ty podivný světe! Sahej po boží bolesti, nesahej po mně! Čím jsem já! Jsem zmámenou sladkou lyrou, -
 
@@ -112,7 +128,9 @@ Jak právě teď střízlivě mluví, ta zpitá básnířka! pila as ještě nad
 
 \- ve snách přežvykuje svůj bol, ta stará hluboká půlnoc, a ještě více svou slast. Je-li bol již hluboký, tedy slast – slast hlubší nad všech srdcí žal ,
 
-  
+</section>
+
+<section>
 
 9\. Ó vinná révo! Co mne velebíš? Vždyť jsem tě uřízl! Jsem ukrutný, hle, krvácíš –: proč chválíš mou zpitou ukrutnost? 
 
@@ -126,7 +144,9 @@ ale slast nechce dědiců, nechce dětí, – slast chce samu sebe, chce věčno
 
 Žal dí: „Pukni, krvácej, srdce! Putuj, noho! Křídlo, létej! Do výše! Vzhůru! Bolesti!“ Nuže dobrá! Nuže vzhůru! Ó staré srdce mé: Žal „zahyň!“ dí.
 
-  
+</section>
+
+<section>
 
 10\. Vyšší vy lidé, co mníte? Jsem věštcem? Sním? Jsem zpit? Jsem vykladačem snů? Jsem půlnočním zvonem? 
 
@@ -144,7 +164,9 @@ Děli jste kdy Ano jediné slasti? O přátelé moji, tedy jste děli Ano veške
 
 \- tedy, vy věční, jej milujete věčně a v každou dobu: a i žalu dítě: zahyň, ale vrat se zas! Neb každá slast: ‚chci věčnost!´ dí.
 
-  
+</section>
+
+<section>
 
 11\. Všechna slast chce všech věcí věčnost, chce med, chce kvas, chce zmámenou půlnoc, chce hroby, chce hrobů slzavou útěchu, chce pozlacené večerní červánky – 
 
@@ -160,15 +182,21 @@ Neb všechna slast chce sebe samu, proto chce i srdcí žal! Ó štěstí, ó bo
 
 \- slast chce všech věcí věčnost, chce věčnost, věčnost nejhlubší!
 
-  
+</section>
+
+<section>
 
 12\. Naučili jste se teď mé písni? Uhodli jste její smysl a touhu? IN Nuže dobrá! Nuže vzhůru! Vyšší vy lidé, tedy mi teď zazpívejte můj kolozpěv!
 
-  
+</section>
+
+<section>
 
 Zazpívejte mi teď sami píseň, jejíž jméno jest „Ještě jedenkráte“, jejíž smysl jest „na věky věkův!“ – zpívejte, vyšší vy lidé, Zarathustru v kolozpěv!
 
-  
+</section>
+
+<section>
 
 Ó duše, bdíš?
 
@@ -191,3 +219,5 @@ Půlnoci ducha neslyšíš?
 „než každá slast: chci věčnost! dí –,
 
 chci věčnost, věčnost nejhlubší!“
+
+</section>

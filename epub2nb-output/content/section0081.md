@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### O VYŠŠÍM ČLOVĚKU.
 
 1\. Když jsem po prvé přišel k lidem, dopustil jsem se poustevnické pošetilosti, veliké pošetilosti: postavil jsem se na trh.
@@ -16,7 +18,9 @@ S novým jitrem však mi vzešla nová pravda: tu jsem se naučil říkati: „C
 
 Před bohem! – Teď zemřel však ten bůh. Před luzou pak nechceme si být rovni. Vyšší vy lidé, odstupte s trhu!
 
-  
+</section>
+
+<section>
 
 2\. Před bohem! – Teď zemřel však ten bůh! Vyšší vy lidé, ten i bůh byl vaším největším nebezpečím.
 
@@ -28,7 +32,9 @@ Teprve nyní přijde veliké poledne, teprve nyní vyšší člověk
 
 Nuže dobrá! Nuže vzhůru! Vyšší vy lidé! Teprve nyní pracuje k porodu hora lidské budoucnosti. Bůh zemřel: teď chceme my, – aby živ byl nadčlověk.
 
-  
+</section>
+
+<section>
 
 3\. Nejstarostlivější ptají se dnes: „jak lze člověka zachovati?“ Zarathustra však, jediný a prvý, se ptá: „jak lze člověka překonati?“
 
@@ -52,7 +58,9 @@ Překonejte mi, vyšší vy lidé, malé ctnosti, malé chytrosti, ohledy písko
 
 A raději si zoufejte, než byste se vzdali. A věru, miluji vás za to, že dnes neumíte žít, vyšší lidé! Tak vy totiž žijete – nejlépe!
 
-  
+</section>
+
+<section>
 
 4\. Máte odvahu, ó moji bratří? Jste smělého srdce? Nikoli odvahu před svědky, než odvahu poustevnickou a orlí, na niž ani žádný bůh se již nedívá? 
 
@@ -68,7 +76,9 @@ To bylo snad dobré pro onoho kazatele malých lidí, že trpěl hříchem člov
 
 Není to však řečeno pro dlouhé uši. Také nepatří každé slovo do každých úst. Jsou to jemné vzdálené věci: po těch ať nesahají ovčí pazoury!
 
-  
+</section>
+
+<section>
 
 6\. Vyšší vy lidé, myslíte, že jsem přišel napravovat, co jste pokazili?
 
@@ -88,7 +98,9 @@ Má moudrost se již dlouho hromadí jako mrak, tichne a černá. Tak si vede ka
 
 Těmto dnešním lidem nechci být světlem ni světlem se zvát. Dnešní lidi chci oslepit: Blesku mé moudrosti! vypal jim oči!
 
-  
+</section>
+
+<section>
 
 8\. Ničeho nechtějte nad své schopnosti: jest zlá nepravost u těch, kdož chtějí nad své schopnosti.
 
@@ -100,7 +112,9 @@ Tu si jen veďte obezřele, vyšší vy lidé! Nic mi totiž dnes není drahocen
 
 Zda tento dnešek nenáleží luze? Luza však neví, co jest velké, co malé, co přímé a poctivé: luza jest nevinně křivá, luza stále lže.
 
-  
+</section>
+
+<section>
 
 9\. Mějte mi dnes dobrou nedůvěru, vyšší vy lidé, lidé smělého srdce a otevřeného! A důvody své zatajujte! Tento dnešek totiž náleží luze. 
 
@@ -116,7 +130,9 @@ Pyšní se tím, že nelžou: neschopnost ke lži však dávno ještě není lá
 
 Nemíti horečky, to ještě dávno není poznání! Vystydlým duchům nevěřím. Kdo neumí lháti, neví, co jest pravda.
 
-  
+</section>
+
+<section>
 
 10\. Chcete-li do vysokých výšek, choďte po vlastních nohou! Nevydávejte se nahoru nésti, nesedejte si na cizí hřbety a hlavy! 
 
@@ -124,7 +140,9 @@ Ty jsi však vstoupil na koně? Úprkem jedeš teď vzhůru k svému cíli? Dobr
 
 Až budeš u cíle, až seskočíš s koně: ty, jenž náležíš k vyšším lidem, právě na své výšce – klopýtneš!
 
-  
+</section>
+
+<section>
 
 11\. Vy tvořící, vyšší vy lidé! Jen pro vlastní dítě lze býti těhotnu.
 
@@ -138,7 +156,9 @@ Ve vaší zištnosti, ó tvořící, jest obezřelost a prozřetelnost těhotný
 
 U vašeho dítěte, kde jest celá vaše láska, jest i celá vaše ctnost! Vaše dílo, vaše vůle, toť váš „bližní“: nedejte si namlouvat i nepravých hodnot!
 
-  
+</section>
+
+<section>
 
 12\. Ó tvořící, vyšší vy lidé! Kdo je před porodem, jest chor; kdo však porodil, je znečištěn.
 
@@ -148,7 +168,9 @@ Vy tvořící, mnoho nečistého jest na vás. To proto, že vám bylo souzeno b
 
 A kdo porodil, nechť si omyje duši!
 
-  
+</section>
+
+<section>
 
 13\. Nebuďte ctnostní nad své síly! A nechtějte na sobě ničeho proti pravděpodobnosti!
 
@@ -164,7 +186,9 @@ V samotě roste, co tam kdo přinesl: i vnitřní dobytče. Tedy se pro leckoho 
 
 Bylo kdy na zemi něco špinavějšího nad světce v poušti? Kolem nich nesoptil jenom ďábel, – nýbrž i vepř.
 
-  
+</section>
+
+<section>
 
 14\. Plaše, zahanbeně, neobratně, jako tygr, jemuž se nezdařil skok: tak jsem vás, vyšší vy lidé, často vídal plížiti se stranou. Hod se vám zhatil.
 
@@ -174,7 +198,9 @@ A nezdařila-li se vám velká věc, což vy sami jste proto nezdaření, zakrn�
 
 A zakrněli-li jste sami, zakrněl proto – člověk? Je-li však člověk zakrnělý a zrůdný: nuže dobrá! nuže vzhůru!
 
-  
+</section>
+
+<section>
 
 15\. Čím vyšší rod, tím vzácnější zdar. Vyšší vy lidé zde, zdaž nejste všichni – nezdaření?
 
@@ -190,7 +216,9 @@ A věru, co vše se již zdařilo! Jak oplývá tato země malými dobrými doko
 
 Rozestavte kol sebe malé dobré dokonalé věci, vyšší vy lidé! Jejich zlatá zralost vyhojí vám srdce. Dokonalost dává doufati.
 
-  
+</section>
+
+<section>
 
 16\. Co bylo zde na zemi dosud největším hříchem? Zda jím nebylo slovo onoho, jenž děl: „Běda těm, kteříž se zde smějí!“ 
 
@@ -206,7 +234,9 @@ Vyhněte se všem takovým bezpodmínečným! Toť ubohý chorý rod a způsob l
 
 Vyhněte se všem takovým bezpodmínečným! Mají těžké nohy a dusná srdce: – neumějí tančit. Jak by těm byla země lehká!
 
-  
+</section>
+
+<section>
 
 17\. Vše dobré věci zkřiveně se blíží svému cíli. Ohýbají hřbet jako V kočky, blížícím se blahem předou ve svém nitru, – vše dobré věci se smějí.
 
@@ -218,7 +248,9 @@ A byt jsou na zemi močály a tlustý stesk: kdo lehké nohy má, i přes močá
 
 Zvedněte srdce, moji bratří, vysoko! výš! A nezapomínejte mi ani na nohy! I nohy zvedněte, dobří vy tanečníci, a ještě lip: postavte se na hlavu!
 
-  
+</section>
+
+<section>
 
 18\. Korunu toho, jenž se směje, tuto růžencovou korunu: já sám jsem tu korunu na hlavu si vstavil, já sám jsem za svatý vyhlásil svůj smích. Nikoho jiného jsem nenašel dnes k tomu silným dost.
 
@@ -226,7 +258,9 @@ Zarathustra tanečník, Zarathustra lehký, jenž perutmi kyne, připraven, k le
 
 Zarathustra, jenž vidí budoucí pravdu a smích má pro všechnu pravdu, ne netrpělivý, ne bezpodmínečný, milenec skoků a ú-skoků; já Zarathustra sám jsem si tuto korunu na hlavu vstavil!
 
-  
+</section>
+
+<section>
 
 19\. Zvedněte srdce, ó moji bratří, vysoko! výš! A nezapomínejte mi ani na nohy! I nohy zvedněte, dobří vy tanečníci, či ještě lip: postavte se na hlavu! 
 
@@ -238,7 +272,9 @@ Lépe však ještě třeštit štěstím než neštěstím, lépe nemotorně tan
 
 Jen se mi odnaučte fňukání a všemu smutku luzy! Ó, jak smutnými zdají se mi dnes i šaškové luzy! Tento dnešek však náleží luze.
 
-  
+</section>
+
+<section>
 
 20\. Jako vítr mi buďte, když ze svých horských slují se řítí: chce tančiti podle své vlastní píštaly, moře se třesou a poskakují pod jeho kročejemi.
 
@@ -253,3 +289,5 @@ Vyšší vy lidé, vaše nejhorší zlo jest, že se nikdo z vás nenaučil tan�
 Co všechno je ještě možné! Tedy se naučte smát se smíchem, jenž se přežene přes vás samotny! Zvedněte srdce, dobří vy tanečníci, vysoko! výš! A nezapomínejte mi ani na dobrý smích!
 
 Korunu toho, jenž se směje, tuto růžencovou korunu: vám, moji bratří, tu korunu házím! Smích jsem vyhlásil svatým; vyšší vy lidé, naučte se mi – smát se!
+
+</section>

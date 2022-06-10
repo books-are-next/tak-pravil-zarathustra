@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### STARÝCH I MLADÝCH ŽENKÁCH.
 
 „Proč se tak plaše plížíš soumrakem, Zarathustro? A co skrýváš úzkostně pod pláštěm?
@@ -68,6 +70,10 @@ Zabal si ji a sevři jí ústa: sic bude křičeti přehlasitě,ta malá pravda!
 
 „Jdeš k ženám? Nezapomeň na bič!“ –
 
-  
+</section>
+
+<section>
 
 Tak pravil Zarathustra.
+
+</section>

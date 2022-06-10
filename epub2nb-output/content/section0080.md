@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### VEČEŘE.
 
 Na tomto místě totiž věštec přerušil vítání Zarathustry a jeho hostí: protlačil se do předu jako kdosi, kdo nemá nazbyt času, chopil se Zarathustrovy ruky a zvolal: „Ale Zarathustro!
@@ -43,3 +45,5 @@ Tak pravil Zarathustra; král po pravici však odvětil: „Podivno! Kdo slyšel
 A věru, toť nejpodivnější na mudrci, je-li ke všemu ještě chytrý a není-li to osel.“
 
 Tak pravil král po pravici a divil se; osel však zlovolně k jeho řeči přisvědčil, zahýkav i-a. To pak byl počátek oné dlouhé hostiny, jež v kronikách sluje „večeře.“ A při té hostině se nemluvilo o ničem jiném než o vyšším Člověku.
+
+</section>

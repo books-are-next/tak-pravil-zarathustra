@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### O VZNEŠENÝCH.
 
 Tichá jest tůň mého moře: kdo by uhodl, že v sobě skrývá hejno žertovných stvůr! 
@@ -74,6 +76,10 @@ Pak se tvá duše zachvěje božskými žádostmi; a zbožňování bude v tvé 
 
 Toť totiž tajemství duše: teprve, když hrdina ji opustí, přiblíží se jí, ve snách, – nadhrdina. –
 
-  
+</section>
+
+<section>
 
 Tak pravil Zarathustra.
+
+</section>

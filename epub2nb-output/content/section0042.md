@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### NEPOSKVRNĚNÉM POZNÁNÍ.
 
 Když včera vycházel měsíc, mněl jsem, že ze sebe porodí slunce: tak rozplizle a tak obtěžkán ležel na obzoru. 
@@ -82,6 +84,10 @@ Věru, podoben slunci, já miluji život i vše hluboká moře.
 
 A toto mně se zove poznáním: vše hluboké má se vznésti – k mojí výšce! –
 
-  
+</section>
+
+<section>
 
 Tak pravil Zarathustra.
+
+</section>

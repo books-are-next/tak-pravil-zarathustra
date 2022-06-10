@@ -2,9 +2,13 @@
 contentType: prose
 ---
 
+<section>
+
 ### ROZHOVOR S KRÁLI.
 
-  
+</section>
+
+<section>
 
 1\. A ni hodinu ještě neputoval Zarathustra svými horami a lesy, tu pojednou shlédl zvláštní průvod. Právě po cestě, jíž směřoval dolů, kráčeli dva králové, zdobení korunami a nachovými pásy, pestří jako ptáci plameňáci: a před sebou hnali osla, obtěžkaného nákladem. „Co chtějí tito králové v mé říši?“ pravil Zarathustra udiven svému srdci a rychle se skryl za keř. Ale když králové došli až k němu, řekl polohlasem, jako by mluvil k sobě sám: „Zvláštní! Zvláštní! Jak se to rýmuje? Dvé králů zřím – a jen jednoho osla!“ 
 
@@ -56,7 +60,9 @@ Co jsem to zaslechl? odpověděl Zarathustra; jaká moudrost u králů! Jsem nad
 
 (Zde se však stalo, že i osel se dostal k slovu: a řekl zřetelně a se zlou vůlí, jakoby na znamení souhlasu, i-a.)
 
-  
+</section>
+
+<section>
 
 Kdys prala – psali prvý spásy rok –
 
@@ -70,7 +76,9 @@ Zel, úpadek! A je to bída dnes!
 
 kles Caesar k dobytku, bůh – židem stal se!“
 
-  
+</section>
+
+<section>
 
 2\. Králové se pásli na těchto Zarathustrových rýmech; král po pravici však děl: „ó Zarathustro, jak bylo dobře, že jsme se vypravili, abychom tě shlédli! 
 
@@ -94,6 +102,10 @@ Ctí mou sluj, chtějí-li králové v ní sedět a čekat: ale bude vám arci d
 
 Ostatně, co na tom? Kde se dnes člověk lépe učí čekat než u dvorů? A zda králů veškerá zbylá ctnost nesluje dnes: uměli čekat?“ –
 
-  
+</section>
+
+<section>
 
 Tak pravil Zarathustra.
+
+</section>

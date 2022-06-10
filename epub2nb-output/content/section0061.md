@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### O DUCHU TÍŽE.
 
 1\. Můj jazyk – jazyk lidu: příliš hrubě a od srdce mluvím pro sluchy hedvábných ušáků. A ještě cizeji zní mé slovo zvířátkům všem, jež v inkoustu se brodí a nabodávají se na péra. 
@@ -20,7 +22,9 @@ O tom bych dovedl písničku zpívat - - a zazpívám ji též: třeba že jsem 
 
 Arci, jsou jiní pěvci, těm teprve v plném domě změkne hrdlo, rozhovoří se ruka, oko najde svůj výraz a srdce procitne: těm já se nepodobám. –
 
-  
+</section>
+
+<section>
 
 2\. Kdo jednou lidi naučí létat, pohne všemi mezníky; i všechny mezníky mu vzlétnou do vzduchu, a on pokřtí zemi novým jménem: „lehká“.
 
@@ -94,6 +98,10 @@ Vše moje chůze byla pokusem a otázkou: – a věru, i odpovídat na takové o
 
 „To – jest tedy cesta má, a kde jest vaše?“ tak jsem odpovídal těm, kteří se mne tázali „po cestě“. Cesty totiž, samospasitelné cesty – není! –
 
-  
+</section>
+
+<section>
 
 Tak pravil Zarathustra.
+
+</section>

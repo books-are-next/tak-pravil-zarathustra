@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### O ODPADLÍCÍCH.
 
 1\. Ach, což leží všechno již zvadle a šedivě, co nedávno ještě na této louce stálo zelené a pestré? A co medu naděje jsem odsud odnesl do svých úlů!
@@ -32,7 +34,9 @@ Nech, ať jen zvadnou a spadnou, ó Zarathustro, a nermuť se! A raději do nich
 
 zaduj do toho listí, 6 Zarathustro: by všechno zvadlé ještě rychleji od tebe uteklo! –
 
-  
+</section>
+
+<section>
 
 2\. „Stali jsme se zase nábožnými“ – tak se přiznávají ti odpadlíci, ba někteří z nich jsou příliš zbabělí, by se k tomu přiznali\*
 
@@ -100,6 +104,10 @@ A všichni bozi se tenkrát smáli a viklali se na svých křeslech a volali: �
 
 Kdo uši má, slyš!
 
-  
+</section>
+
+<section>
 
 Tak mluvil Zarathustra v městě, které miloval a kterému příjmí jest dáno „pestrá kráva“. Odtud totiž měl již jen dva dni cesty, aby přišel zas do své jeskyně a k svým zvířatům; jeho duše však neustále plesala nad blízkostí jeho návratu. –
+
+</section>

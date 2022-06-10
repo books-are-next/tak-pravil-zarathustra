@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### O KNĚZÍCH.
 
 A jednou dal Zarathustra svým žákům znamení a promluvil k nim tato slova:
@@ -80,6 +82,10 @@ Nikdy ještě nebylo nadčlověka. Nahé jsem viděl oba, největšího člověk
 
 Jsou si navzájem ještě příliš podobni. Věru, i největšího jsem nalezl – příliš lidským!
 
-  
+</section>
+
+<section>
 
 Tak pravil Zarathustra.
+
+</section>

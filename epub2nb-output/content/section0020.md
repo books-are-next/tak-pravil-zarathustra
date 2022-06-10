@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### O LÁSCE K BLIŽNÍMU.
 
 Tísníte se kolem bližního a máte pro to krásná slova. Ale i 1 pravím vám: vaše láska k bližnímu je vaše špatná láska k vám samým.
@@ -40,6 +42,10 @@ Budoucnost a dálka nejvzdálenější budiž ti příčinou tvého dneška: v s
 
 Bratří moji, k lásce k bližnímu vám neradím: radím vám k lásce k nejvzdálenějšímu.
 
-  
+</section>
+
+<section>
 
 Tak pravil Zarathustra.
+
+</section>

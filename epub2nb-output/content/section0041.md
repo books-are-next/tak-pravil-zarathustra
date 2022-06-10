@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### O ZEMI VZDĚLÁNÍ.
 
 Příliš daleko jsem zalétl do budoucnosti: hrůza mne přepadla. A když jsem se ohlédl, hle! tu jediným mým současníkem byl čas.
@@ -72,6 +74,10 @@ A tak miluji už pouze svých dětí zem, neobjevenou zem v nejdálnějším mo�
 
 Na svých dětech napravím, že jsem dítětem svých otců: a na všem budoucnu – tuto přítomnost! –
 
-  
+</section>
+
+<section>
 
 Tak pravil Zarathustra.
+
+</section>

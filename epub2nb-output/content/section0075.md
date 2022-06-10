@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### NEJOHYZDNĚJŠÍ ČLOVĚK.
 
 A zase běžely Zarathustrovy nohy horami a lesy a jeho oči hledaly a hledaly, nikde však nebylo viděti toho, jejž viděti chtěly, toho, jenž trpěl velikou úzkostí a úzkostí křičel. A Zarathustra po celé cestě plesal v srdci svém a byl vděčen. „Jaké to dobré věci, pravil, daroval mi dnešní den v odplatu za to, že zle se započal! Jaké podivné společníky jsem nalezl! 
@@ -105,3 +107,5 @@ Také ten zde sám sebe miloval, jako sám sebou povrhoval – je mi velkým mil
 Nikoho jsem ještě nenašel, kdo by sebou povrhoval hlouběji; i to jest výška. Běda, byl to snad onen vyšší člověk, jehož výkřik jsem zaslechl?
 
 Miluji veliké povrhovatele. Člověk však je cosi, co musí býti překonáno.“ - - -
+
+</section>

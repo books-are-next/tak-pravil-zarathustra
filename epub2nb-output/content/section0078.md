@@ -2,13 +2,17 @@
 contentType: prose
 ---
 
+<section>
+
 ### O POLEDNÁCH.
 
 A Zarathustra běžel a běžel a nikoho již nenašel a byl sám a nalézal stále sebe sám a kochal se svou samotou a vpíjel ji a myslil na dobré věci, – po dlouhé hodiny. V hodinu polední však, když slunce mu stálo právě nad hlavou, octl se u starého křivého a sukovatého stromu, jenž bohatou láskou vinné révy kolem kol byl objímán a před sebou samým skryt: žluté hrozny v chumáči visely s kmene vstříc putujícímu. Tu dostal chuť, uhasit malou žízeň a utrhnout si hrozen; ale když natáhl již rámě, dostal ještě větší chuť na něco jiného: totiž, aby si v tu hodinu dokonalého poledne lehl pod strom a aby spal.
 
 Tak učinil; a sotva ležel na zemi, v tichu a útulku pestré trávy, již zapomněl na svou malou žízeň a usínal. Neboť, jak praví Zarathustrovo přísloví: jedna věc je nutnější než druhá. Jen oči se mu nezavíraly: – nemohly se totiž vynadívat na strom a na lásku vinné révy a nemohly se toho vynachválit. Usínaje pak, Zarathustra promlouval k svému srdci:
 
-  
+</section>
+
+<section>
 
 „Tiše! Tiše! Neuzrál svět právě k dokonalosti? Co se to se mnou děje?
 
@@ -64,6 +68,10 @@ Kdy vpiješ tuto krůpěj rosy, jež spadla na všechny pozemské věci, – kdy
 
 – kdy, studno věčnosti! ty úsměvná, hrůzná polední propasti! kdy do sebe nazpět vpiješ mou duši?
 
-  
+</section>
+
+<section>
 
 Tak pravil Zarathustra a pozvedl se s lože pod stromem jakoby z cizího zmámení: a hle, tu stále ještě svítilo slunce kolmo nad jeho hlavou. Z čehož by se právem dalo souditi, že Zarathustra tenkrát nedlouho spal.
+
+</section>

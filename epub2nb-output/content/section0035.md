@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### O SLAVNÝCH MUDRCÍCH.
 
 Lidu jste sloužili a pověře lidu, vy slavní mudrci všichni! – a nikoli pravdě! A právě proto vás uctívali. A proto též snášeli vaši nevěru, že byla vtipem a oklikou k lidu. Tak pán popřává volnosti svým otrokům, ba kochá se jejich bujností.
@@ -78,6 +80,10 @@ Tak jako plachta, chvějící se zuřivostí ducha, tak pluje má moudrost po mo
 
 Ale vy služebníci lidu, vy slavní mudrcové, – jak byste mohli se mnou plout! –
 
-  
+</section>
+
+<section>
 
 Tak pravil Zarathustra.
+
+</section>

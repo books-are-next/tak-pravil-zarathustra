@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### O ČTENÍ A PSANÍ.
 
 Ze všeho, co je psáno, miluji jen to, co kdo píše svou krví. Piš krví: a zvíš, krev že je duchem. 
@@ -52,6 +54,10 @@ Naučil jsem se chodit: od té doby si nebráním v běhu. Naučil –jsem se l�
 
 Teď jsem lehký, teď letím, teď sebe zřím pod sebou, teď bůh mým nitrem tančí. –
 
-  
+</section>
+
+<section>
 
 Tak pravil Zarathustra.
+
+</section>

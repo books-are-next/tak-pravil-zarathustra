@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### NEJTIŠŠÍ HODINA.
 
 Co se mi stalo, přátelé moji? Zříte mne rozrušena, odehnána, poslušná proti mé vůli, ochotna jít – ach, od vás odejít! 
@@ -84,6 +86,10 @@ Ale i to jste ode mne uslyšeli, kdo stále ještě všech lidí jest nejmlčeli
 
 Ach, přátelé moji! Měl bych ještě, co bych vám řekl, měl bych, co bych vám ještě dal! Proč nedávám? Což jsem lakomý? –
 
-  
+</section>
+
+<section>
 
 Ale když Zarathustra promluvil tato slova, přepadla ho síla bolesti a blízkost rozloučení s přáteli, tak že hlasitě zaplakal; a nikdo ho nedovedl potěšiti. V noci však samoten odcházel a opustil své přátele.
+
+</section>
