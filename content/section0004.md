@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 # ZARATHUSTROVA PŘEDMLUVA.
 
 # O NADČLOVĚKU A POSLEDNÍM ČLOVĚKU
@@ -28,7 +30,9 @@ Pohled! Tento pohár chce se zase vyprázdniti, a Zarathustra chce se zase stati
 
  – Tak se počal Zarathustrův zánik.
 
-  
+</section>
+
+<section>
 
 2\. Zarathustra samoten sestupoval s hor a nikdo ho nepotkával. Ale když přišel do lesů, stál před ním pojednou kmet, který opustil svatou svou chýši, aby v lese hledal kořínků. A takto promluvil kmet k Zarathustrovi:
 
@@ -76,7 +80,9 @@ Ale když Zarathustra byl samoten, promluvil takto k srdci svému:
 
 „Což je možné! Ten stařičký světec ještě ani nezaslechl v svém lese, že bůh jest mrtev !“ –
 
-  
+</section>
+
+<section>
 
 3\. Když Zarathustra přišel do nejbližšího města, jež leží u lesů, nalezl tam na tržišti shromážděno mnoho lidu: neboť bylo vyhlášeno, že uvidí provazolezce. A Zarathustra promluvil k lidu, řka:
 
@@ -132,7 +138,9 @@ Hleďte, hlásám vám nadčlověka: toť onen blesk, toť ono šílenství! –
 
 Když Zarathustra domluvil, dal se kdosi z lidu do křiku: „Dosti jsme ted slyšeli o provazolezci; teď ho chceme vidět!“ A všechen lid se Zarathustrovi smál. Provazolezec však, domnívaje se, že řeč jest o něm, dal se do práce.
 
-  
+</section>
+
+<section>
 
 4\. Zarathustra pohlédl však na lid a podivil se. Po té promluvil, řka:
 
@@ -178,7 +186,9 @@ Miluji všechny ty, kdož jsou jako těžké krůpěje, ojediněle padající z 
 
 Hleďte, já jsem zvěstovatel blesku a těžká krůpěj padající z mračna: onen blesk však sluje nadčlověk.
 
-  
+</section>
+
+<section>
 
 5\. Když Zarathustra promluvil tato slova, pohlédl opět na lid a mlčel. „Tu stojí, pravil srdci svému, a smějí se: nechápou mne, nejsem ústy pro tyto uši. 
 
@@ -240,7 +250,9 @@ Nehnuta jest má duše a jasná jako pohoří před polednem. Oni však myslí, 
 
 A teď na mne pohlížejí a smějí se, ba smějíce se mne nenávidí. Je led v jejich smíchu.“
 
-  
+</section>
+
+<section>
 
 6\. Tu se však stalo cosi, čím oněměl každý ret a zmrtvělo každé 1 oko. Zatím se totiž provazolezec dal do práce: vystoupil z dvířek a kráčel přes motouz, napiatý od věže k věži a visící tudíž nad tržištěm a lidem. Když byl právě prostřed své cesty, otevřela se dvířka znovu, vyskočil z nich pestrý chlapík, vystrojený za šaška, a rychlým krokem kráčel za druhem. „Ku předu, ty chromý, volal jeho příšerný hlas, ku předu, ty lenochode, ty podloudníku, ty bledá tváři! Abych tě nepolechtal patou! Co tu tropíš mezi věžemi? Do věže s tebou, zavřít by tě měli, lepšímu, než sám jsi, zavíráš volnou cestu!“ A při každém slovu se mu blížil a blížil: ale když byl už jen krok za ním, tu stalo se to hrůzné, čím oněměl každý ret a zmrtvělo každé oko: – vyrazil ďábelský skřek a skočil přes toho, jenž mu byl v cestě. Ten však, vida takto vítěziti soupeře, ztratil hlavu i provaz; odhodil tyč a rychleji než ona se řítil do hloubky jako kotouč paží a nohou. Trh i lid se podobali moři, když vichřice do něho vjede: všechno se rozutíkalo a vráželo do sebe, a nejvíce tam, kde čekali, že tělo dopadne.
 
@@ -254,7 +266,9 @@ Muž nedůvěřivě vzhlédl. „Mluvíš-li pravdu, pravil pole, ničeho s živ
 
 Když Zarathustra domluvil, umírající již neodpovídal; pohnul však rukou, jako by hledal ruku Zarathustrovu na znamení díku.
 
-  
+</section>
+
+<section>
 
 7\. Zatím nadešel večer a tržiště se skrylo v temnotu: tu ztratil se lid, neb i zvědavost a hrůza se unaví. Zarathustra však seděl na zemi vedle mrtvého a byl ponořen do myšlenek: tak zapomněl času. Posléze však nastala noc, a studený vítr ovál osamělého. Tu se Zarathustra zvedl a pravil srdci svému: „Věru, krásný byl dnes Zarathustru v rybolov! Neulovil člověka, leč mrtvolu.
 
@@ -266,7 +280,9 @@ Ale ještě jsem jich vzdálen, a nemluví smysl můj k jejich smyslům. Jsem pr
 
 Temná je noc, temné jsou Zarathustrovy cesty. Pojď, můj studený a nehybný soudruhu! Zanesu tě tam, kde tě pochovám svýma rukama.“
 
-  
+</section>
+
+<section>
 
 8\. Když Zarathustra takto promluvil k srdci svému, naložil si mrtvolu na záda a dal se na pochod. A neušel ani sto kroků, tu připlížil se k němu člověk a šeptal mu do ucha – a hle! ten, který mluvil, byl onen šašek z věže. „Odejdi z tohoto města, ó Zarathustro, pravil; příliš mnoho lidí tě tu nenávidí. Nenávidí tě dobří a spravedliví a jmenují tě svým nepřítelem a povrhovatelem; nenávidí tě věřící pravé víry a jmenují tě nebezpečím pro dav. Tvé štěstí bylo, že se ti smáli: a věru, mluvils jako šašek. Tvé štěstí bylo, že ses přidružil k tomu zdechlému psu; když jsi se tak ponížil, sám jsi se zachránil pro dnešek. Ale odejdi z tohoto města – sice tě zítra přeskočím, živý mrtvého.“ A když to dořekl, zmizel ten člověk; Zarathustra však šel dále temnými ulicemi. U městské brány ho potkali hrobaři: posvítili mu pochodní do tváře, poznali Zarathustru a nadmíru se mu smáli. „Zarathustra odnáší zdechlého psa: sláva, že se Zarathustra stal hrobařem! Neboť naše ruce jsou příliš čistotné pro tuto pečeni. Chce snad Zarathustra ukrásti ďáblu jeho sousto? Ať jde k duhu! A dobrého zažití! Jenom není-li ďábel lepší zloděj, než Zarathustra! – oba je ukradne, oba je pozře!“ A smáli se spolu a šuškali. Zarathustra slovem neodpověděl a šel svou cestou. Když ušel dvě hodiny, kráčeje mimo lesy a močály, tu až příliš se na-poslouchal hladového vytí vlků, a i na něj přikvačil hlad. I zastavil se před osamělým domem, v němž hořelo světlo. „Hlad mne přepadá, pravil Zarathustra, jako loupežník. V lesích a močálech mne přepadá můj hlad, a v hluboké noci. Podivné vrtochy má můj hlad. Často mi přichází až po jídle a dnes nepřišel po celý den: kde jen prodléval?“ A za těch slov zabušil Zarathustra na vrata domu. Objevil se starý muž; měl v rukou světlo a ptal se: „Kdo přichází ke mně a k mému zlému spánku?“
 
@@ -280,7 +296,9 @@ Stařec odešel, vrátil se však ihned a nabídl Zarathustrovi chleba i vína.
 
 Na to šel Zarathustra zase dvě hodiny a důvěřoval cestě i záři hvězd: neboť uvykl býti nočním chodcem a rád se všemu spícímu díval do tváře. Ale když se rozbřesklo jitro, shledal Zarathustra, že je v hlubokém lese, a již se mu neukazovala cesta. I položil mrtvého do dutého stromu k svým hlavám – neboť ho chtěl uchrániti od vlků – a sám ulehl na zemi a mech. A záhy usnul, tělo maje mdlé, než duši nepohnutu.
 
-  
+</section>
+
+<section>
 
 9\. Dlouho spal Zarathustra, a nejen ranní červánky mu přes tvář přešly, nýbrž i dopoledne. Posléze však otevřelo se jeho oko: udiven pohlédl Zarathustra do lesa i ticha, udiven sám do sebe. Pak se rychle zvedl, jako plavec, jenž pojednou zahlédne zemi, a zajásal: neb zahlédl novou pravdu. A takto po té promluvil k srdci svému: 
 
@@ -318,7 +336,9 @@ Poustevníkům zazpívám svou píseň, poustevníkům samojediným i dvojjedin�
 
 Za svým cílem jdu, svým krokem kráčím; přes váhavé a liknavé přeskočím. Tak budiž můj krok jejich zánikem!“
 
-  
+</section>
+
+<section>
 
 10\. Tak promluvil Zarathustra k srdci svému, když slunce stálo  v polednách: tu pohlédl tázavě do výše – neb nad sebou zaslechl ostrý ptačí skřek. A hle! Orel kroužil vzduchem v širokých kruzích, a na něm visel had, ne jako lup, než jako přítel: neboť byl obtočen kol jeho krku.
 
@@ -336,6 +356,10 @@ Kéž jsem chytrý od základu, jako můj had! Tu prosím však o nemožné: ted
 
 A jestliže mne jednou opustí má chytrost: – ach, tak ráda odlétá! – kéž pak má hrdost letí ještě s mým bláznovstvím!“ –
 
-  
+</section>
+
+<section>
 
 – Tak se počal Zarathustrův zánik.
+
+</section>

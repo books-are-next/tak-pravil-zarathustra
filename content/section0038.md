@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### PÍSEŇ NAD HROBY.
 
 „Tam jest ostrov hrobů, mlčelivý ostrov; tam jsou též hroby 1 mého mládí. Tam zanesu věčně zelený věnec života.“ Takto v srdci svém se ustanoviv, plul Jsem přes moře.
@@ -76,6 +78,10 @@ V tobě též žije ještě, co z mého mládí zůstalo nevykoupeno; a v podob�
 
 Ano, ještě jsi mi drtitelkou všech hrobu: Zdar tobě, má vůle! A jen, kde jsou hroby, jsou také z mrtvých vstání. –
 
-  
+</section>
+
+<section>
 
 Tak zpíval Zarathustra.
+
+</section>

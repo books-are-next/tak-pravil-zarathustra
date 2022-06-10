@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### SLAVNOST OSLA.
 
 1\. Ale na tomto místě litanie se Zarathustra již neopanoval, nýbrž zahýkal sám i-a, ještě hlasitěji než osel, a vskočil doprostřed svých potřeštěných hostí. „Ale co mi to, lidičky, tropíte? volal, prudce zvedaje modlící se hosty. Běda, kdyby se na vás díval kdo jiný než Zarathustra:
@@ -60,7 +62,9 @@ O Zarathustro, skrytý ty ničiteli bez hněvu, nebezpečný světce,
 
 – jsi čtverák!“
 
-  
+</section>
+
+<section>
 
 2\. Tu se však stalo, že Zarathustra, udiven samými takovými čtveráckými odpověďmi, uskočil nazpět ke dveřím sluje a obrácen ke všem hostem, silným hlasem provolal:
 
@@ -76,7 +80,9 @@ Ale vždyť ani nechceme v nebeské království: Stali jsme se muži,
 
 – i chceme království pozemské“
 
-  
+</section>
+
+<section>
 
 3\. A ještě jednou jal se Zarathustra mluviti. „Ó noví přátelé, pravil, – vy podivní, vyšší vy lidé, jak dobře se mi teď líbíte,
 
@@ -88,6 +94,10 @@ Nezapomeňte této noci a této slavnosti osla, vyšší vy lidé! To jste vynal
 
 A budete-li znovu slaviti slavnost osla, čiňte to k vůli sobě, čiňte to i k vůli mně! A na moji památku!“ –
 
-  
+</section>
+
+<section>
 
 Tak pravil Zarathustra.
+
+</section>

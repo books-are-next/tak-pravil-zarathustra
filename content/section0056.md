@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### NA HOŘE OLIVOVÉ.
 
 Mráz sedí u mne doma, zlý host; zmodraly mi ruce stisknutím jeho přátelských rukou. 
@@ -86,6 +88,10 @@ Nechť soucitně vzdychají, soucitně vzlykají nad mými omrzlinami: „na led
 
 Zatím já teplýma nohama kříž na kříž běhám po své olivové hoře: v slunečním koutu své hory olivové já zpívám a směji se všemu soucitu. –
 
-  
+</section>
+
+<section>
 
 Tak zpíval Zarathustra.
+
+</section>

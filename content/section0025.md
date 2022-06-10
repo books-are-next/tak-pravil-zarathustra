@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### O SVOBODNÉ SMRTI.
 
 Mnoho lidí umírá příliš pozdě, a někteří příliš záhy. Cize zní.posud učení: „zemři v pravý čas!“ 
@@ -76,6 +78,10 @@ Věru, cíl měl Zarathustra, vymrštil svůj míč: teď vy, přátelé, jste z
 
 A tak ještě sečkám chvíli, než život opustím: a vy mi to odpusťte! –
 
-  
+</section>
+
+<section>
 
 Tak pravil Zarathustra.
+
+</section>

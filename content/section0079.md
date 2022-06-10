@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### UVÍTÁNÍ.
 
 Teprve pozdě odpoledne vracel se Zarathustra, po dlouhém marném hledání a těkání, opět ke své sluji. Ale když stál sotva dvacet kroků před ní, stalo se, čeho teď nijak neočekával: znovu zaslechl velký onen výkřik úzkosti A ku podivu! tentokráte zazníval z jeho vlastní sluje. Byl to však táhlý, mnohonásobný, nezvyklý výkřik, a Zarathustra zřetelně rozeznával, že se skládá z mnoha jednotlivých hlasů, třeba že na dálku zněl jako výkřik z jediných úst, 
@@ -108,6 +110,10 @@ Ten pohostinský dar si vyprošuji na vaší lásce, byste mi mluvili o mých d�
 
 \- čeho bych se nevzdal, bych měl to jediné: tyto děti, tento živoucí sad, tyto stromy života, bych měl stromy své vůle a nejvyšší své naděje!“
 
-  
+</section>
+
+<section>
 
 Tak pravil Zarathustra a náhle se v řeči zarazil: neboť ho přepadla jeho touha, i zavřel oči a ústa pohnutím svého srdce. A i všichni hosté mlčeli a stáli nehnutě a zmateně: až na to, že starý věštec rukama a posuny dával znamení.
+
+</section>

@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### O VÁLCE A VÁLEČNÉM LIDU.
 
 Svými nejlepšími nepřáteli nechceme býti šetřeni, a také ne těmi, jež milujeme z hloubi. Tedy mi dovolte říci vám pravdu! Bratří moji ve válce! Z hloubi vás miluji, jsem a byl jsem z vašich řad. A jsem také váš nejlepší nepřítel. Tedy mi dovolte říci vám pravdu! 
@@ -28,6 +30,10 @@ Smíte míti jen nepřátele, jichž byste nenáviděli: ne takové, jimiž byst
 
 Svou nejvyšší myšlenku máte si však dáti rozkázat ode mne - ta zní: člověk jest cosi, co má býti překonáno. Tak žijte svůj život poslušnosti a války! Co záleží na dlouhém žití! Který válečník chce být šetřen! Nešetřím vás, z hloubi vás miluji, bratří moji ve válce! – 
 
-  
+</section>
+
+<section>
 
 Tak pravil Zarathustra.
+
+</section>

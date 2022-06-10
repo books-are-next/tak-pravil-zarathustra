@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### O STROMU NA HOŘE.
 
 Spatřil Zarathustrův zrak, že jeden mladík se mu vyhýbá. A když jednou z večera samoten kráčel pohořím, obepínajícím město, jež sluje „pestrá kráva“: hle, tu kráčeje nalezl onoho mladíka, jak seděl opřen o strom a mdlým pohledem se díval do údolí. Zarathustra položil ruku na kmen, u něhož mladík seděl, a promluvil takto:
@@ -72,6 +74,10 @@ Kdysi mněli, že se stanou hrdiny: teď jsou z nich rozkošníci. Hrdina jest j
 
 Při své lásce a naději tě však zapřísahám: nezahazuj hrdiny ve své duši! Svatě třímej nejvyšší svou naděj!
 
-  
+</section>
+
+<section>
 
 Tak pravil Zarathustra.
+
+</section>

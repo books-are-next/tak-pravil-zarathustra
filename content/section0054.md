@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### PŘED VÝCHODEM SLUNCE.
 
 Ó nebe nade mnou, ty čisté! hluboké! Propasti světla! Tebe zřím a třesu se božskými žádostmi. 
@@ -76,6 +78,10 @@ Hluboký je svět –: a hlubší, než jak den si kdy pomyslil. Nesmí všechno
 
 Ó nebe nade mnou, ty stydlivé! žhoucí! Ó ty mé štěstí před slunce východem! Přichází den: tedy se rozlučme! –
 
-  
+</section>
+
+<section>
 
 Tak pravil Zarathustra.
+
+</section>

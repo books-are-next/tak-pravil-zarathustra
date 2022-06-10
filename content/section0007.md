@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### O ZAHROBNÍCÍCH.
 
 Kdysi vymrštil i Zarathustra svůj blud směrem mimo člověka, jako všichni vyznavači záhrobí. Výtvorem boha trpícího a zmučeného zdál se mi tehdy svět. 
@@ -72,6 +74,10 @@ Raději mi, bratří moji, naslouchejte hlasu zdravého těla: hlas poctivějš�
 
 Poctivěji a čistěji hovoří zdravé tělo, dokonalé a pravoúhlé: a hovoří o smyslu země. –
 
-  
+</section>
+
+<section>
 
 Tak pravil Zarathustra.
+
+</section>

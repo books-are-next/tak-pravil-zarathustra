@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### O NOVÉ MODLE
 
 Kdesi jsou ještě národové a stáda, nikoli však u nás, bratří moji: u nás jsou státy. 
@@ -58,6 +60,10 @@ Tam, kde přestává stát, – jen mi tam pohleďte, bratří moji!
 
 Nevidíte jich, duhy a mostů nadčlověka? –
 
-  
+</section>
+
+<section>
 
 Tak pravil Zarathustra.
+
+</section>

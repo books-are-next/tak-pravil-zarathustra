@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### OBĚTOVÁNÍ MEDU.
 
 A zase běžely měsíce a léta přes Zarathustrovu duši, a on toho nedbal; ale vlas mu zbělel. Jednoho dne, když seděl na kameni před svou slují a tiše se díval do dálky, – a jest odtamtud vidět na širé moře a do dálky přes točité propasti –, tu zamyšleně kol něho obcházela jeho zvířata a posléze se postavila před něj.
@@ -59,3 +61,5 @@ A co ve všech mořích náleží mně, mé vlastnictví a mou podstatu na všec
 Ven v dáli, v dál, má udice! Dovnitř a dolů, vnadidlo mého štěstí! Ukrop svou nejsladší rosu, ty mede srdce mého! Zakousni se, má udice, do břicha všeho černého trudu!
 
 Ven v dáli, v dál, mé oko! O, jaké mořské pláně kol mne, jaké zašeřené lidské budoucnosti! A nade mnou – jaké zrůžovělé ticho! Jaké blankytné mlčení!
+
+</section>

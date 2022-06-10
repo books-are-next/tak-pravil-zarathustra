@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### POUTNÍK.
 
 K půlnoci bylo, tu dal se Zarathustra cestou přes ostrovní hřbet, aby s časným jitrem dostihl protilehlého pobřeží: tam totiž chtěl vstoupiti na loď. Bylať tam dobrá rejda, kde rády zakotvovaly též cizí koráby; ty odvážely leckoho, kdo s blažených ostrovů chtěl přes moře. A když Zarathustra stoupal tak do vrchu, vzpomínal cestou na množství osamělých poutí od svého mládí a na to, kolik hor a hřbetů a vrcholů již slezl. 
@@ -38,7 +40,9 @@ Ty však, ó Zarathustro, chtěl jsi všech věcí viděti pozadí a dno: tak ti
 
 Ano! Kdybych zíral dolů na sebe sama a i na své hvězdy: to teprve bych nazval svým vrcholem, to mi ještě zbylo jakožto můj vrchol poslední! –
 
-  
+</section>
+
+<section>
 
 Tak promlouval Zarathustra sám k sobě, an stoupal, a tvrdými průpovídkami potěšoval své srdce: neboť byl v srdci svém ze-drán jak ještě nikdy před tím. A když vystoupil na hřeben horského hřbetu, hle, tu leželo před ním rozestřeno protější moře: i zastavil se a dlouho mlčel. Ale noc v této výšce byla studená a jasná a světle ohvězděná.
 
@@ -52,7 +56,9 @@ Odkud pocházejí nejvyšší hory? tak jsem se kdysi ptal. Tu jsem poznal, že 
 
 To svědectví je vryto v jejich kamení a v stěny jejich vrcholů. Až z nejhlubšího vyrůstá nejvyšší k své výšce. –
 
-  
+</section>
+
+<section>
 
 Tak pravil Zarathustra na temeni hory, kde bylo zima; ale když přišel na blízko moře a posléze samoten stál pod útesy, tu byl znaven cestou a byl ještě roztouženější než před tím.
 
@@ -66,7 +72,9 @@ Ach, jsem s tebou smuten, temný netvore, a i na sebe se pro tebe hněvám.
 
 Ach, že má ruka nemá dosti síly! Rád bych tě věru osvobodil od zlých snů! –
 
-  
+</section>
+
+<section>
 
 A jak Zarathustra takto promlouval,smál se těžkomyslně a hořce sobě sám. Jak! Zarathustro! pravil, i moři chceš zpívat útěchu?
 
@@ -74,6 +82,10 @@ Ach, ty láskyplný blázne Zarathustro, ty předůvěřivý blažený blázne! 
 
 Každou obludu byl bys chtěl hladiti. Dýchnutí teplého dechu, pazoury porostlé měkkými chloupky –: a jižs byl ochoten lákat ji a laskat. Láska je nebezpečí nejosamělejšího, láska ke všemu, jen je-li to živé! K smíchu je věru mé bláznovství a moje skromnost v lásce! –
 
-  
+</section>
+
+<section>
 
 Tak pravil Zarathustra a usmál se při tom po druhé: tu však pomněl svých opuštěných přátel-, a jako by se byl svými myšlenkami na nich provinil, zlobil se na sebe pro své myšlenky. A brzy se stalo, že smějící se plakal: – zlobou a touhou Zarathustra hořce zaplakal.
+
+</section>

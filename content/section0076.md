@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### DOBROVOLNÝ ŽEBRÁK.
 
 Když Zarathustra opustil nejohyzdnějšího člověka, záblo ho a cítil se osamělý: velký mráz a osamělost se mu totiž kladly na smysly, tak že i jeho údy se tím ochladily. A jak stoupal dál a dále, nahoru, dolů, brzy podél zelených pastvin, ale též přes divoká kamenitá ložiska, kudy kdys potok asi burácel v netrpělivých snech: tumu pojednou bylo zas tepleji a srdečněji.
@@ -85,3 +87,5 @@ Nyní však čerstva se rozluč se svými kravami, ty podivný! ty líbezný! t�
 „Pryč s tebou, pryč! zlý lichotníku! zvolal Zarathustra pln zloby, co mne kazíš takovou chválou a takovým lichotivým medem?“
 
 „Pryč ode mne, pryč!“ zvolal ještě jednou a zamával holí za dobrovolným žebrákem; ten však horem pádem utekl.
+
+</section>

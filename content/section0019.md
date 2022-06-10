@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### O TISÍCI A JEDNOM CÍLI.
 
 Mnoho zemí viděl Zarathustra i národů mnoho: tak objevil mnoha národů dobro i zlo. Nenalezl Zarathustra na zemi v moci větší než dobro a zlo.
@@ -56,6 +58,10 @@ Tisíc bylo dosud cílů, neb tisíc bylo národů. Jen pouto těch tisíce ší
 
 A rcete mi přece, bratří moji: schází-li posud lidstvu cíl, zda neschází také – lidstvo samotné ještě?
 
-  
+</section>
+
+<section>
 
 Tak pravil Zarathustra.
+
+</section>

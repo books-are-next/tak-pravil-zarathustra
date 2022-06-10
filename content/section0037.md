@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### TANEČNÍ PÍSEŇ.
 
 Jednou z večera kráčel Zarathustra se svými žáky lesem; a když pátral po prameni, hle, tu přišel na zelenou louku, kterou tiše obrůstaly stromy a křoví: na ní tančily spolu dívky. Jakmile dívky poznaly Zarathustru, ustaly v tanci; Zarathustra však přívětivě k nim přistoupil a promluvil takto: 
@@ -73,3 +75,5 @@ Ach, přátelé moji, to večer se tak ze mne ptá. Odpusťte mi můj smutek!
 Večer nastal: odpusťte mi, že nastal večer!“ 
 
 Tak pravil Zarathustra.
+
+</section>

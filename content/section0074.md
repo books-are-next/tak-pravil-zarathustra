@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### MIMO SLUŽBU.
 
 Nedlouho potom však, co se Zarathustra zbavil kouzelníka, viděl zase někoho seděti na cestě, jíž kráčel, totiž černého vytáhlého muže s bledou hubenou tváří: ta podívaná ho nadmíru mrzela. „Běda, pravil svému srdci, tu sedí zakuklený trud, cosi kněžského, jak se mi zdá: co chtějí kněží v mé říši? 
@@ -110,6 +112,10 @@ Kdo by však tvůj stesk ti s beder sňal? K tomu jsem příliš slab. Dlouho by
 
 Ten starý bůh totiž už nežije: ten je důkladně mrtev.“ –
 
-  
+</section>
+
+<section>
 
 Tak pravil Zarathustra.
+
+</section>

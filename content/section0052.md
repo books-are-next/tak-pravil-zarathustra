@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### O VIDĚNÍ A HÁDANCE.
 
 1\. Když se mezi lodníky rozneslo, že Zarathustra jest na lodi – neb současně s ním vstoupil na palubu muž, plující s blažených ostrovů –, tu povstalo velké dychtění a očekávání. Zarathustra však po dva dni mlčel a byl chladný a hluchý truchlivosti, tak že neodpovídal ani na pohledy ani na otázky. K večeru druhého dne však své uši zas otevřel, třeba že ještě mlčel: neb mnoho podivného a nebezpečného bylo slyšeti na této lodi, jež přicházela z dálky a spěla ještě dál. Zarathustra však byl přítelem všech, kdož konají daleké cesty a nechtějí žiti bez nebezpečenství. A hle! posléze se mu v poslouchání uvolnil vlastní jazyk, a led jeho srdce se rozlomil: – tu jal se mluviti takto: 
@@ -42,7 +44,9 @@ Odvaha zavraždí též závrat nad propastmi: a kde by člověk nestál nad pro
 
 V takových však slovech hlasitě jásá polnice. Kdo uši má, slyš! –
 
-  
+</section>
+
+<section>
 
 2\. „Zadrž! Trpaslíku! řekl jsem. Já! Nebo ty! Já jsem však silnější z nás dvou –, ty neznáš mé propastné myšlenky! Té bys neunesl!“ –
 
@@ -108,6 +112,10 @@ O moji bratří, slyšel jsem smích, jenž nebyl člověka smíchem, - - a teď
 
 Má touha po tomto smíchu mne zžírá: ó, kterak snesu ještě žít! A kterak snésti, abych teď zemřel! –
 
-  
+</section>
+
+<section>
 
 Tak pravil Zarathustra.
+
+</section>

@@ -2,9 +2,13 @@
 contentType: prose
 ---
 
+<section>
+
 ### VĚŠTEC.
 
-  
+</section>
+
+<section>
 
 „– i viděl jsem, kterak veliká truchlivost padá na lidi. Nejlepší z nich se nabažili svého konání. 
 
@@ -24,7 +28,9 @@ Všechny studny nám vyprahly, i moře se stáhlo. Všechna dna se trhají, ale 
 
 Věru, i k umírání jsme příliš zemdleli; teď bdíme ještě a živoříme v umrlčích komorách!“
 
-  
+</section>
+
+<section>
 
 Tak slyšel Zarathustra kázati věštce; a jeho věštba mu šla k srdci a proměnila jej. Chodil smutně a mdlý; a stal se podoben těm, o nichž kázal věštec.
 
@@ -96,6 +102,10 @@ Tak pravil žák; a všichni ostatní tísnili se teď kolem Zarathustry a sahal
 
 Věštec však bude seděti a popí jeti po mém boku: a věru, ukáži mu moře, v němž ještě může utonouti!“
 
-  
+</section>
+
+<section>
 
 Tak pravil Zarathustra. Potom však žákovi, jenž mu byl vykladačem snu, pohlédl dlouze do tváře a potřásal při tom hlavou.
+
+</section>

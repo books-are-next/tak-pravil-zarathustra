@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### STÍN.
 
 Sotva však utekl dobrovolný žebrák a Zarathustra byl zase sám, zaslechl za sebou nový hlas, volající: „Stůj! Zarathustro! Počkej přec! vždyť jsem to já, ó Zarathustro, já, tvůj stín!“Zarathustra však nečekal, neboť ho přepadla náhlá rozmrzelost nad tím návalem a tlačenicí v jeho pohoří. „Kam se poděla má samota? pravil. 
@@ -58,7 +60,9 @@ Hledání mého vlastního domova: ó Zarathustro, víš, to hledání a zkouše
 
 ‚Kde jest – můj domov?“ Po něm se ptám a pátrám a pátral jsem a nenašel jsem ho. O věčné Všude, ó věčné Nikde, ó věčná – marnost!“
 
-  
+</section>
+
+<section>
 
 Tak pravil stín, a Zarathustrova tvář se dloužila za jeho slov. „Jsi mým stínem, pravil posléz truchlivě. 
 
@@ -76,6 +80,10 @@ Tímto směrem vede cesta k mé sluji. A nyní ti zas rychle uteku. Již se na m
 
 Poběhnu sám, aby kol mne bylo zas jasno. K tomu mi ještě dlouho a vesele třeba být na nohou. Večer se však u mne – tančí!“ – –
 
-  
+</section>
+
+<section>
 
 Tak pravil Zarathustra.
+
+</section>

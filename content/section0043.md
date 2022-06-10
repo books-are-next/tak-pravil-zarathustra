@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### O UČENCÍCH.
 
 Když jsem ležel a spal, tu mi ovce užírala břečtanový věnec na mé hlavě – a užírajíc pronesla toto: „Zarathustra již není učencem“. 
@@ -56,6 +58,10 @@ A přece jim svými myšlenkami nad hlavami kráčím; a kdybych i na svých vla
 
 Neboť lidé si nejsou rovni: tak hlásá spravedlnost. A co chci já, oni by nesměli chtít!
 
-  
+</section>
+
+<section>
 
 Tak pravil Zarathustra.
+
+</section>

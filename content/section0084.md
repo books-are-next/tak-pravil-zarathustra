@@ -2,9 +2,13 @@
 contentType: prose
 ---
 
+<section>
+
 ### MEZI DCERAMI POUŠTĚ.
 
-  
+</section>
+
+<section>
 
 1\. „Neodcházej! řekl poutník, jenž se zval Zarathustrovým stínem, zůstaň u nás, – sice nás opět přepadne ten starý zatuchlý stesk.
 
@@ -34,11 +38,15 @@ pestře a cize seděly, věru! ale bez mračen: hádanky, které lze hádati: na
 
 Tak pravil poutník a stín; a než mu kdo odpověděl, chopil se již harfy starého kouzelníka, skřížil nohy a rozhlížel se rozvážně a moudře: – chřípím však pomalu a tázavě vtahoval vzduch, jako by v nějakých nových zemích nového cizího vzduchu ochutnával. Pak jal se jakýmsi vyjícím hlasem zpívati.
 
-  
+</section>
+
+<section>
 
 2\. Poušť vzrůstá: nešťasten, kdo v nitru chová poušt!
 
-  
+</section>
+
+<section>
 
 Ha! Slavnostně! 
 
@@ -64,7 +72,9 @@ všech Evropanů je přáno 
 
 ve stínu palem. Sela.
 
-  
+</section>
+
+<section>
 
 Zázračné věru!
 
@@ -92,7 +102,9 @@ dolů – sem – mezi vás, 
 
 vy rozmilé přítelky! Sela.
 
-  
+</section>
+
+<section>
 
 Zdar, zdar oné velrybě, 
 
@@ -120,7 +132,9 @@ Bůh pomozi! 
 
 Amen!
 
-  
+</section>
+
+<section>
 
 Zde tedy sedím, 
 
@@ -140,7 +154,9 @@ ledově chladných, sněhově bílých 
 
 žízní srdce všech horkých datlí. Sela.
 
-  
+</section>
+
+<section>
 
 Zmíněným jižním plodům 
 
@@ -204,7 +220,9 @@ Bůh pomozi!
 
 Amen.
 
-  
+</section>
+
+<section>
 
 Ssaje tento nejkrásnější všech vzduchů, 
 
@@ -276,7 +294,9 @@ je obrána již a ohryzána –
 
 ó hrůzo! ohryzána! Ach! Sela.
 
-  
+</section>
+
+<section>
 
 Ó, jen mi neplačte, 
 
@@ -306,7 +326,9 @@ Umravněná průpověď? 
 
 Slavnostní domlouvání? –
 
-  
+</section>
+
+<section>
 
 Ha! Vzhůru, ctnosti!
 
@@ -342,6 +364,10 @@ nemohu jinak, bůh mi buď svědkem! 
 
 Amen!
 
-  
+</section>
+
+<section>
 
 Poušť vzrůstá: nešťasten, kdo v nitru chová poušť!
+
+</section>

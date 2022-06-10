@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### O VELKÝCH UDÁLOSTECH.
 
 Je v moři ostrov – nedaleko Zarathustrových blažených ostrovů – a na něm neustále vychází kouř z ohnivého vrchu; o tom ostrovu říká lid a říkají obzvláště staré ženštiny z lidu, že jest postaven jako skalní balvan před bránu podsvětí: ohnivým vrchem pak že vede úzká cesta dolů k oné podsvětní bráně. 
@@ -88,6 +90,10 @@ Proč volalo to strašidlo: ‚je čas! Je nejvyšší čas!‘ 
 
 K čemu pak je – nejvyšší čas?“ –
 
-  
+</section>
+
+<section>
 
 Tak pravil Zarathustra.
+
+</section>

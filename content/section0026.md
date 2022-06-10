@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### O CTNOSTI, JEŽ OBDAROVÁVÁ.
 
 1\. Když se Zarathustra rozloučil s městem, jemuž bylo nakloněno jeho srdce a jehož jméno zní: „pestrá kráva“ – šlo za ním mnoho těch, kdož se zvali jeho žáky, a vyprovázeli ho. Tak přišli ke křižovatce: i pravil jim Zarathustra, že odtud půjde sám; neboť byl přítelem osamělé chůze. Jeho žáci mu však na rozloučenou podali hůl, na jejíž zlaté rukojeti had se ovíjel kolem slunce. Zarathustra se radoval z holi a opíral se o ni; po té promluvil k svým žákům těmito slovy: 
@@ -54,7 +56,9 @@ Věru, vaše ctnost je novým dobrem a zlem! Věru, je to nové hluboké šuměn
 
 Mocí jest nová ta ctnost; je to vládnoucí myšlenka a kolem ní moudrá duše: je to zlaté slunce a kolem něho had poznání.
 
-  
+</section>
+
+<section>
 
 2\.  Zde se Zarathustra na chvíli odmlčel a s láskou pohlížel na své žáky. Po té pokračoval takto: – a jeho hlas byl proměněn.
 
@@ -82,7 +86,9 @@ Vy osamělí dneška, vy odlučující se, vy jednou budete národem: z vás, kt
 
 Věru, místem ozdravění stane se jednou země! A již vane nad ní nová vůně, hojivá vůně, – a nová naděje.
 
-  
+</section>
+
+<section>
 
 3\. Když Zarathustra takto promluvil, odmlčel se jako ten, kdo nedopověděl svého posledního slova; jsa na pochybách, dlouho v ruce odvažoval hůl. Posléze promluvil takto: – a jeho hlas byl proměněn. 
 
@@ -116,6 +122,10 @@ Pak ten, kdo zaniká, sam si bude žehnati, že kráčí na druhou stranu; a slu
 
 „Jsou mrtvi všichni bozi: teď chceme, aby živ byl nadčlověk“ – to budiž jednou o velikém poledni naše poslední vůle! –
 
-  
+</section>
+
+<section>
 
 Tak pravil Zarathustra.
+
+</section>

@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### O VYKOUPENÍ.
 
 Když Zarathustra šel jednoho dne přes velký most, obklopili ho mrzáci a žebráci, a hrbáček promluvil k němu takto: 
@@ -96,13 +98,17 @@ A kdo ji naučil smíření s časem, kdo ji naučil vyššímu, než je vše sm
 
 Vyššího cos nežli je vše smíření musí chtíti vůle, která jest vůlí k moci –: než jak je jí to možné? Kdo ji naučil též tomu, by chtěla nazpět?“ –
 
-  
+</section>
+
+<section>
 
 Na tomto místě řeči však se stalo, že se Zarathustra pojednou zarazil a podobal na vlas tomu, kdo se nejvyšší měrou zalekne. S vyděšeným okem zíral na své žáky; jeho zrak jako by šípy probodával jejich myšlenky a obmysly. Po malé chvíli se však již zase smál a pravil udobřen:
 
 „Je těžké žiti s lidmi, protože mlčeti je tak těžké. A zvláště žvatlavému.“ -
 
-  
+</section>
+
+<section>
 
 Tak pravil Zarathustra. Ale hrbáč naslouchal řeči a pokryl při tom svou tvář; a když slyšel Zarathustru se smáti, zvědavě vzhlédl a řekl pomalu: 
 
@@ -111,3 +117,5 @@ Tak pravil Zarathustra. Ale hrbáč naslouchal řeči a pokryl při tom svou tv�
 „Dobrá, pravil hrbáč; a žákům - školákům je skoro dovoleno něco vyžvatlat
 
 Ale proč mluví Zarathustra k svým žákům přece jen jinak – než k sobě sám?“ –
+
+</section>

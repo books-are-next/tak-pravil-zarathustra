@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### O ZMENŠUJÍCÍ CTNOSTI.
 
 1\. Když byl Zarathustra opět na souši, nezamířil přímo do svých hor a do své sluje, nýbrž kráčel mnoha cestami a mnoho se ptal, vyzvídaje to i ono, takže sám o sobě žertem prohodil: „hle, řeka, jež v mnoha oklikách teče nazpět k pramenil“ Neboť chtěl se dověděti, co se zatím přihodilo s člověkem: zda vyrostl či se zmenšil. A jednou viděl řadu nových domu; tu se podivil a řekl:
@@ -12,7 +14,9 @@ Vzalo je snad stydlivé dítě z krabice na hračky? Nechť je jen jiné dítě 
 
 A tyto jizby a komory: což tudy mužové mohou vycházet a vcházet? Zdají se mi zrobeny pro hedvábné loutky; nebo pro mlsné kočky, jež dovolí, aby si někdo pomlsal zase na nich.“
 
-  
+</section>
+
+<section>
 
 A Zarathustra se zastavil a uvažoval. Posléze pravil zarmoucen: „Všechno se zmenšilo! 
 
@@ -22,7 +26,9 @@ O, kdy přijdu zas do své domoviny, kde nemám již zapotřebí se shýbat – 
 
 Téhož dne však promluvil svou řeč o zmenšující ctnosti.
 
-  
+</section>
+
+<section>
 
 2\. Kráčím tímto lidem s otevřenýma očima: ti lidé mi neprominou, že jim nezávidím jejich ctností.
 
@@ -96,7 +102,9 @@ Ctností je jim to, co činí skromným a krotkým: tím z vlka udělali psa a z
 
 To je však – prostřednost: byt to i slulo střídmost. –
 
-  
+</section>
+
+<section>
 
 3\. Kráčím tímto lidem a vypouštím z úst nejedno slovo: ti lidé však neznají ani brát ani uchovávat.
 
@@ -150,6 +158,10 @@ A brzy mi tu budou stati jak suchá tráva, jak step, a věru! znaveni sami sebo
 
 Tančící pochodně jednou z nich udělám a zvěstovatele s jazyky plamennými: zvěstovati jednou mi budou jazyky plamennými: Přichází, je na blízku, veliké poledne! –
 
-  
+</section>
+
+<section>
 
 Tak pravil Zarathustra.
+
+</section>

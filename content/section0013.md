@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### O KAZATELÍCH SMRTI.
 
 Jsou kazatelé smrti: a plna je země takových, jimž nutno kázati, aby se od žití odvrátili. Plna je země lidí přebytečných, zkažen je život těmi, jichž přespříliš mnoho. Ti nechť „věčným životem“ jsou odlákáni z tohoto života!
@@ -44,6 +46,10 @@ Všude zaznívá hlas těch, kdož káží smrt: a plna je země takových, jim�
 
 Anebo „věčný život“: to je mi jedno, – jen když rychle zahynou! –
 
-  
+</section>
+
+<section>
 
 Tak pravil Zarathustra.
+
+</section>

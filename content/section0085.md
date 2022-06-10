@@ -2,9 +2,13 @@
 contentType: prose
 ---
 
+<section>
+
 ### PROBUZENÍ.
 
-  
+</section>
+
+<section>
 
 1\. Po písni poutníka - stínu sluj se pojednou naplnila lomozem a 1 smíchem: a ježto shromáždění hosté mluvili jeden přes druhého a ani osel, nabyv tak odvahy, nebyl již zticha, přepadla Zarathustru malá výsměšná nevole proti jeho návštěvníkům, třeba že se radoval z jejich radostné nálady, která se mu zdála znamením ozdravění. I vyklouzl na čerstvý vzduch a pravil svým zvířatům:
 
@@ -22,7 +26,9 @@ A ke konci spěje. Již se blíží večer: jede přes moře! Jak se houpe blaž
 
 Nebe se jasně na to dívá, a svět leží hluboko: ó všichni vy podivní lidé, kdož jste ke mně přišli, však již za to stojí žít u mne!“
 
-  
+</section>
+
+<section>
 
 Tak pravil Zarathustra. A tu opět zazněl křik a smích vyšších lidí ze sluje: i promluvil znovu.
 
@@ -42,7 +48,9 @@ zahálejí a přežvykují, – stávají se vděčnými. To mi budiž nejlepš�
 
 Jsou to lidé, kteří se uzdravují!“ Tak pravil Zarathustra, mluvě radostně k svému srdci a vyhlížeje do dálky; a jeho zvířata se k němu tulila, etice jeho štěstí a mlčení.
 
-  
+</section>
+
+<section>
 
 2\. Náhle se však Zarathustrovo ucho zaleklo: neboť sluj, až dotud plná hřmotu a smíchu, pojednou hrobově ztichla; – a jeho nos čichal libě páchnoucí dým a kadidlo, jakoby od hořících piniových šišek. 
 
@@ -50,7 +58,9 @@ Jsou to lidé, kteří se uzdravují!“ Tak pravil Zarathustra, mluvě radostn�
 
 „Všichni se zase stali nábožnými, modlí se, třeští! –“ pravil a nadmíru se podivil. A věru! všichni: oba králové, papež mimo službu, zlý kouzelník, dobrovolný žebrák, poutník-stín, starý věštec, člověk svědomitého ducha a nejohyzdnější člověk: všichni vyšší lidé leželi jako děti a staré věřící ženštiny na kolenou, modlíce se k oslu. A nejohyzdnější člověk právě se jal kloktati a supěti, jako by se mu cos nevyslovitelného dralo z nitra; ale když se skutečně dostal až k slovům, hle, tu to byla pobožná podivná litanie, blahoslavící zbožňovaného a podkuřováného osla. Litanie pak zněla takto:
 
-  
+</section>
+
+<section>
 
 Amen! A požehnání a sláva, a moudrost, a díku činění, a čest, a moc, i síla bohu našemu na věky věků!
 
@@ -83,3 +93,5 @@ Pohleď jen, nikoho od sebe neodháníš, ni žebráků ni králů. Maličkých 
 Miluješ oslice a čerstvé fíky, nejsi vybíravý. Bodlák ti lechtá srdce, máš-li právě hlad. V tom jest moudrost boží.
 
 \- A osel přisvědčil a zahýkal i-a.
+
+</section>

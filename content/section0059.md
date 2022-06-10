@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### NÁVRAT.
 
 Ó samoto! Ty moje domovino samoto! Příliš dlouho a divoce jsem žil v divoké cizině, bych se k tobě se slzami nevracel! 
@@ -88,6 +90,10 @@ Lechtána ostrým vzduchem jak pěnícím se vínem, má duše kychá,
 
 – kýchá a jásá si vstříc; Ke zdraví! –
 
-  
+</section>
+
+<section>
 
 Tak pravil Zarathustra.
+
+</section>

@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### O TROJÍM ZLU.
 
 1\. Ve snu, v posledním jitřním snu stál jsem dnes na předhoří, – mimo svět, a v ruce jsem držel váhu a vážil jsem svět.
@@ -38,7 +40,9 @@ Po jakém mostě k budoucnu kráčí přítomná chvíle? Podle které nutnosti 
 
 Ted stojí váha rovně a tiše: tři těžké otázky jsem na ni vhodil, tři těžké odpovědi nese druhá miska.
 
-  
+</section>
+
+<section>
 
 2\. Rozkoš: všem, kdož v rubáši kajícníků povrhují tělem, osten a kůl; rozkoš: pod jménem „svět“ proklínána u všech záhrobníků: neboť podvádí a za blázny má všechny blouznivce a bludaře. 
 
@@ -104,6 +108,10 @@ Ale těm všem vzejde nyní den, přijde změna a katovský meč, přijde velik�
 
 A kdo hlásá, že Já jest svaté a zdravé a kdo blahoslaví sobectví, věru, ten také káže, co ví, a prorocky hlásá: „Hle, přichází, je na blízku, veliké poledne!“ –
 
-  
+</section>
+
+<section>
 
 Tak pravil Zarathustra.
+
+</section>

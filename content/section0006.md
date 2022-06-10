@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### O UČEBNÁCH CTNOSTI.  
 
 Velebili Zarathustrovi mudrce, jenž zná prý dobře mluviti o spánku i ctnosti: nad míru je prý za to vážen a odměňován, a všichni mladíci prý sedí před jeho učitelskou stolicí. K němu šel Zarathustra a se všemi mladíky seděl před jeho stolicí. A takto kázal mudřec: 
@@ -68,6 +70,10 @@ A i dnes jsou ještě někteří, jako tento kazatel ctnosti, a nejsou vždy tak
 
 Blahoslaveni tito ospalí: neb záhy budou klímat! – 
 
-  
+</section>
+
+<section>
 
 Tak pravil Zarathustra.
+
+</section>

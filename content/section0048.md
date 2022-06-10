@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### O LIDSKÉ CHYTROSTI.
 
 Nikoli výška: svah je strašlivý! Svah, po němž se pohled řítí dolů a ruka vzhůru sahá. Tam srdce jest jímáno závratí ze své dvojité vůle. Ach, přátelé, uhodli byste i mého srdce dvojitou vůli? Toť, toť můj svah a moje nebezpečenství, že můj pohled se řítí do výšky a že má ruka se chytá a opírá – ó hloubku! K člověku se přimyká má vůle, řetězy se přivazuji k člověku, protože k nadčlověku jsem vzhůru strhován: neboť tam spěje má druhá vůle.
@@ -76,6 +78,10 @@ Ale přestrojeny chci viděti vás, vy bližní, vy lidští druhové, dobře vy
 
 A přestrojen chci sám seděti mezi vámi, – abych se o vás i o sobě klamal: toť totiž má poslední lidská chytrost. –
 
-  
+</section>
+
+<section>
 
 Tak pravil Zarathustra.
+
+</section>

@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### O UŠTKNUTÍ ZMIJE.
 
 Jednoho dne Zarathustra usnul pod fíkovníkem, protože bylo horko, a paže měl položeny přes obličej. Tu přišel had a uštkl ho do krku, takže Zarathustra bolestí vzkřikl. Když paži sňal s obličeje, pohlédl na zmiji: tu poznala Zarathustrovy oči, kroutila se neobratně a chtěla se odplazit. „Sečkej, pravil Zarathustra; ještěs nepřijala mého díku! Vzbudila jsi mne v čas, má cesta je ještě dlouhá.“
@@ -40,6 +42,10 @@ Poustevník jest jako hluboká studna. Snadno tam hodíte kámen; ale když dopa
 
 Střežte se, urážeti poustevníka! Jestliže jste ho však urazili, nuž, pak jej také zabte!
 
-  
+</section>
+
+<section>
 
 Tak pravil Zarathustra.
+
+</section>

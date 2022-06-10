@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### NA BLAŽENÝCH OSTROVECH.
 
 Fíky padají se stromů, dobré jsou a sladké; a jak padají, puká jim červená kůže. Jsem zralým fíkům vítr severák. 
@@ -72,6 +74,10 @@ Své dílo dovrším: neb stín ke mně přišel – všech věcí věc nejtiš�
 
 Krása nadčlověka přišla ke mně v podobě stínu. Ach, moji bratří! Co je mi ještě – po bozích! –
 
-  
+</section>
+
+<section>
 
 Tak pravil Zarathustra.
+
+</section>

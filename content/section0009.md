@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### O VÁŠNÍCH RADOSTNÝCH A BOLESTNÝCH.
 
 Bratře můj, máš-li ctnost a je-li to ctnost tvá, nesdílíš se o ni s pranikým.
@@ -52,6 +54,10 @@ Ach, bratře můj, neviděls ještě nikdy, kterak ctnost sebe samotnu očerňuj
 
 Člověk jest cosi, co musí býti překonáno: a proto miluj své ctnosti – : neb jimi zahyneš. –
 
-  
+</section>
+
+<section>
 
 Tak pravil Zarathustra.
+
+</section>

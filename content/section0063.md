@@ -2,13 +2,19 @@
 contentType: prose
 ---
 
+<section>
+
 ### UZDRAVUJÍCÍ SE
 
-  
+</section>
+
+<section>
 
 1\. Jednou z rána, nedlouho po svém návratu do jeskyně, vyskočil Zarathustra jako potřeštěn se svého lože, křičel strašlivým hlasem a počínal si, jako by na loži ležel ještě někdo, jenž nechtěl vstát; a tak se rozléhal Zarathustru v hlas, až jeho zvířata zlekána přispěchala, a ze všech slují a doupat v sousedství Zarathustrovy jeskyně vše živoucí se vyplašilo, – poletujíc a třepotajíc se, plazíc se a poskakujíc, dle toho, jaká noha a jaká perut komu byla dána. Zarathustra však promluvil tato slova:
 
-  
+</section>
+
+<section>
 
 Vzhůru, propastná myšlenko, z mé hlubiny! Já jsem tvůj kohout a jitřní šero, ty rozespalý červe: vzhůru! vzhůru! Můj hlas tě již vykokrhá ze spánku!
 
@@ -26,7 +32,9 @@ Blaze mi! Přicházíš – slyším tě! Má propast mluví, svou poslední hlo
 
 Blaze mi! Sem! Dej ruku – ha! nech! Haha! - - Hnus, hnus, hnus - -- běda mi!
 
-  
+</section>
+
+<section>
 
 2\. Sotva však Zarathustra takto promluvil, shroutil se jako mrtvý k3a dlouho zůstal jako mrtvý. Ale když přišel zas k sobě, byl bled a chvěl se a zůstal ležeti a dlouho nechtěl jisti ani piti.
 
@@ -34,7 +42,9 @@ To potrvalo po sedm dní; jeho zvířata však ve dne ni v noci ho neopouštěla
 
 Posléze, po sedmi dnech, Zarathustra se vzpřímil na loži, vzal do ruky růžové jablko, přivoněl k němu a shledal jeho vůni líbeznou. I domnívala se jeho zvířata, že je čas, aby s ním promluvila.
 
-  
+</section>
+
+<section>
 
 „Ó Zarathustro, pravila zvířata, tak ležíš teď již po sedm dní, s těžkýma očima: nepostavíš se zas konečně na nohy?
 
@@ -104,13 +114,17 @@ Příliš malý i největší! – to byla má omrzelost člověkem! A věčný 
 
 Ach, hnus! hnus! hnus! - - Tak pravil Zarathustra a vzdychal a otřásal se; neboť si vzpomněl na svou nemoc. Tu mu však zvířata nedala mluviti dále.
 
-  
+</section>
+
+<section>
 
 „Nemluv dále, ty, jenž se uzdravuješ! – tak mu odpověděla jeho zvířata, nýbrž vyjdi ven, kde svět na tě čeká jako zahrada. Vyjdi ven k růžím a včelám a hejnům holubic! Ale zvláště k zpěvným ptákům: aby ses od nich naučil zpívati! 
 
 Zpívati, to je totiž pro ty, kdo se uzdravují; kdo je zdráv, nechť mluví. A chce-li i zdravý člověk písně, chce přece jiné písně než ten, kdo se uzdravuje.“
 
-  
+</section>
+
+<section>
 
 „Ó vy šašci a kolovrátky, mlčte přec! – odpověděl Zarathustra, s úsměvem nad svými zvířaty. Jak dobře víte, jakou potěchu jsem si sám vynalezl v sedmi dnech!
 
@@ -146,6 +160,10 @@ Přijdu zase, s tímto sluncem, s touto zemí, s tímto orlem, s tímto hadem �
 
 Promluvil jsem své slovo, lámu se o své slovo: tak tomu chce můj odvěký úděl – umírám jakožto zvěstovatel. Ted přišla hodina, by zanikající sám sobě žehnal. Takto se končí Zarathustrův zánik.´“ - -
 
-  
+</section>
+
+<section>
 
 Po těchto slovech zvířata se odmlčela, čekajíce, že jim Zarathustra něco řekne: Zarathustra však neslyšel, že zvířata mlčí. Nýbrž ležel tiše, s očima zavřenýma, tak jako spící, třeba že nespal: neb rozmlouval právě se svou duší. Had a orel pocítili toto jeho mlčení, ctili veliké ticho kol něho a opatrně se vzdálili.
+
+</section>

@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### O TARANTULÍCH.
 
 Hleď, to je sluj tarantule! Chceš viděti ji samotnu? Zde visí.její sít: dotkni se jí, by se zachvěla. 
@@ -88,6 +90,10 @@ Abych já však nevířil, přátelé moji, uvažte mne pevně k tomuto sloupu z
 
 Neníť Zarathustra větrem vířných kotoučů; a je-li tanečníkem, přec nikdy netančí tarantelu! –
 
-  
+</section>
+
+<section>
 
 Tak pravil Zarathustra.
+
+</section>

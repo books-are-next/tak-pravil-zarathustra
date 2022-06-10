@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### O PŘEMÁHÁNÍ SEBESAMA.
 
 „Vůle k pravdě“, tak jmenujete, vy nejmoudřejší, to, co vás
@@ -94,6 +96,10 @@ Mluvme jen o tom, vy nejmoudřejší, byť to i bolelo! Mlčeti bolí víc; vše
 
 A nechť se jen všechno rozbije, co se na našich pravdách rozbiti – dá! Ještě nejeden dum zbývá stavětí!
 
-  
+</section>
+
+<section>
 
 Tak pravil Zarathustra.
+
+</section>

@@ -2,11 +2,15 @@
 contentType: prose
 ---
 
+<section>
+
 ## ZARATHUSTROVY ŘEČI
 
 ### O TŘECH PROMĚNÁCH.
 
-  
+</section>
+
+<section>
 
 Tři proměny vám jmenuji ducha: jak duch se stává velbloudem, lvem velbloud a dítětem posléze lev. 
 
@@ -64,6 +68,10 @@ Věru, ke hře tvorby, bratří moji, je třeba posvátného Ano: svou vlastní 
 
 Tři proměny jsem vám jmenoval ducha: kterak duch se stal velbloudem, lvem velbloud a dítětem posléze lev. –
 
-  
+</section>
+
+<section>
 
 Tak pravil Zarathustra. A tehdy dlel v městě, jež sluje „pestrá kráva“.
+
+</section>

@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### PÍSEŇ ZÁDUMČIVÉHO STESKU
 
 1\. Promlouvaje těmito řečmi, stál Zarathustra poblíže vchodu 1 sluje; a za posledních slov uklouzl hostem a na krátkou chvíli unikl na čerstvý vzduch.
@@ -12,7 +14,9 @@ Rcete mi přece, má zvířata: tí vyšší lidé – snad že všichni dohroma
 
 \- A Zarathustra pravil znovu: „miluji vás, má zvířata!“ Orel však a had se k němu lísali, an děl tato slova, a vzhlíželi k němu. Tak byli ti tři tiše pohromadě a spolu srkali a ssáli dobrý vzduch. Neboť zde venku vzduch byl lepší než u vyšších lidí.
 
-  
+</section>
+
+<section>
 
 2\. Sotva však Zarathustra opustil svou sluj, zvedl se starý kouzelník, rozhlédl se lstivě a pravil: „Odešel!
 
@@ -34,11 +38,15 @@ Ale on mne již přepadá a kruší mne, ten duch zádumčivosti, ten ďábel ve
 
 Doznívá den, všem věcem – i nejlepším věcem – teď přichází večer; teď slyšte a vizte, vyšší vy lidé, jaký jest to ďábel, zda žena či muž, ten duch večerní zádumčivosti!“
 
-  
+</section>
+
+<section>
 
 Tak pravil starý kouzelník, lstivě se rozhlédl a sáhl pak po harfě.
 
-  
+</section>
+
+<section>
 
 3\. Když tichne vzduchu jas 
 
@@ -68,7 +76,9 @@ zlobné večerní pohledy slunce 
 
 o slepující ty žhoucí pohledy škodolibé?
 
-  
+</section>
+
+<section>
 
 Ty? Ženich Pravdy? – tak tě tupily –
 
@@ -108,7 +118,9 @@ bludně těká, vznáší se bludně, -
 
 jen blázen! jen básník!
 
-  
+</section>
+
+<section>
 
 To – ženich Pravdy?
 
@@ -146,7 +158,9 @@ s chvějícím se chřípím, 
 
 bys potutelně blažen a pekelně blažen a krvežíznivě blažen loupežně, plíživě, číhaje běhal: –
 
-  
+</section>
+
+<section>
 
 Či jako orli, již dlouho, 
 
@@ -180,7 +194,9 @@ jehněčím zrakem a jako ovce, proti všemu, co zčeřenou vlnu 
 
 a šedivě povolnou vůli jehňat a ovcí má!
 
-  
+</section>
+
+<section>
 
 Takové,
 
@@ -192,7 +208,9 @@ jsou tvoje touhy pod tisícem larv, 
 
 ty blázne! ty básníku!
 
-  
+</section>
+
+<section>
 
 Jenžs v člověku zřel 
 
@@ -204,7 +222,9 @@ v člověku rozsápat ovci 
 
 a při tom se smát –
 
-  
+</section>
+
+<section>
 
 Toť, toť tvoje blaženství! 
 
@@ -212,7 +232,9 @@ Pardala i orla blaženství! 
 
 Básníka i blázna blaženství!“
 
-  
+</section>
+
+<section>
 
 Když tichne vzduchu jas 
 
@@ -232,7 +254,9 @@ visuté trsy růží, až bledě 
 
 klesají do noci v hloub: –
 
-  
+</section>
+
+<section>
 
 tak sám jsem kdysi pad‘ 
 
@@ -259,3 +283,5 @@ pryč od vší pravdy, 
 jen blázen! 
 
 jen básník!
+
+</section>

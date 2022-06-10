@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### O PŘÍTELI.
 
 o jednoho je vždy více kolem mne“ – tak myslí poustevník. ‚Vždy jednou jeden – to konec konců jsou dva!“ 
@@ -58,6 +60,10 @@ Posud není žena schopna přátelství. Ale rcete mi, vy mužové, kdo z vás �
 
 Dnes lidé jsou kamarády: kéž by byli přáteli! – 
 
-  
+</section>
+
+<section>
 
 Tak pravil Zarathustra.
+
+</section>
