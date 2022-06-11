@@ -12,7 +12,7 @@ Mariánské nám. 1, 115 72 Praha 1
 </section>  
 <section>  
 </section>  
-1. vydání z 10. 6. 2022.
+1. vydání z 11. 6. 2022.
 
 ***
 
@@ -30,4 +30,4 @@ Vydání (obálka, grafická úprava), jehož autorem je Městská knihovna v Pr
 
 Citační záznam této e-knihy:
 
-NIETZSCHE, Friedrich. Tak pravil Zarathustra \[online\]. v MKP 1. vyd. Praha : Městská knihovna v Praze, 2011 \[cit. 10. 6. 2022]. Dostupné z: <next-book-url>
+NIETZSCHE, Friedrich. Tak pravil Zarathustra \[online\]. v MKP 1. vyd. Praha : Městská knihovna v Praze, 2011 \[cit. 11. 6. 2022]. Dostupné z: <next-book-url>

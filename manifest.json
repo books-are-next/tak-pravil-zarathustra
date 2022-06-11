@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "nitzsche-tak-pravil-zarathustra-ac9531c",
-  "revision": "ac9531c",
+  "identifier": "nitzsche-tak-pravil-zarathustra-0f80899",
+  "revision": "0f80899",
   "readingOrder": [
     "promo.html",
     "section0004.html",
@@ -100,8 +100,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Fri Jun 10 2022 17:56:55 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654883815236
+    "date": "Sat Jun 11 2022 12:12:09 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654949529820
   },
   "documents": [
     {
