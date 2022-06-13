@@ -24,6 +24,10 @@ A se slzami v oku ať vás poprosí o tanec! a já sám zazpívám píseň k jeh
 
 A toto jest píseň, kterou Zarathustra zpíval, když Kupido a dívky spolu tančili:
 
+</section>
+
+<section>
+
 Ve tvé oko jsem nedávno pohlédl, živote-ženo! A tu se mi zdálo, že v nezbadatelno klesám. 
 
 Tys mne však vylovila zlatou udicí; vysmála ses mi, když jsem tě nazval nezbadatelnou. 
@@ -73,6 +77,10 @@ Proč? K čemu? Čím? Kam? Kde? Jak? Zdaž není pošetilostí, být ještě na
 Ach, přátelé moji, to večer se tak ze mne ptá. Odpusťte mi můj smutek!
 
 Večer nastal: odpusťte mi, že nastal večer!“ 
+
+</section>
+
+<section>
 
 Tak pravil Zarathustra.
 

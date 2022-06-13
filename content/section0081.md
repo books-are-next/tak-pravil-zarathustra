@@ -68,6 +68,10 @@ Studených duší, mezků, slepců, opilců nejmenuji smělými. Smělé má srd
 
 Kdo propast vidí, ale orlíma očima, – kdo orlími spáry do propasti vnikne: ten má odvahu.
 
+</section>
+
+<section>
+
 5\. „Člověk je zlý“ – tak říkali k mé útěše všichni největší mudrci. Ach, je-li to dnes jen ještě pravda! Neboť zlo je v člověku silou nejlepší.
 
 „Člověk nechť se stane větším v dobru i zlu“ – tak učím já. Nejvyššího zla je třeba k nadčlověka nejvyššímu dobru.
@@ -91,6 +95,10 @@ Ne! Ne! Třikráte ne! Vždy více vás a vždy lepší lidé vašeho druhu nech
 Má mysl a má touha se připínají k málo věcem, k dlouhým a dalekým: co by mi bylo po vaší malé, mnohé, krátké bídě!
 
 Ještě mi netrpíte s dostatek! Neb trpíte sebou, netrpěli jste posud člověkem. Lhali byste, kdybyste tvrdili jinak! Z vás nikdo netrpí tím, čím trpěl jsem já!
+
+</section>
+
+<section>
 
 7\. Nestačí mi, aby blesk již neškodil. Nechci ho svádět k zemi:  nechť se naučí – pracovat v mých službách. –
 
