@@ -264,6 +264,10 @@ I na nejlepším je cosi, co působí hnus; a i nejlepší člověk je cosi, co 
 
 Ó moji bratří, je přemoudře zařízeno, že na světě je mnoho trusu! –
 
+</section>
+
+<section>
+
 15\. Takovýmito průpovědmi slyšel jsem nábožné záhrobníky promlouvati k svému svědomí, a věru, promlouvali bez šalby a špatnosti, – byt i na světě nebylo ničeho šalebnějšího ni špatnějšího.
 
 „Nech svět se starati o svět! Ni prstu proti němu nezvedej!“

@@ -2,17 +2,16 @@
 title: Tiráž
 ---
 
-<section>  
 Friedrich Nietzsche  
 Tak pravil Zarathustra  
-</section>  
-<section>  
 Vydala **Městská knihovna v Praze**  
 Mariánské nám. 1, 115 72 Praha 1  
-</section>  
-<section>  
-</section>  
-1. vydání z 11. 6. 2022.
+1. vydání z 13. 6. 2022.
+
+***
+
+Znění tohoto textu vychází z díla Tak pravil Zarathustra tak, jak bylo vydáno v nakladatelství Spolku výtvarných umělců Mánes v roce 1914 (Nietzsche, Friedrich. Tak pravil Zarathustra. Praha : Spolek výtvarných umělců Mánes, 1914. 359 s.).
+
 
 ***
 
@@ -24,10 +23,8 @@ Text díla (Friedrich Nietzsche: Tak pravil Zarathustra), publikovaného Městsk
 
 Vydání (obálka, grafická úprava), jehož autorem je Městská knihovna v Praze, podléhá licenci Creative Commons Uveďte autora-Nevyužívejte dílo komerčně-Zachovejte licenci 3.0 Česko (http://creativecommons.org/licenses/by-nc-sa/3.0/cz/).
 
-</section>
-
 ***
 
 Citační záznam této e-knihy:
 
-NIETZSCHE, Friedrich. Tak pravil Zarathustra \[online\]. v MKP 1. vyd. Praha : Městská knihovna v Praze, 2011 \[cit. 11. 6. 2022]. Dostupné z: <next-book-url>
+NIETZSCHE, Friedrich. Tak pravil Zarathustra \[online\]. v MKP 1. vyd. Praha : Městská knihovna v Praze, 2011 \[cit. 13. 6. 2022]. Dostupné z: <next-book-url>

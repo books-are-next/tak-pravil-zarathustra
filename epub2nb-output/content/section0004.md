@@ -8,6 +8,10 @@ contentType: prose
 
 # O NADČLOVĚKU A POSLEDNÍM ČLOVĚKU
 
+</section>
+
+<section>
+
 1\. Když bylo Zarathustrovi třicet let, opustil svou domovinu i jezero své domoviny a odešel do hor. Zde se kochal svým duchem a svou samotou a po deset let se jich nenabažil. Posléze však se proměnilo jeho srdce, – a jednoho jitra vstal se zořou, předstoupil před slunce a promluvil k němu, řka:
 
 „Ty veliká hvězdo! Čím bylo by tvé štěstí, kdybys neměla těch, kterým svítíš!
