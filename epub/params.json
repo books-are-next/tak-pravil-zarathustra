@@ -9,7 +9,8 @@
       "languageCode": "cs",
       "publisher": "Městská knihovna v Praze",
       "publisherShort": "mkp",
-      "edition": "beletrie"
+      "edition": "beletrie",
+      "contentType": "prose"
     },
     "elements": {
       "title": "",
@@ -1416,4 +1417,3 @@
     "generatedAt": 1636300982247
   }
 }
-
