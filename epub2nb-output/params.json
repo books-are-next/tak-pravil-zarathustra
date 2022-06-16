@@ -8,7 +8,8 @@
       "languageCode": "cs",
       "publisher": "Městská knihovna v Praze",
       "publisherShort": "mkp",
-      "edition": "beletrie"
+      "edition": "beletrie",
+      "contentType": "prose"
     },
     "elements": {
       "title": "",
@@ -1411,6 +1412,6 @@
       "user": "books-are-next",
       "repo": "tak-pravil-zarathustra"
     },
-    "generatedAt": 1655271791411
+    "generatedAt": 1655364357529
   }
 }

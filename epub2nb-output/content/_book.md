@@ -12,6 +12,7 @@ meta:
   publisher: Městská knihovna v Praze
   publisherShort: mkp
   edition: beletrie
+  contentType: prose
 readingOrder:
   - promo.html
   - section0004.html
