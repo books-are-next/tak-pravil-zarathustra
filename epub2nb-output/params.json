@@ -48,7 +48,7 @@
             "filename": "section0002.md",
             "xhtml": "Section0002.xhtml",
             "id": 1,
-            "role": "colophon",
+            "role": "about",
             "numberedChildren": false,
             "inToc": false,
             "children": []
@@ -57,7 +57,7 @@
             "filename": "section0003.md",
             "xhtml": "Section0003.xhtml",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "numberedChildren": false,
             "inToc": false,
             "children": []
@@ -831,7 +831,7 @@
             "filename": "section0089.md",
             "xhtml": "Section0089.xhtml",
             "id": 88,
-            "role": "colophon",
+            "role": "about",
             "numberedChildren": false,
             "inToc": false,
             "children": []
@@ -1412,6 +1412,6 @@
       "user": "books-are-next",
       "repo": "tak-pravil-zarathustra"
     },
-    "generatedAt": 1655979828265
+    "generatedAt": 1657182546524
   }
 }
