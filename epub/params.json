@@ -49,7 +49,7 @@
             "filename": "section0002.md",
             "xhtml": "Section0002.xhtml",
             "id": 1,
-            "role": "colophon",
+            "role": "about",
             "numberedChildren": false,
             "inToc": false,
             "children": []
@@ -58,7 +58,7 @@
             "filename": "section0003.md",
             "xhtml": "Section0003.xhtml",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "numberedChildren": false,
             "inToc": false,
             "children": []
@@ -832,7 +832,7 @@
             "filename": "section0089.md",
             "xhtml": "Section0089.xhtml",
             "id": 88,
-            "role": "colophon",
+            "role": "about",
             "numberedChildren": false,
             "inToc": false,
             "children": []
