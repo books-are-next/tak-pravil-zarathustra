@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "nitzsche-tak-pravil-zarathustra-1bf3d8e",
-  "revision": "1bf3d8e",
+  "identifier": "nitzsche-tak-pravil-zarathustra-bd80242",
+  "revision": "bd80242",
   "readingOrder": [
     "promo.html",
     "section0004.html",
@@ -100,8 +100,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 14:06:13 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665151573044
+    "date": "Mon Oct 10 2022 15:58:51 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665417531620
   },
   "documents": [
     {
@@ -1895,7 +1895,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 146,
-      "chars": 1142,
+      "chars": 1144,
       "ideas": 12,
       "role": "about",
       "order": null,
@@ -1915,7 +1915,7 @@
   "totals": {
     "all": {
       "words": 77879,
-      "chars": 443372,
+      "chars": 443374,
       "ideas": 3837
     },
     "chapters": {
